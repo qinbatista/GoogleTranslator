@@ -122,17 +122,10 @@ class GoogleTranslator:
     def txt_doc(self, _path):
         print("Translate txt Started:"+_path)
         new_content = []
-        with open(_path, 'w', encoding='utf-8') as f:
+        with open(_path, 'r', encoding='utf-8') as f:
             contents = f.readlines()
             for content in contents:
-                if content.find("lang=\"en\"")!=-1:#找到需要翻译的特征符合lang="en"
-                    target_content = content[content.find(">")+1:content.rfind("</")]
-                    translated_content = self.translate(target_content)
-                    new_content = content.replace(target_content,translated_content)
-                    new_content.append(new_content.replace("lang=\"en\"","lang=\"zh-cn\""))#添加中文特征符合
-                    new_content.append(content)
-                else:
-                    new_content.append(content)
+                new_content.append(content.replace(content,self.translate(content))+'\n')
         with open(_path+".txt", 'w', encoding='utf-8') as f:
             f.writelines(new_content)
 
@@ -141,11 +134,13 @@ class GoogleTranslator:
 if __name__ == '__main__':
     # main()
     parser = argparse.ArgumentParser()
-    parser.add_argument('-orgin', '--o'  , type = str, default = 'en', help = 'orginal text, 中文:zh-CN, 英语:en, 繁体中文台湾:zh_TW, 繁体中文香港:zh_HK, 繁体中文新加坡:zh_HK, 俄语:ru, 日语:ja, 德语:de, 法语:fr, 韩语:ko, 泰语:th, 意大利语言:it')
-    parser.add_argument('-target','--t'  , type = str, default = 'zh-CN',    help = 'target text,  中文:zh-CN, 英语:en, 繁体中文台湾:zh_TW, 繁体中文香港:zh_HK, 繁体中文新加坡:zh_HK, 俄语:ru, 日语:ja, 德语:de, 法语:fr, 韩语:ko, 泰语:th, 意大利语言:it')
+    parser.add_argument('-orgin', '--o'  , type = str, default = 'zh-CN', help = 'orginal text, 中文:zh-CN, 英语:en, 繁体中文台湾:zh_TW, 繁体中文香港:zh_HK, 繁体中文新加坡:zh_HK, 俄语:ru, 日语:ja, 德语:de, 法语:fr, 韩语:ko, 泰语:th, 意大利语言:it')
+    parser.add_argument('-target','--t'  , type = str, default = 'en',    help = 'target text,  中文:zh-CN, 英语:en, 繁体中文台湾:zh_TW, 繁体中文香港:zh_HK, 繁体中文新加坡:zh_HK, 俄语:ru, 日语:ja, 德语:de, 法语:fr, 韩语:ko, 泰语:th, 意大利语言:it')
     args = parser.parse_args()
-    gt = GoogleTranslator(oringal= args.o, target=args.t)
-    gt.xml_doc('./demo.xml')
-    gt.txt_doc()
-    # print(gt.translate("说"))
+    gt_en_to_zhCN = GoogleTranslator(oringal= 'en', target='zh-CN')
+    gt_en_to_zhCN.xml_doc('./demo_translate_files/demo.xml')
+
+    gt_znCN_to_en = GoogleTranslator(oringal= 'zh-CN', target='en')
+    gt_znCN_to_en.txt_doc('./demo_translate_files/demo.txt')
+
 
