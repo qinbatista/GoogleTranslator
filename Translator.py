@@ -129,8 +129,6 @@ class GoogleTranslator:
         with open(_path+".txt", 'w', encoding='utf-8') as f:
             f.writelines(new_content)
 
-
-
 if __name__ == '__main__':
     # main()
     parser = argparse.ArgumentParser()
