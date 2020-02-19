@@ -11,8 +11,8 @@ import argparse
 UA = UserAgent()
 
 
-class Google:
-    def __init__(self, timeout=30):
+class GoogleTranslator:
+    def __init__(self, timeout=30, oringal = '', target = ''):
         self.js = """
             // a:你要翻译的内容
             // uq:tkk值
@@ -78,35 +78,39 @@ class Google:
             'Host': 'translate.google.cn'
         }
         self.session = requests.Session()
+        self.oringal = oringal
+        self.target = target
 
     def register(self):
         res = self.session.get(url=self.url, headers=self.headers, timeout=self.timeout)
         content = res.content.decode(encoding='utf-8')
         self.tkk = re.search("tkk:'(.*?)'", content).groups()[0]
 
-    def build(self, hl, tl, key):
+    def build(self, key):
         self.tkk or self.register()
         tk = self.exec.call('vq', key, self.tkk)
         url = f'https://translate.google.cn/translate_a/single?' \
-                f'client=webapp&sl=auto&hl={hl}&tl={tl}&dt=at&dt=bd&dt=ex&' \
+                f'client=webapp&sl=auto&hl={self.oringal}&tl={self.target}&dt=at&dt=bd&dt=ex&' \
                 f'dt=ld&dt=md&dt=qca&dt=rw&dt=rm&dt=ss&dt=t&dt=gt&otf=1&' \
                 f'ssel=0&tsel=3&kc=1&q={key}{tk}'
         self.headers['User-Agent'] = UA.random
         return url
 
-    def translate(self, key, hl, tl):
+    def translate(self, key):
         """hl -> tl"""
-        url = self.build(hl, tl, key)
+        url = self.build(key)
         res = self.session.post(url=url, headers=self.headers, timeout=self.timeout)
         results = json.loads(res.content.decode(encoding='utf-8'))
         return results[0][0][0]
 
 
+
 if __name__ == '__main__':
     # main()
     parser = argparse.ArgumentParser()
-    parser.add_argument('-orgin', '--o'  ,       type = str, default = 'zh-CN', help = 'orginal text, 中文:zh-CN, 英语:en, 繁体中文台湾:zh_TW, 繁体中文香港:zh_HK, 繁体中文新加坡:zh_HK, 俄语:ru, 日语:ja, 德语:de, 法语:fr, 韩语:ko, 泰语:th, 意大利语言:it')
-    parser.add_argument('-destination', '--d'  , type = str, default = 'en',    help = 'translate text, 中文:zh-CN, 英语:en, 繁体中文台湾:zh_TW, 繁体中文香港:zh_HK, 繁体中文新加坡:zh_HK, 俄语:ru, 日语:ja, 德语:de, 法语:fr, 韩语:ko, 泰语:th, 意大利语言:it')
+    parser.add_argument('-orgin', '--o'  , type = str, default = 'zh-CN', help = 'orginal text, 中文:zh-CN, 英语:en, 繁体中文台湾:zh_TW, 繁体中文香港:zh_HK, 繁体中文新加坡:zh_HK, 俄语:ru, 日语:ja, 德语:de, 法语:fr, 韩语:ko, 泰语:th, 意大利语言:it')
+    parser.add_argument('-target','--t'  , type = str, default = 'en',    help = 'target text, 中文:zh-CN, 英语:en, 繁体中文台湾:zh_TW, 繁体中文香港:zh_HK, 繁体中文新加坡:zh_HK, 俄语:ru, 日语:ja, 德语:de, 法语:fr, 韩语:ko, 泰语:th, 意大利语言:it')
     args = parser.parse_args()
-    print(Google().translate("说",hl = args.o, tl = args.d))
+    gt = GoogleTranslator(oringal= args.o, target=args.t)
+    print(gt.translate("说"))
 
