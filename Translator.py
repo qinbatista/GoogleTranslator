@@ -94,7 +94,7 @@ class Google:
         self.headers['User-Agent'] = UA.random
         return url
 
-    def translate(self, key, hl='zh-CN', tl='en'):
+    def translate(self, key, hl, tl):
         """hl -> tl"""
         url = self.build(hl, tl, key)
         res = self.session.post(url=url, headers=self.headers, timeout=self.timeout)
@@ -105,9 +105,8 @@ class Google:
 if __name__ == '__main__':
     # main()
     parser = argparse.ArgumentParser()
-    parser.add_argument('-orgin', '--o'  ,       type = str, default = 'zh-CN', help = 'orginal text')
-    parser.add_argument('-destination', '--d'  , type = str, default = 'ja',    help = 'orginal text')
+    parser.add_argument('-orgin', '--o'  ,       type = str, default = 'zh-CN', help = 'orginal text, 中文:zh-CN, 英语:en, 繁体中文台湾:zh_TW, 繁体中文香港:zh_HK, 繁体中文新加坡:zh_HK, 俄语:ru, 日语:ja, 德语:de, 法语:fr, 韩语:ko, 泰语:th, 意大利语言:it')
+    parser.add_argument('-destination', '--d'  , type = str, default = 'en',    help = 'translate text, 中文:zh-CN, 英语:en, 繁体中文台湾:zh_TW, 繁体中文香港:zh_HK, 繁体中文新加坡:zh_HK, 俄语:ru, 日语:ja, 德语:de, 法语:fr, 韩语:ko, 泰语:th, 意大利语言:it')
     args = parser.parse_args()
-    print(args.o)
-    print(args.d)
-    print(Google().translate(input('请输入需要翻译的内容：') or '你没有输入内容'),args.o,args.d)
+    print(Google().translate("说",hl = args.o, tl = args.d))
+
