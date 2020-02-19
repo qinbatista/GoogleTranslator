@@ -145,7 +145,7 @@ if __name__ == '__main__':
     parser.add_argument('-target','--t'  , type = str, default = 'zh-CN',    help = 'target text,  中文:zh-CN, 英语:en, 繁体中文台湾:zh_TW, 繁体中文香港:zh_HK, 繁体中文新加坡:zh_HK, 俄语:ru, 日语:ja, 德语:de, 法语:fr, 韩语:ko, 泰语:th, 意大利语言:it')
     args = parser.parse_args()
     gt = GoogleTranslator(oringal= args.o, target=args.t)
-    gt.xml_doc('/Users/batista/MyProject/magicwandaitranslater/ConsumableLanguage.xml')
-    # gt.txt_doc()
+    gt.xml_doc('./demo.xml')
+    gt.txt_doc()
     # print(gt.translate("说"))
 
