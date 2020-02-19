@@ -137,10 +137,14 @@ if __name__ == '__main__':
     parser.add_argument('-orgin', '--o'  , type = str, default = 'zh-CN', help = 'orginal text, 中文:zh-CN, 英语:en, 繁体中文台湾:zh_TW, 繁体中文香港:zh_HK, 繁体中文新加坡:zh_HK, 俄语:ru, 日语:ja, 德语:de, 法语:fr, 韩语:ko, 泰语:th, 意大利语言:it')
     parser.add_argument('-target','--t'  , type = str, default = 'en',    help = 'target text,  中文:zh-CN, 英语:en, 繁体中文台湾:zh_TW, 繁体中文香港:zh_HK, 繁体中文新加坡:zh_HK, 俄语:ru, 日语:ja, 德语:de, 法语:fr, 韩语:ko, 泰语:th, 意大利语言:it')
     args = parser.parse_args()
-    gt_en_to_zhCN = GoogleTranslator(oringal= 'en', target='zh-CN')
-    gt_en_to_zhCN.xml_doc('./demo_translate_files/demo.xml')
 
-    gt_znCN_to_en = GoogleTranslator(oringal= 'zh-CN', target='en')
-    gt_znCN_to_en.txt_doc('./demo_translate_files/demo.txt')
+    gt = GoogleTranslator(oringal= args.o, target=args.t)
+    print(gt.translate('我'))
+
+    # gt_en_to_zhCN = GoogleTranslator(oringal= 'en', target='zh-CN')
+    # gt_en_to_zhCN.xml_doc('./demo_translate_files/demo.xml')
+
+    # gt_znCN_to_en = GoogleTranslator(oringal= 'zh-CN', target='en')
+    # gt_znCN_to_en.txt_doc('./demo_translate_files/demo.txt')
 
 
