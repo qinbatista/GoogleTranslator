@@ -1,0 +1,2057 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+    <ref link="consumable_type_1_name">
+        <string lang="en">Key</string>
+        <string lang="fr">Clé</string>
+        <string lang="it">Chiave</string>
+        <string lang="de">Schlüssel</string>
+        <string lang="es">Llave</string>
+        <string lang="pt">Chave</string>
+    </ref>
+    <ref link="consumable_type_2_name">
+        <string lang="en">Healing Potion</string>
+        <string lang="fr">Potion de soin</string>
+        <string lang="it">Pozione curativa</string>
+        <string lang="de">Heiltrank</string>
+        <string lang="es">Poción sanadora</string>
+        <string lang="pt">Poção de Cura</string>
+    </ref>
+    <ref link="consumable_type_3_name">
+        <string lang="en">Revive Potion</string>
+        <string lang="fr">Potion de réanimation</string>
+        <string lang="it">Pozione rigenerante</string>
+        <string lang="de">Wiederbelebungstrank</string>
+        <string lang="es">Poción de resurrección</string>
+        <string lang="pt">Poção de Reanimar</string>
+    </ref>
+    <ref link="consumable_type_4_name">
+        <string lang="en">Loot</string>
+        <string lang="fr">Butin</string>
+        <string lang="it">Bottino</string>
+        <string lang="de">Beute</string>
+        <string lang="es">Botín</string>
+        <string lang="pt">Saque</string>
+    </ref>
+    <ref link="consumable_type_5_name">
+        <string lang="en">Modifiers</string>
+        <string lang="fr">Modificateurs</string>
+        <string lang="it">Modificatori</string>
+        <string lang="de">Modifikatoren</string>
+        <string lang="es">Modificadores</string>
+        <string lang="pt">Modificadores</string>
+    </ref>
+    <ref link="consumable_type_6_name">
+        <string lang="en">Skin Color</string>
+        <string lang="fr">Couleur de peau</string>
+        <string lang="it">Colore della pelle</string>
+        <string lang="de">Hautfarbe</string>
+        <string lang="es">Color de piel</string>
+        <string lang="pt">Tom de pele</string>
+    </ref>
+    <ref link="consumable_type_7_name">
+        <string lang="en">Stat Reset</string>
+        <string lang="fr">Réinitialisation des stats</string>
+        <string lang="it">Reset statistiche</string>
+        <string lang="de">Werte zurücksetzen</string>
+        <string lang="es">Restablecimiento de estadísticas</string>
+        <string lang="pt">Redefinir atributos</string>
+    </ref>
+    <ref link="consumable_1_name">
+        <string lang="en">Skeleton Key</string>
+        <string lang="fr">Clé de Squelette</string>
+        <string lang="it">Passepartout</string>
+        <string lang="de">Dietrich</string>
+        <string lang="es">Llave maestra</string>
+        <string lang="pt">Chave Esquelética</string>
+    </ref>
+    <ref link="consumable_1_desc">
+        <string lang="en">Opens locked treasure chests</string>
+        <string lang="fr">Ouvre les coffres aux trésors verrouillés</string>
+        <string lang="it">Apre i forzieri del tesoro chiusi</string>
+        <string lang="de">Öffnet verschlossene Schatztruhen.</string>
+        <string lang="es">Abre cofres de tesoro cerrados</string>
+        <string lang="pt">Abre baús de tesouro trancados</string>
+    </ref>
+    <ref link="consumable_2_name">
+        <string lang="en">Minor Healing Potion</string>
+        <string lang="fr">Potion de soin mineure</string>
+        <string lang="it">Pozione curativa minore</string>
+        <string lang="de">Kleiner Heiltrank</string>
+        <string lang="es">Poción sanadora menor</string>
+        <string lang="pt">Poção de Cura Pequena</string>
+    </ref>
+    <ref link="consumable_2_desc">
+        <string lang="en">Restores ^40^% Health</string>
+        <string lang="fr">Rétablit ^40^% de la santé</string>
+        <string lang="it">Ripristina il ^40^% di salute</string>
+        <string lang="de">Stellt ^40^% Gesundheit wieder her.</string>
+        <string lang="es">Restablece un ^40^% de salud.</string>
+        <string lang="pt">Recupera ^40^% de Vida</string>
+    </ref>
+    <ref link="consumable_3_name">
+        <string lang="en">Average Healing Potion</string>
+        <string lang="fr">Potion de soin intermédiaire</string>
+        <string lang="it">Pozione curativa media</string>
+        <string lang="de">Durchschnittlicher Heiltrank</string>
+        <string lang="es">Poción sanadora intermedia</string>
+        <string lang="pt">Poção de Cura Média</string>
+    </ref>
+    <ref link="consumable_3_desc">
+        <string lang="en">Restores ^60^% Health</string>
+        <string lang="fr">Rétablit ^60^% de la santé</string>
+        <string lang="it">Ripristina il ^60^% di salute</string>
+        <string lang="de">Stellt ^60^% Gesundheit wieder her.</string>
+        <string lang="es">Restablece un ^60^% de salud.</string>
+        <string lang="pt">Recupera ^60^% de Vida</string>
+    </ref>
+    <ref link="consumable_4_name">
+        <string lang="en">Major Healing Potion</string>
+        <string lang="fr">Potion de soin majeure</string>
+        <string lang="it">Grande pozione curativa</string>
+        <string lang="de">Großer Heiltrank</string>
+        <string lang="es">Poción sanadora mayor</string>
+        <string lang="pt">Poção de Cura Grande</string>
+    </ref>
+    <ref link="consumable_4_desc">
+        <string lang="en">Restores ^100^% Health</string>
+        <string lang="fr">Rétablit ^100^% de la santé</string>
+        <string lang="it">Ripristina il ^100^% di salute</string>
+        <string lang="de">Stellt ^100^% Gesundheit wieder her.</string>
+        <string lang="es">Restablece un ^100^% de salud.</string>
+        <string lang="pt">Recupera ^100^% de Vida</string>
+    </ref>
+    <ref link="consumable_5_name">
+        <string lang="en">Minor Revive Potion</string>
+        <string lang="fr">Potion de réanimation mineure</string>
+        <string lang="it">Pozione rigenerante minore</string>
+        <string lang="de">Kleiner Wiederbelebungstrank</string>
+        <string lang="es">Poción de resurrección menor</string>
+        <string lang="pt">Poção de Reanimar Pequena</string>
+    </ref>
+    <ref link="consumable_5_desc">
+        <string lang="en">Revives and Restores ^40^% Health</string>
+        <string lang="fr">Réanime et rétablit ^40^% de la santé</string>
+        <string lang="it">Rianima e ripristina il ^40^% di salute</string>
+        <string lang="de">Belebt wieder und stellt ^40^% Gesundheit wieder her.</string>
+        <string lang="es">Revive y restablece un ^40^% de salud.</string>
+        <string lang="pt">Reanima e Recupera ^40^% de Vida</string>
+    </ref>
+    <ref link="consumable_6_name">
+        <string lang="en">Average Revive Potion</string>
+        <string lang="fr">Potion de réanimation intermédiaire</string>
+        <string lang="it">Pozione rigenerante media</string>
+        <string lang="de">Durchschnittlicher Wiederbelebungstrank</string>
+        <string lang="es">Poción de resurrección intermedia</string>
+        <string lang="pt">Poção de Reanimar Média</string>
+    </ref>
+    <ref link="consumable_6_desc">
+        <string lang="en">Revives and Restores ^60^% Health</string>
+        <string lang="fr">Réanime et rétablit ^60^% de la santé</string>
+        <string lang="it">Rianima e ripristina il ^60^% di salute</string>
+        <string lang="de">Belebt wieder und stellt ^60^% Gesundheit wieder her.</string>
+        <string lang="es">Revive y restablece un ^60^% de salud.</string>
+        <string lang="pt">Reanima e Recupera ^60^% de Vida</string>
+    </ref>
+    <ref link="consumable_7_name">
+        <string lang="en">Major Revive Potion</string>
+        <string lang="fr">Potion de réanimation majeure</string>
+        <string lang="it">Grande pozione rigenerante</string>
+        <string lang="de">Großer Wiederbelebungstrank</string>
+        <string lang="es">Poción de resurrección mayor</string>
+        <string lang="pt">Poção de Reanimar Grande</string>
+    </ref>
+    <ref link="consumable_7_desc">
+        <string lang="en">Revives and Restores ^100^% Health</string>
+        <string lang="fr">Réanime et rétablit ^100^% de la santé</string>
+        <string lang="it">Rianima e ripristina il ^100^% di salute</string>
+        <string lang="de">Belebt wieder und stellt ^100^% Gesundheit wieder her.</string>
+        <string lang="es">Revive y restablece un ^100^% de salud.</string>
+        <string lang="pt">Reanima e Recupera ^100^% de Vida</string>
+    </ref>
+    <ref link="consumable_8_name">
+        <string lang="en">Minor Energy Potion</string>
+        <string lang="fr">Potion énergisante mineure</string>
+        <string lang="it">Pozione di energia minore</string>
+        <string lang="de">Kleiner Energietrank</string>
+        <string lang="es">Poción de energía menor</string>
+        <string lang="pt">Poção de Energia Pequena</string>
+    </ref>
+    <ref link="consumable_8_desc">
+        <string lang="en">Increases your current Energy by ^30^</string>
+        <string lang="fr">Accroît ton énergie actuelle de ^30^</string>
+        <string lang="it">Aumenta la tua energia attuale di ^30^</string>
+        <string lang="de">Erhöht deine aktuelle Energie um ^30^.</string>
+        <string lang="es">Aumenta tu energía en ^30^ puntos.</string>
+        <string lang="pt">Aumenta sua Energia em ^30^</string>
+    </ref>
+    <ref link="consumable_9_name">
+        <string lang="en">Average Energy Potion</string>
+        <string lang="fr">Potion énergisante intermédiaire</string>
+        <string lang="it">Pozione di energia media</string>
+        <string lang="de">Durchschnittlicher Energietrank</string>
+        <string lang="es">Poción de energía intermedia</string>
+        <string lang="pt">Poção de Energia Média</string>
+    </ref>
+    <ref link="consumable_9_desc">
+        <string lang="en">Increases your current Energy by ^50^</string>
+        <string lang="fr">Accroît ton énergie actuelle de ^50^</string>
+        <string lang="it">Aumenta la tua energia attuale di ^50^</string>
+        <string lang="de">Erhöht deine aktuelle Energie um ^50^.</string>
+        <string lang="es">Aumenta tu energía en ^50^ puntos.</string>
+        <string lang="pt">Aumenta sua Energia em ^50^</string>
+    </ref>
+    <ref link="consumable_10_name">
+        <string lang="en">Major Energy Potion</string>
+        <string lang="fr">Potion énergisante majeure</string>
+        <string lang="it">Grande pozione di energia</string>
+        <string lang="de">Großer Energietrank</string>
+        <string lang="es">Poción de energía mayor</string>
+        <string lang="pt">Poção de Energia Grande</string>
+    </ref>
+    <ref link="consumable_10_desc">
+        <string lang="en">Increases your current Energy by ^80^</string>
+        <string lang="fr">Accroît ton énergie actuelle de ^80^</string>
+        <string lang="it">Aumenta la tua energia attuale di ^80^</string>
+        <string lang="de">Erhöht deine aktuelle Energie um ^80^.</string>
+        <string lang="es">Aumenta tu energía en ^80^ puntos.</string>
+        <string lang="pt">Aumenta sua Energia em ^80^</string>
+    </ref>
+    <ref link="consumable_11_name">
+        <string lang="en">Small Ticket Pouch</string>
+        <string lang="fr">Petite pochette de tickets</string>
+        <string lang="it">Bustina di biglietti</string>
+        <string lang="de">Kleine Tickettasche</string>
+        <string lang="es">Bolsa de boletos pequeña</string>
+        <string lang="pt">Bolsa de Tíquetes Pequena</string>
+    </ref>
+    <ref link="consumable_11_desc">
+        <string lang="en">Increases your current Tickets by ^3^</string>
+        <string lang="fr">Te confère ^3^ tickets supplémentaires</string>
+        <string lang="it">Aumenta i tuoi biglietti attuali di ^3^</string>
+        <string lang="de">Erhöht deine aktuellen Tickets um ^3^.</string>
+        <string lang="es">Aumenta tus boletos en ^3^ unidades.</string>
+        <string lang="pt">Receba ^3^ Tíquetes</string>
+    </ref>
+    <ref link="consumable_12_name">
+        <string lang="en">Average Ticket Pouch</string>
+        <string lang="fr">Pochette de tickets intermédiaire</string>
+        <string lang="it">Busta di biglietti</string>
+        <string lang="de">Durchschnittliche Tickettasche</string>
+        <string lang="es">Bolsa de boletos intermedia</string>
+        <string lang="pt">Bolsa de Tíquetes Média</string>
+    </ref>
+    <ref link="consumable_12_desc">
+        <string lang="en">Increases your current Tickets by ^5^</string>
+        <string lang="fr">Te confère ^5^ tickets supplémentaires</string>
+        <string lang="it">Aumenta i tuoi biglietti attuali di ^5^</string>
+        <string lang="de">Erhöht deine aktuellen Tickets um ^5^.</string>
+        <string lang="es">Aumenta tus boletos en ^5^ unidades.</string>
+        <string lang="pt">Receba ^5^ Tíquetes</string>
+    </ref>
+    <ref link="consumable_13_name">
+        <string lang="en">Major Ticket Pouch</string>
+        <string lang="fr">Pochette de tickets majeure</string>
+        <string lang="it">Grande busta di biglietti</string>
+        <string lang="de">Große Tickettasche</string>
+        <string lang="es">Bolsa de boletos grande</string>
+        <string lang="pt">Bolsa de Tíquetes Grande</string>
+    </ref>
+    <ref link="consumable_13_desc">
+        <string lang="en">Increases your current Tickets by ^8^</string>
+        <string lang="fr">Te confère ^8^ tickets supplémentaires</string>
+        <string lang="it">Aumenta i tuoi biglietti attuali di ^8^</string>
+        <string lang="de">Erhöht deine aktuellen Tickets um ^8^.</string>
+        <string lang="es">Aumenta tus boletos en ^8^ unidades.</string>
+        <string lang="pt">Receba ^8^ Tíquetes</string>
+    </ref>
+    <ref link="consumable_14_name">
+        <string lang="en">Minor Item Find Scroll</string>
+        <string lang="fr">Parchemin de découverte d'objets mineur</string>
+        <string lang="it">Pergamena trova-oggetti minore</string>
+        <string lang="de">Kleine Schriftrolle des Findens</string>
+        <string lang="es">Pergamino de búsqueda de objetos menor</string>
+        <string lang="pt">Pergaminho de Encontrar Itens Pequeno</string>
+    </ref>
+    <ref link="consumable_14_desc">
+        <string lang="en">Increases your chance to find powerful items from battles and treasures by ^25^% for ^24^ hours</string>
+        <string lang="fr">Accroît de ^25^% pendant ^24^ heures tes chances de découvrir de puissants objets lors des combats et dans les coffres aux trésors</string>
+        <string lang="it">Aumenta le chance di trovare oggetti potenti in battaglie e tesori del ^25^% per ^24^ ore</string>
+        <string lang="de">Erhöht deine Chance, in Schlachten und Schätzen mächtige Gegenstände zu finden, ^24^ Stunden lang um ^25^%.</string>
+        <string lang="es">Aumenta tus probabilidades de encontrar objetos poderosos en batallas y tesoros en un ^25^% durante ^24^ horas.</string>
+        <string lang="pt">Aumenta em ^25^% sua chance de encontrar itens poderosos em batalhas e tesouros, durante ^24^ horas</string>
+    </ref>
+    <ref link="consumable_15_name">
+        <string lang="en">Average Item Find Scroll</string>
+        <string lang="fr">Parchemin de découverte d'objets intermédiaire</string>
+        <string lang="it">Pergamena trova-oggetti media</string>
+        <string lang="de">Durchschnittliche Schriftrolle des Findens</string>
+        <string lang="es">Pergamino de búsqueda de objetos intermedio</string>
+        <string lang="pt">Pergaminho de Encontrar Itens Médio</string>
+    </ref>
+    <ref link="consumable_15_desc">
+        <string lang="en">Increases your chance to find powerful items from battles and treasures by ^50^% for ^24^ hours</string>
+        <string lang="fr">Accroît de ^50^% pendant ^24^ heures tes chances de découvrir de puissants objets lors des combats et dans les coffres aux trésors</string>
+        <string lang="it">Aumenta le chance di trovare oggetti potenti in battaglie e tesori del ^50^% per ^24^ ore</string>
+        <string lang="de">Erhöht deine Chance, in Schlachten und Schätzen mächtige Gegenstände zu finden, ^24^ Stunden lang um ^50^%.</string>
+        <string lang="es">Aumenta tus probabilidades de encontrar objetos poderosos en batallas y tesoros en un ^50^% durante ^24^ horas.</string>
+        <string lang="pt">Aumenta em ^50^% sua chance de encontrar itens poderosos em batalhas e tesouros, durante ^24^ horas</string>
+    </ref>
+    <ref link="consumable_16_name">
+        <string lang="en">Major Item Find Scroll</string>
+        <string lang="fr">Parchemin de découverte d'objets majeur</string>
+        <string lang="it">Grande pergamena trova-oggetti</string>
+        <string lang="de">Große Schriftrolle des Findens</string>
+        <string lang="es">Pergamino de búsqueda de objetos mayor</string>
+        <string lang="pt">Pergaminho de Encontrar Itens Grande</string>
+    </ref>
+    <ref link="consumable_16_desc">
+        <string lang="en">Increases your chance to find powerful items from battles and treasures by ^100^% for ^24^ hours</string>
+        <string lang="fr">Accroît de ^100^% pendant ^24^ heures tes chances de découvrir de puissants objets lors des combats et dans les coffres aux trésors</string>
+        <string lang="it">Aumenta le chance di trovare oggetti potenti in battaglie e tesori del ^100^% per ^24^ ore</string>
+        <string lang="de">Erhöht deine Chance, in Schlachten und Schätzen mächtige Gegenstände zu finden, ^24^ Stunden lang um ^100^%.</string>
+        <string lang="es">Aumenta tus probabilidades de encontrar objetos poderosos en batallas y tesoros en un ^100^% durante ^24^ horas.</string>
+        <string lang="pt">Aumenta em ^100^% sua chance de encontrar itens poderosos em batalhas e tesouros, durante ^24^ horas</string>
+    </ref>
+    <ref link="consumable_17_name">
+        <string lang="en">Minor Experience Tome</string>
+        <string lang="fr">Volume d'expérience mineur</string>
+        <string lang="it">Tomo di esperienza minore</string>
+        <string lang="de">Kleines Buch der Erfahrung</string>
+        <string lang="es">Tomo de experiencia menor</string>
+        <string lang="pt">Tomo de Experiência Pequeno</string>
+    </ref>
+    <ref link="consumable_17_desc">
+        <string lang="en">Increases your Experience gained from battles by ^25^% for ^24^ hours</string>
+        <string lang="fr">Accroît de ^25^% pendant ^24^ heures l'expérience que tu acquiers lors des combats</string>
+        <string lang="it">Aumenta l'esperienza che ottieni in battaglia del ^25^% per ^24^ ore</string>
+        <string lang="de">Erhöht die Erfahrung, die du in Schlachten sammelst, ^24^ Stunden lang um ^25^%.</string>
+        <string lang="es">Aumenta la experiencia que ganas en las batallas en un ^25^% durante ^24^ horas.</string>
+        <string lang="pt">Aumenta seu ganho de experiência em ^25^% durante ^24^ horas</string>
+    </ref>
+    <ref link="consumable_18_name">
+        <string lang="en">Average Experience Tome</string>
+        <string lang="fr">Volume d'expérience intermédiaire</string>
+        <string lang="it">Tomo di esperienza medio</string>
+        <string lang="de">Durchschnittliches Buch der Erfahrung</string>
+        <string lang="es">Tomo de experiencia intermedio</string>
+        <string lang="pt">Tomo de Experiência Médio</string>
+    </ref>
+    <ref link="consumable_18_desc">
+        <string lang="en">Increases your Experience gained from battles by ^50^% for ^24^ hours</string>
+        <string lang="fr">Accroît de ^50^% pendant ^24^ heures l'expérience que tu acquiers lors des combats</string>
+        <string lang="it">Aumenta l'esperienza che ottieni in battaglia del ^50^% per ^24^ ore</string>
+        <string lang="de">Erhöht die Erfahrung, die du in Schlachten sammelst, ^24^ Stunden lang um ^50^%.</string>
+        <string lang="es">Aumenta la experiencia que ganas en las batallas en un ^50^% durante ^24^ horas.</string>
+        <string lang="pt">Aumenta seu ganho de experiência em ^50^% durante ^24^ horas</string>
+    </ref>
+    <ref link="consumable_19_name">
+        <string lang="en">Major Experience Tome</string>
+        <string lang="fr">Volume d'expérience majeur</string>
+        <string lang="it">Grande tomo di esperienza</string>
+        <string lang="de">Großes Buch der Erfahrung</string>
+        <string lang="es">Tomo de experiencia mayor</string>
+        <string lang="pt">Tomo de Experiência Grande</string>
+    </ref>
+    <ref link="consumable_19_desc">
+        <string lang="en">Increases your Experience gained from battles by ^100^% for ^24^ hours</string>
+        <string lang="fr">Accroît de ^100^% pendant ^24^ heures l'expérience que tu acquiers lors des combats</string>
+        <string lang="it">Aumenta l'esperienza che ottieni in battaglia del ^100^% per ^24^ ore</string>
+        <string lang="de">Erhöht die Erfahrung, die du in Schlachten sammelst, ^24^ Stunden lang um ^100^%.</string>
+        <string lang="es">Aumenta la experiencia que ganas en las batallas en un ^100^% durante ^24^ horas.</string>
+        <string lang="pt">Aumenta seu ganho de experiência em ^100^% durante ^24^ horas</string>
+    </ref>
+    <ref link="consumable_20_name">
+        <string lang="en">Minor Gold Potion</string>
+        <string lang="fr">Potion d'or mineure</string>
+        <string lang="it">Pozione dell'oro minore</string>
+        <string lang="de">Kleiner Goldtrank</string>
+        <string lang="es">Poción de oro menor</string>
+        <string lang="pt">Poção de Ouro Pequena</string>
+    </ref>
+    <ref link="consumable_20_desc">
+        <string lang="en">Increases your Gold gained from battles and treasures by ^25^% for ^24^ hours</string>
+        <string lang="fr">Accroît de ^25^% pendant ^24^ heures l'or acquis via les combats et les coffres aux trésors</string>
+        <string lang="it">Aumenta l'oro guadagnato in battaglie e tesori del ^25^% per ^24^ ore</string>
+        <string lang="de">Erhöht das Gold, das du in Schlachten und aus Schätzen sammelst, ^24^ Stunden lang um ^25^%.</string>
+        <string lang="es">Aumenta el oro que ganas con las batallas y tesoros en un ^25^% durante ^24^ horas.</string>
+        <string lang="pt">Aumenta seu ganho de ouro em ^25^% durante ^24^ horas</string>
+    </ref>
+    <ref link="consumable_21_name">
+        <string lang="en">Average Gold Potion</string>
+        <string lang="fr">Potion d'or intermédiaire</string>
+        <string lang="it">Pozione dell'oro media</string>
+        <string lang="de">Durchschnittlicher Goldtrank</string>
+        <string lang="es">Poción de oro intermedia</string>
+        <string lang="pt">Poção de Ouro Média</string>
+    </ref>
+    <ref link="consumable_21_desc">
+        <string lang="en">Increases your Gold gained from battles and treasures by ^50^% for ^24^ hours</string>
+        <string lang="fr">Accroît de ^50^% pendant ^24^ heures l'or acquis via les combats et les coffres aux trésors</string>
+        <string lang="it">Aumenta l'oro guadagnato in battaglie e tesori del ^50^% per ^24^ ore</string>
+        <string lang="de">Erhöht das Gold, das du in Schlachten und aus Schätzen sammelst, ^24^ Stunden lang um ^50^%.</string>
+        <string lang="es">Aumenta el oro que ganas con las batallas y tesoros en un ^50^% durante ^24^ horas.</string>
+        <string lang="pt">Aumenta seu ganho de ouro em ^50^% durante ^24^ horas</string>
+    </ref>
+    <ref link="consumable_22_name">
+        <string lang="en">Major Gold Potion</string>
+        <string lang="fr">Potion d'or majeure</string>
+        <string lang="it">Grande pozione dell'oro</string>
+        <string lang="de">Großer Goldtrank</string>
+        <string lang="es">Poción de oro mayor</string>
+        <string lang="pt">Poção de Ouro Grande</string>
+    </ref>
+    <ref link="consumable_22_desc">
+        <string lang="en">Increases your Gold gained from battles and treasures by ^100^% for ^24^ hours</string>
+        <string lang="fr">Accroît de ^100^% pendant ^24^ heures l'or acquis via les combats et les coffres aux trésors</string>
+        <string lang="it">Aumenta l'oro guadagnato in battaglie e tesori del ^100^% per ^24^ ore</string>
+        <string lang="de">Erhöht das Gold, das du in Schlachten und aus Schätzen sammelst, ^24^ Stunden lang um ^100^%.</string>
+        <string lang="es">Aumenta el oro que ganas con las batallas y tesoros en un ^100^% durante ^24^ horas.</string>
+        <string lang="pt">Aumenta seu ganho de ouro em ^100^% durante ^24^ horas</string>
+    </ref>
+    <ref link="consumable_23_name">
+        <string lang="en">Minor Speed Kicks</string>
+        <string lang="fr">Coups de pieds rapides mineurs</string>
+        <string lang="it">Stivali rapidi minori</string>
+        <string lang="de">Kleiner Temposchub</string>
+        <string lang="es">Aceleración menor</string>
+        <string lang="pt">Pisantes da Velocidade Pequenos</string>
+    </ref>
+    <ref link="consumable_23_desc">
+        <string lang="en">Increases your movement speed in dungeons and towns by ^25^% for ^24^ hours</string>
+        <string lang="fr">Accroît de ^25^% pendant ^24^ heures ta vitesse de déplacement dans les villes et donjons</string>
+        <string lang="it">Aumenta la velocità di movimento in dungeon e città del ^25^% per ^24^ ore</string>
+        <string lang="de">Erhöht deine Bewegungsgeschwindigkeit in Verliesen und Städten ^24^ Stunden lang um ^25^%.</string>
+        <string lang="es">Aumenta tu velocidad de movimiento en mazmorras y ciudades en un ^25^% durante ^24^ horas.</string>
+        <string lang="pt">Aumenta em ^25^% sua velocidade nas masmorras e cidades, durante ^24^ horas</string>
+    </ref>
+    <ref link="consumable_24_name">
+        <string lang="en">Average Speed Kicks</string>
+        <string lang="fr">Coups de pieds rapides intermédiaires</string>
+        <string lang="it">Stivali rapidi medi</string>
+        <string lang="de">Durchschnittlicher Temposchub</string>
+        <string lang="es">Aceleración intermedia</string>
+        <string lang="pt">Pisantes da Velocidade Médios</string>
+    </ref>
+    <ref link="consumable_24_desc">
+        <string lang="en">Increases your movement speed in dungeons and towns by ^50^% for ^24^ hours</string>
+        <string lang="fr">Accroît de ^50^% pendant ^24^ heures ta vitesse de déplacement dans les villes et donjons</string>
+        <string lang="it">Aumenta la velocità di movimento in dungeon e città del ^50^% per ^24^ ore</string>
+        <string lang="de">Erhöht deine Bewegungsgeschwindigkeit in Verliesen und Städten ^24^ Stunden lang um ^50^%.</string>
+        <string lang="es">Aumenta tu velocidad de movimiento en mazmorras y ciudades en un ^50^% durante ^24^ horas.</string>
+        <string lang="pt">Aumenta em ^50^% sua velocidade nas masmorras e cidades, durante ^24^ horas</string>
+    </ref>
+    <ref link="consumable_25_name">
+        <string lang="en">Major Speed Kicks</string>
+        <string lang="fr">Coups de pieds rapides majeurs</string>
+        <string lang="it">Grandi stivali rapidi</string>
+        <string lang="de">Großer Temposchub</string>
+        <string lang="es">Aceleración mayor</string>
+        <string lang="pt">Pisantes da Velocidade Grandes</string>
+    </ref>
+    <ref link="consumable_25_desc">
+        <string lang="en">Increases your movement speed in dungeons and towns by ^100^% for ^24^ hours</string>
+        <string lang="fr">Accroît de ^100^% pendant ^24^ heures ta vitesse de déplacement dans les villes et donjons</string>
+        <string lang="it">Aumenta la velocità di movimento in dungeon e città del ^100^% per ^24^ ore</string>
+        <string lang="de">Erhöht deine Bewegungsgeschwindigkeit in Verliesen und Städten ^24^ Stunden lang um ^100^%.</string>
+        <string lang="es">Aumenta tu velocidad de movimiento en mazmorras y ciudades en un ^100^% durante ^24^ horas.</string>
+        <string lang="pt">Aumenta em ^100^% sua velocidade nas masmorras e cidades, durante ^24^ horas</string>
+    </ref>
+    <ref link="consumable_26_name">
+        <string lang="en">Small Equipment Chest</string>
+        <string lang="fr">Petit coffre d'équipement</string>
+        <string lang="it">Piccolo forziere dell'equipaggiamento</string>
+        <string lang="de">Kleine Ausrüstungskiste</string>
+        <string lang="es">Cofre de equipamiento pequeño</string>
+        <string lang="pt">Baú de Equipamentos Pequeno</string>
+    </ref>
+    <ref link="consumable_26_desc">
+        <string lang="en">Contains ^1^ random equipment piece from the zone you are currently in</string>
+        <string lang="fr">Contient ^1^ équipement aléatoire issu de la zone où tu te trouves</string>
+        <string lang="it">Contiene ^1^ oggetto di equipaggiamento casuale della zona in cui ti trovi</string>
+        <string lang="de">Enthält ^1^ zufälligen Ausrüstungsgegenstand aus der Zone, in der du dich gerade befindest.</string>
+        <string lang="es">Contiene ^1^ pieza de equipamiento al azar de la zona en la que te encuentras.</string>
+        <string lang="pt">Contém ^1^ peça de equipamento aleatória da zona onde você está no momento</string>
+    </ref>
+    <ref link="consumable_26_summary">
+        <string lang="en">Contains ^1^ of the items below</string>
+        <string lang="fr">Contient ^1^ des objets ci-dessous</string>
+        <string lang="it">Contiene ^1^ degli oggetti seguenti</string>
+        <string lang="de">Enthält ^1^ der untenstehenden Gegenstände.</string>
+        <string lang="es">Contiene ^1^ de los siguientes objetos</string>
+        <string lang="pt">Contém ^1^ dos itens abaixo</string>
+    </ref>
+    <ref link="consumable_27_name">
+        <string lang="en">Large Equipment Chest</string>
+        <string lang="fr">Grand coffre d'équipements</string>
+        <string lang="it">Grande forziere dell'equipaggiamento</string>
+        <string lang="de">Große Ausrüstungskiste</string>
+        <string lang="es">Cofre de equipamiento grande</string>
+        <string lang="pt">Baú de Equipamentos Grande</string>
+    </ref>
+    <ref link="consumable_27_desc">
+        <string lang="en">Contains ^5^ random equipment pieces from the zone you are currently in. Guaranteed at least ^1^ *rare* or better in each Chest!</string>
+        <string lang="fr">Contient ^5^ équipements aléatoires issus de la zone où tu te trouves. Présence garantie d'au moins ^1^ objet *rare* ou mieux dans chaque coffre !</string>
+        <string lang="it">Contiene ^5^ oggetti di equipaggiamento casuale della zona in cui ti trovi. Almeno ^1^ oggetto *rare* o migliore garantito in ciascun forziere!</string>
+        <string lang="de">Enthält ^5^ zufällige Ausrüstungsgegenstände aus der Zone, in der du dich gerade befindest. Garantiert mindestens ^1^ Gegenstand der Stufe *rare* oder höher in jeder Kiste!</string>
+        <string lang="es">Contiene ^5^ piezas de equipamiento al azar de la zona en la que te encuentras. ¡Te garantiza al menos ^1^ objeto *rare* o superior en cada cofre!</string>
+        <string lang="pt">Contém ^5^ peças de equipamento aleatórias da zona onde você está no momento. Garantimos pelo menos ^1^ peça *rare* ou melhor em cada baú!</string>
+    </ref>
+    <ref link="consumable_27_summary">
+        <string lang="en">Contains ^5^ of the items below!break!Guaranteed at least ^1^ *rare* or better!</string>
+        <string lang="fr">Contient ^5^ des objets ci-dessous!break!Présence garantie d'au moins ^1^ objet *rare* ou mieux !</string>
+        <string lang="it">Contiene ^5^ degli oggetti seguenti!break!Almeno ^1^ oggetto *rare* o migliore garantito!</string>
+        <string lang="de">Enthält ^5^ der untenstehenden Gegenstände.!break!Garantiert mindestens ^1^ Gegenstand der Stufe *rare* oder höher!</string>
+        <string lang="es">¡Contiene ^5^ de los objetos de abajo!break!¡Te garantiza al menos ^1^ objeto *rare* o superior!</string>
+        <string lang="pt">Contém ^5^ dos itens abaixo!break!Garantimos pelo menos ^1^ item *rare* ou melhor!</string>
+    </ref>
+    <ref link="consumable_28_name">
+        <string lang="en">Small Egg</string>
+        <string lang="fr">Petit œuf</string>
+        <string lang="it">Uovo piccolo</string>
+        <string lang="de">Kleines Ei</string>
+        <string lang="es">Huevo pequeño</string>
+        <string lang="pt">Ovo Pequeno</string>
+    </ref>
+    <ref link="consumable_28_desc">
+        <string lang="en">Contains ^1^ random Pet</string>
+        <string lang="fr">Contient ^1^ Animal domestique aléatoire</string>
+        <string lang="it">Contiene ^1^ mascotte casuale</string>
+        <string lang="de">Enthält ^1^ zufälligen Begleiter.</string>
+        <string lang="es">Contiene ^1^ mascota al azar.</string>
+        <string lang="pt">Contém ^1^ Mascote aleatório</string>
+    </ref>
+    <ref link="consumable_28_summary">
+        <string lang="en">Contains ^1^ of the Pets below</string>
+        <string lang="fr">Contient ^1^ des Animaux domestiques ci-dessous</string>
+        <string lang="it">Contiene ^1^ delle mascotte seguenti</string>
+        <string lang="de">Enthält ^1^ der untenstehenden Begleiter.</string>
+        <string lang="es">Contiene ^1^ de las mascotas siguientes</string>
+        <string lang="pt">Contém ^1^ dos Mascotes aleatórios</string>
+    </ref>
+    <ref link="consumable_29_name">
+        <string lang="en">Large Egg</string>
+        <string lang="fr">Grand œuf</string>
+        <string lang="it">Uovo grande</string>
+        <string lang="de">Großes Ei</string>
+        <string lang="es">Huevo grande</string>
+        <string lang="pt">Ovo Grande</string>
+    </ref>
+    <ref link="consumable_29_desc">
+        <string lang="en">Contains ^5^ random Pets. Guaranteed at least ^1^ *rare* or better in each Egg!</string>
+        <string lang="fr">Contient ^5^ Animaux domestiques aléatoires. Présence garantie d'au moins ^1^ animal *rare* ou mieux dans chaque œuf !</string>
+        <string lang="it">Contiene ^5^ mascotte casuali. Almeno ^1^ mascotte *rare* o migliore garantita in ciascun uovo!</string>
+        <string lang="de">Enthält ^5^ zufällige Begleiter. Garantiert mindestens ^1^ Begleiter der Stufe *rare* oder höher in jedem Ei!</string>
+        <string lang="es">Contiene ^5^ mascotas al azar. ¡Te garantiza al menos ^1^ *rare* o superior en cada huevo!</string>
+        <string lang="pt">Contém ^5^ Mascotes aleatórios. Garantimos pelo menos ^1^ mascote *rare* ou melhor em cada ovo!</string>
+    </ref>
+    <ref link="consumable_29_summary">
+        <string lang="en">Contains ^5^ of the Pets below!break!Guaranteed at least ^1^ *rare* or better!</string>
+        <string lang="fr">Contient ^5^ des Animaux domestiques ci-dessous!break!Présence garantie d'au moins ^1^ animal *rare* ou mieux !</string>
+        <string lang="it">Contiene ^5^ delle mascotte seguenti!break!Almeno ^1^ mascotte *rare* o migliore garantita!</string>
+        <string lang="de">Enthält ^5^ der untenstehenden Begleiter.!break!Garantiert mindestens ^1^ Begleiter der Stufe *rare* oder höher!</string>
+        <string lang="es">¡Contiene ^5^ de las mascotas de abajo!break!¡Te garantiza al menos ^1^ mascota *rare* o superior!</string>
+        <string lang="pt">Contém ^5^ dos Mascotes abaixo!break!Garantimos pelo menos ^1^ *rare* ou melhor!</string>
+    </ref>
+    <ref link="consumable_30_name">
+        <string lang="en">Small Box</string>
+        <string lang="fr">Petite boîte</string>
+        <string lang="it">Scatola piccola</string>
+        <string lang="de">Kleine Box</string>
+        <string lang="es">Caja pequeña</string>
+        <string lang="pt">Caixa Pequena</string>
+    </ref>
+    <ref link="consumable_30_desc">
+        <string lang="en">Contains ^1^ random Accessory</string>
+        <string lang="fr">Contient ^1^ Accessoire aléatoire</string>
+        <string lang="it">Contiene ^1^ accessorio casuale</string>
+        <string lang="de">Enthält ^1^ zufälliges Accessoire.</string>
+        <string lang="es">Contiene ^1^ accesorio al azar.</string>
+        <string lang="pt">Contém ^1^ Acessório aleatório</string>
+    </ref>
+    <ref link="consumable_30_summary">
+        <string lang="en">Contains ^1^ of the Accessories below</string>
+        <string lang="fr">Contient ^1^ des Accessoires ci-dessous</string>
+        <string lang="it">Contiene ^1^ degli accessori seguenti</string>
+        <string lang="de">Enthält ^1^ der untenstehenden Accessoires.</string>
+        <string lang="es">Contiene ^1^ de los siguientes accesorios</string>
+        <string lang="pt">Contém ^1^ dos Acessórios aleatórios</string>
+    </ref>
+    <ref link="consumable_31_name">
+        <string lang="en">Large Box</string>
+        <string lang="fr">Grande boîte</string>
+        <string lang="it">Scatola grande</string>
+        <string lang="de">Große Box</string>
+        <string lang="es">Caja grande</string>
+        <string lang="pt">Caixa Grande</string>
+    </ref>
+    <ref link="consumable_31_desc">
+        <string lang="en">Contains ^5^ random Accessories. Guaranteed at least ^1^ *rare* or better in each Box!</string>
+        <string lang="fr">Contient ^5^ Accessoires aléatoires. Présence garantie d'au moins ^1^ accessoire *rare* ou mieux dans chaque boîte !</string>
+        <string lang="it">Contiene ^5^ accessori casuali. Almeno ^1^ accessorio *rare* o migliore garantito in ciascuna scatola!</string>
+        <string lang="de">Enthält ^5^ zufällige Accessoires. Garantiert mindestens ^1^ Accessoire der Stufe *rare* oder höher in jeder Box!</string>
+        <string lang="es">Contiene ^5^ accesorios al azar. ¡Te garantiza al menos ^1^ accesorio *rare* o superior en cada caja!</string>
+        <string lang="pt">Contém ^5^ Acessórios aleatórios. Garantimos pelo menos ^1^ *rare* ou melhor em cada caixa!</string>
+    </ref>
+    <ref link="consumable_31_summary">
+        <string lang="en">Contains ^5^ of the Accessories below!break!Guaranteed at least ^1^ *rare* or better!</string>
+        <string lang="fr">Contient ^5^ des Accessoires ci-dessous!break!Présence garantie d'au moins ^1^ accessoire *rare* ou mieux !</string>
+        <string lang="it">Contiene ^5^ degli accessori seguenti!break!Almeno ^1^ accessorio *rare* o migliore garantito!</string>
+        <string lang="de">Enthält ^5^ der untenstehenden Accessoires.!break!Garantiert mindestens ^1^ Accessoire der Stufe *rare* oder höher!</string>
+        <string lang="es">¡Contiene ^5^ de los accesorios de abajo!break!¡Te garantiza al menos ^1^ accesorio *rare* o superior!</string>
+        <string lang="pt">Contém ^5^ dos Acessórios abaixo!break!Garantimos pelo menos ^1^ *rare* ou melhor!</string>
+    </ref>
+    <ref link="consumable_32_name">
+        <string lang="en">Legacy Small Offense Accessory Box</string>
+        <string lang="fr">Héritage Petite boîte d'Accessoires offensifs</string>
+        <string lang="it">Patrimonio Scatola piccola accessorio d'attacco</string>
+        <string lang="de">Erbe Kleine Angriffsaccessoire-Box</string>
+        <string lang="es">Legado Caja de accesorios de ataque pequeña</string>
+        <string lang="pt">Legado Caixa de Acessórios de Ataque Pequena</string>
+    </ref>
+    <ref link="consumable_33_name">
+        <string lang="en">Legacy Large Offense Accessory Box</string>
+        <string lang="fr">Héritage Grande boîte d'Accessoires offensifs</string>
+        <string lang="it">Patrimonio Scatola grande accessorio d'attacco</string>
+        <string lang="de">Erbe Große Angriffsaccessoire-Box</string>
+        <string lang="es">Legado Caja de accesorios de ataque grande</string>
+        <string lang="pt">LegadoCaixa de Acessórios de Ataque Grande</string>
+    </ref>
+    <ref link="consumable_34_name">
+        <string lang="en">Small Defense Pet Egg (Healing)</string>
+        <string lang="fr">Petit œuf d'Animal domestique défensif (Guérison)</string>
+        <string lang="it">Uovo piccolo mascotte di difesa (Guarigione)</string>
+        <string lang="de">Kleines Verteidigungsbegleiter-Ei (Heilung)</string>
+        <string lang="es">Huevo de mascota de defensa pequeño (Curación)</string>
+        <string lang="pt">Ovo de Mascote Defensivo Pequeno (Cura)</string>
+    </ref>
+    <ref link="consumable_35_name">
+        <string lang="en">Large Defense Pet Egg (Healing)</string>
+        <string lang="fr">Grand œuf d'Animal domestique défensif (Guérison)</string>
+        <string lang="it">Uovo grande mascotte di difesa (Guarigione)</string>
+        <string lang="de">Großes Verteidigungsbegleiter-Ei (Heilung)</string>
+        <string lang="es">Huevo de mascota de defensa grande (Curación)</string>
+        <string lang="pt">Ovo de Mascote Defensivo Grande (Cura)</string>
+    </ref>
+    <ref link="consumable_36_name">
+        <string lang="en">Reward Chest</string>
+        <string lang="fr">Coffre de récompenses</string>
+        <string lang="it">Forziere ricompensa</string>
+        <string lang="de">Belohnungskiste</string>
+        <string lang="es">Cofre de recompensas</string>
+        <string lang="pt">Baú de Prêmios</string>
+    </ref>
+    <ref link="consumable_36_desc">
+        <string lang="en">Contains ^1^ random *rare* equipment piece from the zone you are currently in</string>
+        <string lang="fr">Contient ^1^ équipement *rare* aléatoire issu de la zone où tu te trouves</string>
+        <string lang="it">Contiene ^1^ oggetto di equipaggiamento *rare* casuale della zona in cui ti trovi</string>
+        <string lang="de">Enthält ^1^ zufälligen Ausrüstungsgegenstand der Stufe *rare* aus der Zone, in der du dich gerade befindest.</string>
+        <string lang="es">Contiene ^1^ pieza de equipamiento *rare* al azar de la zona en la que te encuentras.</string>
+        <string lang="pt">Contém ^1^ peça de equipamento *rare* da zona onde você está no momento</string>
+    </ref>
+    <ref link="consumable_37_desc">
+        <string lang="en">Contains ^1^ random *epic* equipment piece from the zone you are currently in</string>
+        <string lang="fr">Contient ^1^ équipement *epic* aléatoire issu de la zone où tu te trouves</string>
+        <string lang="it">Contiene ^1^ oggetto di equipaggiamento *epic* casuale della zona in cui ti trovi</string>
+        <string lang="de">Enthält ^1^ zufälligen Ausrüstungsgegenstand der Stufe *epic* aus der Zone, in der du dich gerade befindest.</string>
+        <string lang="es">Contiene ^1^ pieza de equipamiento *epic* al azar de la zona en la que te encuentras.</string>
+        <string lang="pt">Contém ^1^ peça de equipamento *epic* da zona onde você está no momento</string>
+    </ref>
+    <ref link="consumable_38_name">
+        <string lang="en">Accessory Reward Chest</string>
+        <string lang="fr">Coffre de récompenses contenant un Accessoire</string>
+        <string lang="it">Forziere ricompensa accessorio</string>
+        <string lang="de">Accessoire-Belohnungskiste</string>
+        <string lang="es">Cofre de recompensas de accesorios</string>
+        <string lang="pt">Baú de Prêmios: Acessórios</string>
+    </ref>
+    <ref link="consumable_38_desc">
+        <string lang="en">Contains ^1^ random *common* Accessory</string>
+        <string lang="fr">Contient ^1^ Accessoire *common* aléatoire</string>
+        <string lang="it">Contiene ^1^ accessorio casuale *common*</string>
+        <string lang="de">Enthält ^1^ zufälliges Accessoire der Stufe *common*.</string>
+        <string lang="es">Contiene ^1^ accesorio *common* al azar.</string>
+        <string lang="pt">Contém ^1^ Acessório *common* aleatório</string>
+    </ref>
+    <ref link="consumable_39_desc">
+        <string lang="en">Contains ^1^ random *rare* Accessory</string>
+        <string lang="fr">Contient ^1^ Accessoire *rare* aléatoire</string>
+        <string lang="it">Contiene ^1^ accessorio casuale *rare*</string>
+        <string lang="de">Enthält ^1^ zufälliges Accessoire der Stufe *rare*.</string>
+        <string lang="es">Contiene ^1^ accesorio *rare* al azar.</string>
+        <string lang="pt">Contém ^1^ Acessório *rare* aleatório</string>
+    </ref>
+    <ref link="consumable_40_desc">
+        <string lang="en">Contains ^1^ random *epic* Accessory</string>
+        <string lang="fr">Contient ^1^ Accessoire *epic* aléatoire</string>
+        <string lang="it">Contiene ^1^ accessorio casuale *epic*</string>
+        <string lang="de">Enthält ^1^ zufälliges Accessoire der Stufe *epic*.</string>
+        <string lang="es">Contiene ^1^ accesorio *epic* al azar.</string>
+        <string lang="pt">Contém ^1^ Acessório *epic* aleatório</string>
+    </ref>
+    <ref link="consumable_41_desc">
+        <string lang="en">Contains ^1^ random *legendary* Accessory</string>
+        <string lang="fr">Contient ^1^ Accessoire *legendary* aléatoire</string>
+        <string lang="it">Contiene ^1^ accessorio casuale *legendary*</string>
+        <string lang="de">Enthält ^1^ zufälliges Accessoire der Stufe *legendary*.</string>
+        <string lang="es">Contiene ^1^ accesorio *legendary* al azar.</string>
+        <string lang="pt">Contém ^1^ Acessório *legendary* aleatório</string>
+    </ref>
+    <ref link="consumable_42_name">
+        <string lang="en">Orc Potion</string>
+        <string lang="fr">Potion d'Orc</string>
+        <string lang="it">Pozione orco</string>
+        <string lang="de">Ork-Trank</string>
+        <string lang="es">Poción de orcos</string>
+        <string lang="pt">Poção de Orc</string>
+    </ref>
+    <ref link="consumable_42_desc">
+        <string lang="en">Changes your skin tone to a green Orc color. Using this potion a second time will reverse the effects. This potion has infinite uses.</string>
+        <string lang="fr">Change la couleur de ta peau en vert, comme celle d'un Orc. La deuxième utilisation de cette potion inversera ses effets. Elle peut être utilisée à l'infini.</string>
+        <string lang="it">Cambia il colore della tua pelle in verde orco. Usa di nuovo la pozione per invertire gli effetti. Puoi usare la pozione infinite volte.</string>
+        <string lang="de">Ändert deine Hautfarbe in eine grüne Ork-Farbe. Wenn du diesen Trank ein zweites Mal zu dir nimmst, wird die Wirkung aufgehoben. Du kannst diesen Trank unendlich oft zu dir nehmen.</string>
+        <string lang="es">Cambia tu tono de piel a un color verde orco. Si utilizas esta poción por segunda vez, se invertirá el efecto. Esta poción tiene usos infinitos.</string>
+        <string lang="pt">Altera a cor da sua pele para uma tonalidade verde-orc. Use a poção novamente para reverter os efeitos. Esta poção é infinita.</string>
+    </ref>
+    <ref link="consumable_43_name">
+        <string lang="en">Alien Potion</string>
+        <string lang="fr">Potion d'Alien</string>
+        <string lang="it">Pozione alieno</string>
+        <string lang="de">Alien-Trank</string>
+        <string lang="es">Poción alienígena</string>
+        <string lang="pt">Poção de Alienígena</string>
+    </ref>
+    <ref link="consumable_43_desc">
+        <string lang="en">Changes your skin tone to a blue Alien color. Using this potion a second time will reverse the effects. This potion has infinite uses.</string>
+        <string lang="fr">Change la couleur de ta peau en bleu, comme celle d'un Alien. La deuxième utilisation de cette potion inversera ses effets. Elle peut être utilisée à l'infini.</string>
+        <string lang="it">Cambia il colore della tua pelle in blu alieno. Usa di nuovo la pozione per invertire gli effetti. Puoi usare la pozione infinite volte.</string>
+        <string lang="de">Ändert deine Hautfarbe in eine blaue Alien-Farbe. Wenn du diesen Trank ein zweites Mal zu dir nimmst, wird die Wirkung aufgehoben. Du kannst diesen Trank unendlich oft zu dir nehmen.</string>
+        <string lang="es">Cambia tu tono de piel a un color azul alienígena. Si utilizas esta poción por segunda vez, se invertirá el efecto. Esta poción tiene usos infinitos.</string>
+        <string lang="pt">Altera a cor da sua pele para uma tonalidade azul-alienígena. Use a poção novamente para reverter os efeitos. Esta poção é infinita.</string>
+    </ref>
+    <ref link="consumable_44_name">
+        <string lang="en">Tiger Potion</string>
+        <string lang="fr">Potion de Tigre</string>
+        <string lang="it">Pozione tigre</string>
+        <string lang="de">Tiger-Trank</string>
+        <string lang="es">Poción de tigre</string>
+        <string lang="pt">Poção de Tigre</string>
+    </ref>
+    <ref link="consumable_44_desc">
+        <string lang="en">Changes your skin tone to an orange Tiger color. Using this potion a second time will reverse the effects. This potion has infinite uses.</string>
+        <string lang="fr">Change la couleur de ta peau en orange, comme celle d'un Tigre. La deuxième utilisation de cette potion inversera ses effets. Elle peut être utilisée à l'infini.</string>
+        <string lang="it">Cambia il colore della tua pelle in arancione tigre. Usa di nuovo la pozione per invertire gli effetti. Puoi usare la pozione infinite volte.</string>
+        <string lang="de">Ändert deine Hautfarbe in eine orange Tiger-Farbe. Wenn du diesen Trank ein zweites Mal zu dir nimmst, wird die Wirkung aufgehoben. Du kannst diesen Trank unendlich oft zu dir nehmen.</string>
+        <string lang="es">Cambia tu tono de piel a un color naranja tigre. Si utilizas esta poción por segunda vez, se invertirá el efecto. Esta poción tiene usos infinitos.</string>
+        <string lang="pt">Altera a cor da sua pele para uma tonalidade laranja-tigre. Use a poção novamente para reverter os efeitos. Esta poção é infinita.</string>
+    </ref>
+    <ref link="consumable_45_name">
+        <string lang="en">Minor Rune</string>
+        <string lang="fr">Rune mineure</string>
+        <string lang="it">Runa minore</string>
+        <string lang="de">Kleine Rune</string>
+        <string lang="es">Runa menor</string>
+        <string lang="pt">Runa Menor</string>
+    </ref>
+    <ref link="consumable_45_desc">
+        <string lang="en">Creates ^1^ random *common* Minor Rune</string>
+        <string lang="fr">Crée ^1^ Rune mineure *common* aléatoire</string>
+        <string lang="it">Crea ^1^ runa minore *common* casuale</string>
+        <string lang="de">Lässt ^1^ zufällige Kleine Rune der Stufe *common* entstehen.</string>
+        <string lang="es">Crea una ^1^ runa menor *common* al azar.</string>
+        <string lang="pt">Contém ^1^ Runa Menor *common* aleatória</string>
+    </ref>
+    <ref link="consumable_45_summary">
+        <string lang="en">Creates ^1^ of the Runes below</string>
+        <string lang="fr">Crée ^1^ des Runes ci-dessous</string>
+        <string lang="it">Crea ^1^ delle rune seguenti</string>
+        <string lang="de">Lässt ^1^ der untenstehenden Runen entstehen.</string>
+        <string lang="es">Crea ^1^ de las siguientes runas</string>
+        <string lang="pt">Cria ^1^ das Runas abaixo</string>
+    </ref>
+    <ref link="consumable_46_name">
+        <string lang="en">Major Rune</string>
+        <string lang="fr">Rune majeure</string>
+        <string lang="it">Runa maggiore</string>
+        <string lang="de">Große Rune</string>
+        <string lang="es">Runa mayor</string>
+        <string lang="pt">Runa Maior</string>
+    </ref>
+    <ref link="consumable_46_desc">
+        <string lang="en">Creates ^1^ random *common* Major Rune</string>
+        <string lang="fr">Crée ^1^ Rune majeure *common* aléatoire</string>
+        <string lang="it">Crea ^1^ runa maggiore *common* casuale</string>
+        <string lang="de">Lässt ^1^ zufällige Große Rune der Stufe *common* entstehen.</string>
+        <string lang="es">Crea una ^1^ runa mayor *common* al azar.</string>
+        <string lang="pt">Contém ^1^ Runa Maior *common* aleatória</string>
+    </ref>
+    <ref link="consumable_47_name">
+        <string lang="en">Meta Rune</string>
+        <string lang="fr">Méta-rune</string>
+        <string lang="it">Meta-runa</string>
+        <string lang="de">Meta-Rune</string>
+        <string lang="es">Metarruna</string>
+        <string lang="pt">Metarruna</string>
+    </ref>
+    <ref link="consumable_47_desc">
+        <string lang="en">Creates ^1^ random *common* Meta Rune</string>
+        <string lang="fr">Crée ^1^ Méta-rune *common* aléatoire</string>
+        <string lang="it">Crea ^1^ meta-runa *common* casuale</string>
+        <string lang="de">Lässt ^1^ zufällige Meta-Rune der Stufe *common* entstehen.</string>
+        <string lang="es">Crea una ^1^ metarruna *common* al azar.</string>
+        <string lang="pt">Cria ^1^ Metarruna *common* aleatória</string>
+    </ref>
+    <ref link="consumable_48_desc">
+        <string lang="en">Creates ^1^ random *rare* Minor Rune</string>
+        <string lang="fr">Crée ^1^ Rune mineure *rare* aléatoire</string>
+        <string lang="it">Crea ^1^ runa minore *rare* casuale</string>
+        <string lang="de">Lässt ^1^ zufällige Kleine Rune der Stufe *rare* entstehen.</string>
+        <string lang="es">Crea una ^1^ runa menor *rare* al azar.</string>
+        <string lang="pt">Cria ^1^ Runa Menor *rare* aleatória</string>
+    </ref>
+    <ref link="consumable_49_desc">
+        <string lang="en">Creates ^1^ random *rare* Major Rune</string>
+        <string lang="fr">Crée ^1^ Rune majeure *rare* aléatoire</string>
+        <string lang="it">Crea ^1^ runa maggiore *rare* casuale</string>
+        <string lang="de">Lässt ^1^ zufällige Große Rune der Stufe *rare* entstehen.</string>
+        <string lang="es">Crea una ^1^ runa mayor *rare* al azar.</string>
+        <string lang="pt">Cria ^1^ Runa Maior *rare* aleatória</string>
+    </ref>
+    <ref link="consumable_50_desc">
+        <string lang="en">Creates ^1^ random *rare* Meta Rune</string>
+        <string lang="fr">Crée ^1^ Méta-rune *rare* aléatoire</string>
+        <string lang="it">Crea ^1^ meta-runa *rare* casuale</string>
+        <string lang="de">Lässt ^1^ zufällige Meta-Rune der Stufe *rare* entstehen.</string>
+        <string lang="es">Crea una ^1^ metarruna *rare* al azar.</string>
+        <string lang="pt">Cria ^1^ Metarruna *rare* aleatória</string>
+    </ref>
+    <ref link="consumable_51_desc">
+        <string lang="en">Creates ^1^ random *epic* Minor Rune</string>
+        <string lang="fr">Crée ^1^ Rune mineure *epic* aléatoire</string>
+        <string lang="it">Crea ^1^ runa minore *epic* casuale</string>
+        <string lang="de">Lässt ^1^ zufällige Kleine Rune der Stufe *epic* entstehen.</string>
+        <string lang="es">Crea una ^1^ runa menor *epic* al azar.</string>
+        <string lang="pt">Cria ^1^ Runa Menor *epic* aleatória</string>
+    </ref>
+    <ref link="consumable_52_desc">
+        <string lang="en">Creates ^1^ random *epic* Major Rune</string>
+        <string lang="fr">Crée ^1^ Rune majeure *epic* aléatoire</string>
+        <string lang="it">Crea ^1^ runa maggiore *epic* casuale</string>
+        <string lang="de">Lässt ^1^ zufällige Große Rune der Stufe *epic* entstehen.</string>
+        <string lang="es">Crea una ^1^ runa mayor *epic* al azar.</string>
+        <string lang="pt">Cria ^1^ Runa Maior *epic* aleatória</string>
+    </ref>
+    <ref link="consumable_53_desc">
+        <string lang="en">Creates ^1^ random *epic* Meta Rune</string>
+        <string lang="fr">Crée ^1^ Méta-rune *epic* aléatoire</string>
+        <string lang="it">Crea ^1^ meta-runa *epic* casuale</string>
+        <string lang="de">Lässt ^1^ zufällige Meta-Rune der Stufe *epic* entstehen.</string>
+        <string lang="es">Crea una ^1^ metarruna *epic* al azar.</string>
+        <string lang="pt">Cria ^1^ Metarruna *epic* aleatória</string>
+    </ref>
+    <ref link="consumable_54_desc">
+        <string lang="en">Creates ^1^ random *legendary* Minor Rune</string>
+        <string lang="fr">Crée ^1^ Rune mineure *legendary* aléatoire</string>
+        <string lang="it">Crea ^1^ runa minore *legendary* casuale</string>
+        <string lang="de">Lässt ^1^ zufällige Kleine Rune der Stufe *legendary* entstehen.</string>
+        <string lang="es">Crea una ^1^ runa menor *legendary* al azar.</string>
+        <string lang="pt">Cria ^1^ Runa Menor *legendary* aleatória</string>
+    </ref>
+    <ref link="consumable_55_desc">
+        <string lang="en">Creates ^1^ random *legendary* Major Rune</string>
+        <string lang="fr">Crée ^1^ Rune majeure *legendary* aléatoire</string>
+        <string lang="it">Crea ^1^ runa maggiore *legendary* casuale</string>
+        <string lang="de">Lässt ^1^ zufällige Große Rune der Stufe *legendary* entstehen.</string>
+        <string lang="es">Crea una ^1^ runa mayor *legendary* al azar.</string>
+        <string lang="pt">Cria ^1^ Runa Maior *legendary* aleatória</string>
+    </ref>
+    <ref link="consumable_56_desc">
+        <string lang="en">Creates ^1^ random *legendary* Meta Rune</string>
+        <string lang="fr">Crée ^1^ Méta-rune *legendary* aléatoire</string>
+        <string lang="it">Crea ^1^ meta-runa *legendary* casuale</string>
+        <string lang="de">Lässt ^1^ zufällige Meta-Rune der Stufe *legendary* entstehen.</string>
+        <string lang="es">Crea una ^1^ metarruna *legendary* al azar.</string>
+        <string lang="pt">Cria ^1^ Metarruna *legendary* aleatória</string>
+    </ref>
+    <ref link="consumable_57_name">
+        <string lang="en">Stat Reset</string>
+        <string lang="fr">Réinitialisation des stats</string>
+        <string lang="it">Reset statistiche</string>
+        <string lang="de">Werte zurücksetzen</string>
+        <string lang="es">Restablecimiento de estadísticas</string>
+        <string lang="pt">Redefinir atributos</string>
+    </ref>
+    <ref link="consumable_57_desc">
+        <string lang="en">Reset your stat points</string>
+        <string lang="fr">Réinitialise tes points de stats</string>
+        <string lang="it">Resetta i punti statistica</string>
+        <string lang="de">Setze deine Werte zurück.</string>
+        <string lang="es">Restablece los puntos de tus estadísticas.</string>
+        <string lang="pt">Redefinir seus pontos de atributo</string>
+    </ref>
+    <ref link="consumable_58_name">
+        <string lang="en">Cosmetic Chest</string>
+        <string lang="fr">Coffre de cosmétiques</string>
+        <string lang="it">Forziere estetico</string>
+        <string lang="de">Kosmetikkiste</string>
+        <string lang="es">Cofre decorativo</string>
+        <string lang="pt">Baú de Adornos</string>
+    </ref>
+    <ref link="consumable_58_desc">
+        <string lang="en">Contains ^1^ random *cosmetic* that you do not already own</string>
+        <string lang="fr">Contient ^1^ cosmétique aléatoire que tu n'as pas encore</string>
+        <string lang="it">Contiene ^1^ oggetto estetico casuale che non possiedi già</string>
+        <string lang="de">Enthält ^1^ zufälliges Kosmetikum, das du noch nicht besitzt.</string>
+        <string lang="es">Contiene ^1^ elemento decorativo al azar que todavía no tienes.</string>
+        <string lang="pt">Contém ^1^ adorno aleatório que você ainda não possui</string>
+    </ref>
+    <ref link="consumable_58_summary">
+        <string lang="en">Contains ^1^ of the Cosmetics below that you do not already own</string>
+        <string lang="fr">Contient ^1^ des cosmétiques ci-dessous que tu n'as pas encore</string>
+        <string lang="it">Contiene ^1^ degli oggetti estetici seguenti che non possiedi già</string>
+        <string lang="de">Enthält ^1^ der untenstehenden Kosmetika, das du noch nicht besitzt.</string>
+        <string lang="es">Contiene ^1^ de los elementos decorativos siguientes que todavía no tienes.</string>
+        <string lang="pt">Contém ^1^ dos adornos abaixo que você ainda não possui</string>
+    </ref>
+    <ref link="consumable_59_name">
+        <string lang="en">Small Defense Accessory Box</string>
+        <string lang="fr">Petite boîte d'Accessoires défensifs</string>
+        <string lang="it">Scatola piccola accessorio di difesa</string>
+        <string lang="de">Kleine Verteidigungsaccessoire-Box</string>
+        <string lang="es">Caja de accesorios de defensa pequeña</string>
+        <string lang="pt">Caixa de Acessórios Defensivos Pequena</string>
+    </ref>
+    <ref link="consumable_60_name">
+        <string lang="en">Large Defense Accessory Box</string>
+        <string lang="fr">Grande boîte d'Accessoires défensifs</string>
+        <string lang="it">Scatola grande accessorio di difesa</string>
+        <string lang="de">Große Verteidigungsaccessoire-Box</string>
+        <string lang="es">Caja de accesorios de defensa grande</string>
+        <string lang="pt">Caixa de Acessórios Defensivos Grande</string>
+    </ref>
+    <ref link="consumable_61_name">
+        <string lang="en">Small Offense Pet Egg</string>
+        <string lang="fr">Petit œuf d'Animal domestique offensif</string>
+        <string lang="it">Uovo piccolo mascotte di attacco</string>
+        <string lang="de">Kleines Angriffsbegleiter-Ei</string>
+        <string lang="es">Huevo de mascota de ataque pequeño</string>
+        <string lang="pt">Ovo de Mascote Ofensivo Pequeno</string>
+    </ref>
+    <ref link="consumable_62_name">
+        <string lang="en">Large Offense Pet Egg</string>
+        <string lang="fr">Grand œuf d'Animal domestique offensif</string>
+        <string lang="it">Uovo grande mascotte di attacco</string>
+        <string lang="de">Großes Angriffsbegleiter-Ei</string>
+        <string lang="es">Huevo de mascota de ataque grande</string>
+        <string lang="pt">Ovo de Mascote Ofensivo Grande</string>
+    </ref>
+    <ref link="consumable_63_name">
+        <string lang="en">Milk and Cookies</string>
+        <string lang="fr">Lait et biscuits</string>
+        <string lang="it">Latte e biscotti</string>
+        <string lang="de">Milch und Kekse</string>
+        <string lang="es">Leche con galletas</string>
+        <string lang="pt">Leite com Biscoito</string>
+    </ref>
+    <ref link="consumable_63_desc">
+        <string lang="en">Increases chance for powerful familiars to want to join your team by ^50^% for 24 hours</string>
+        <string lang="fr">Accroît de ^50^% pendant 24 heures tes chances d'attirer de puissants familiers dans ton équipe</string>
+        <string lang="it">Aumenta le chance che i famigli potenti vogliano unirsi alla tua squadra del ^50^% per 24 ore</string>
+        <string lang="de">Erhöht die Chance, dass mächtige Schutzgeister deiner Gruppe beitreten wollen, 24 Stunden lang um ^50^%.</string>
+        <string lang="es">Aumenta las probabilidades de que compañeros poderosos quieran unirse a tu equipo en un ^50^% durante 24 horas.</string>
+        <string lang="pt">Aumenta a chance dos familiares poderosos pedirem para entrar no seu time em ^50^% durante 24 horas</string>
+    </ref>
+    <ref link="consumable_64_name">
+        <string lang="en">Demon Potion</string>
+        <string lang="fr">Potion de Démon</string>
+        <string lang="it">Pozione demone</string>
+        <string lang="de">Dämonentrank</string>
+        <string lang="es">Poción demoniaca</string>
+        <string lang="pt">Poção de Demônio</string>
+    </ref>
+    <ref link="consumable_64_desc">
+        <string lang="en">Changes your skin tone to a red Demon color. Using this potion a second time will reverse the effects. This potion has infinite uses.</string>
+        <string lang="fr">Change la couleur de ta peau en rouge, comme celle d'un Démon. La deuxième utilisation de cette potion inversera ses effets. Elle peut être utilisée à l'infini.</string>
+        <string lang="it">Cambia il colore della tua pelle in rosso demone. Usa di nuovo la pozione per invertire gli effetti. Puoi usare la pozione infinite volte.</string>
+        <string lang="de">Ändert deine Hautfarbe in eine rote Dämonen-Farbe. Wenn du diesen Trank ein zweites Mal zu dir nimmst, wird die Wirkung aufgehoben. Du kannst diesen Trank unendlich oft zu dir nehmen.</string>
+        <string lang="es">Cambia tu tono de piel a un color rojo demonio. Si utilizas esta poción por segunda vez, se invertirá el efecto. Esta poción tiene usos infinitos.</string>
+        <string lang="pt">Altera a cor da sua pele para uma tonalidade vermelho-demoníaco. Use a poção novamente para reverter os efeitos. Esta poção é infinita.</string>
+    </ref>
+    <ref link="consumable_65_name">
+        <string lang="en">Pet Reward Chest</string>
+        <string lang="fr">Coffre de récompenses contenant un Animal domestique</string>
+        <string lang="it">Forziere ricompensa mascotte</string>
+        <string lang="de">Begleiter-Belohnungskiste</string>
+        <string lang="es">Cofre de recompensas de mascotas</string>
+        <string lang="pt">Baú de Prêmios: Mascotes</string>
+    </ref>
+    <ref link="consumable_65_desc">
+        <string lang="en">Contains ^1^ random *common* Pet</string>
+        <string lang="fr">Contient ^1^ Animal domestique *common* aléatoire</string>
+        <string lang="it">Contiene ^1^ mascotte casuale *common*</string>
+        <string lang="de">Enthält ^1^ zufälligen Begleiter der Stufe *common*.</string>
+        <string lang="es">Contiene ^1^ mascota *common* al azar.</string>
+        <string lang="pt">Contém ^1^ Mascote *common* aleatório</string>
+    </ref>
+    <ref link="consumable_66_desc">
+        <string lang="en">Contains ^1^ random *rare* Pet</string>
+        <string lang="fr">Contient ^1^ Animal domestique *rare*</string>
+        <string lang="it">Contiene ^1^ mascotte casuale *rare*</string>
+        <string lang="de">Enthält ^1^ zufälligen Begleiter der Stufe *rare*.</string>
+        <string lang="es">Contiene ^1^ mascota *rare* al azar.</string>
+        <string lang="pt">Contém ^1^ Mascote *rare* aleatório</string>
+    </ref>
+    <ref link="consumable_67_desc">
+        <string lang="en">Contains ^1^ random *epic* Pet</string>
+        <string lang="fr">Contient ^1^ Animal domestique *epic*</string>
+        <string lang="it">Contiene ^1^ mascotte casuale *epic*</string>
+        <string lang="de">Enthält ^1^ zufälligen Begleiter der Stufe *epic*.</string>
+        <string lang="es">Contiene ^1^ mascota *epic* al azar.</string>
+        <string lang="pt">Contém ^1^ Mascote *epic* aleatório</string>
+    </ref>
+    <ref link="consumable_68_desc">
+        <string lang="en">Contains ^1^ random *legendary* Pet</string>
+        <string lang="fr">Contient ^1^ Animal domestique *legendary*</string>
+        <string lang="it">Contiene ^1^ mascotte casuale *legendary*</string>
+        <string lang="de">Enthält ^1^ zufälligen Begleiter der Stufe *legendary*.</string>
+        <string lang="es">Contiene ^1^ mascota *legendary* al azar.</string>
+        <string lang="pt">Contém ^1^ Mascote *legendary* aleatório</string>
+    </ref>
+    <ref link="consumable_69_name">
+        <string lang="en">Primal Potion</string>
+        <string lang="fr">Potion de Primitif</string>
+        <string lang="it">Pozione primaria</string>
+        <string lang="de">Urtrank</string>
+        <string lang="es">Poción primitiva</string>
+        <string lang="pt">Poção Primal</string>
+    </ref>
+    <ref link="consumable_69_desc">
+        <string lang="en">Changes your skin tone to a Primal color. Using this potion a second time will reverse the effects. This potion has infinite uses.</string>
+        <string lang="fr">Donne à ta peau la couleur d'un Primitif. La deuxième utilisation de cette potion inversera ses effets. Elle peut être utilisée à l'infini.</string>
+        <string lang="it">Cambia il colore della tua pelle in un colore primario. Usa di nuovo la pozione per invertire gli effetti. Puoi usare la pozione infinite volte.</string>
+        <string lang="de">Ändert deine Hautfarbe in eine Ur-Farbe. Wenn du diesen Trank ein zweites Mal zu dir nimmst, wird die Wirkung aufgehoben. Du kannst diesen Trank unendlich oft zu dir nehmen.</string>
+        <string lang="es">Cambia tu tono de piel a un color primitivo. Si utilizas esta poción por segunda vez, se invertirá el efecto. Esta poción tiene usos infinitos.</string>
+        <string lang="pt">Altera a cor da sua pele para uma tonalidade primal. Use a poção novamente para reverter os efeitos. Esta poção é infinita.</string>
+    </ref>
+    <ref link="consumable_70_name">
+        <string lang="en">Booster Pack</string>
+        <string lang="fr">Pack Booster</string>
+        <string lang="it">Pacchetto booster</string>
+        <string lang="de">Booster-Pack</string>
+        <string lang="es">Paquete de potenciadores</string>
+        <string lang="pt">Pacote de Reforço</string>
+    </ref>
+    <ref link="consumable_71_name">
+        <string lang="en">Set Chest</string>
+        <string lang="fr">Coffre défini</string>
+        <string lang="it">Forziere set</string>
+        <string lang="de">Set-Kiste</string>
+        <string lang="es">Cofre de conjunto</string>
+        <string lang="pt">Baú de Conjunto</string>
+    </ref>
+    <ref link="consumable_71_desc">
+        <string lang="en">Contains ^1^ random *set* equipment piece</string>
+        <string lang="fr">Contient ^1^ équipement *set* aléatoire</string>
+        <string lang="it">Contiene ^1^ oggetto di equipaggiamento *set* casuale</string>
+        <string lang="de">Enthält ^1^ zufälligen *set*-Ausrüstungsgegenstand.</string>
+        <string lang="es">Contiene ^1^ una pieza de equipamiento de *set* al azar.</string>
+        <string lang="pt">Contém ^1^ peça de equipamento aleatória de um *set*</string>
+    </ref>
+    <ref link="consumable_72_name">
+        <string lang="en">Legacy Accessory Chest</string>
+        <string lang="fr">Coffre d'accessoires antique</string>
+        <string lang="it">Forziere del Patrimonio</string>
+        <string lang="de">Erbe-Accessoire-Brust</string>
+        <string lang="es">Cofre de accesorios legado</string>
+        <string lang="pt">Cofre de Acessório de Legado</string>
+    </ref>
+    <ref link="consumable_76_desc">
+        <string lang="en">Unlocks ^1^ random *cosmetic* that you do not already have unlocked</string>
+        <string lang="fr">Débloque ^1^ *cosmetic* au hasard que vous n'avez pas déjà débloqué</string>
+        <string lang="it">Permette di sbloccare ^1^ *cosmetic* casuale che non avevi ancora sbloccato</string>
+        <string lang="de">Schaltet ^1^ zufälliges *cosmetic* frei, dass du bereits noch nicht freigeschaltet hast</string>
+        <string lang="es">Desbloquea ^1^ *cosmetic* aleatorio que no tienes desbloqueado ya</string>
+        <string lang="pt">Desbloqueia ^1^ *cosmetic* aleatório que você ainda não desbloqueou</string>
+    </ref>
+    <ref link="consumable_76_summary">
+        <string lang="en">Unlocks ^1^ of the Cosmetics below that you do not already have unlocked</string>
+        <string lang="fr">Débloque ^1^ des produits cosmétiques ci-dessous que vous n'avez pas déjà débloqué</string>
+        <string lang="it">Permette di sbloccare ^1^ tra i Prodotti di bellezza qui sotto che non avevi ancora sbloccato</string>
+        <string lang="de">Schaltet ^1^ der zufälligen *cosmetic* unten frei, dass du bereits noch nicht freigeschalten hast</string>
+        <string lang="es">Desbloquea ^1^ de los cosméticos de abajo que no tienes desbloqueado ya</string>
+        <string lang="pt">Desbloqueia ^1^ dos Cosméticos abaixo que você ainda não desbloqueou</string>
+    </ref>
+    <ref link="consumable_78_name">
+        <string lang="en">Easter Pet Egg</string>
+        <string lang="fr">Oeufs de Pâques</string>
+        <string lang="it">Pasqua animale uovo</string>
+        <string lang="de">Osterhaustier Ei</string>
+        <string lang="es">Huevo de Pascua</string>
+        <string lang="pt">Ovo de estimação da Páscoa</string>
+    </ref>
+    <ref link="consumable_79_name">
+        <string lang="en">Mega Egg</string>
+        <string lang="fr">Méga œuf</string>
+        <string lang="it">Uovo mega</string>
+        <string lang="de">Mega Ei</string>
+        <string lang="es">Huevo mega</string>
+        <string lang="pt">Ovo Mega</string>
+    </ref>
+    <ref link="consumable_79_desc">
+        <string lang="en">Contains ^5^ random Pets. Guaranteed at least ^1^ *epic* or better in each Egg!</string>
+        <string lang="fr">Contient ^5^ Animaux domestiques aléatoires. Présence garantie d'au moins ^1^ animal *epic* ou mieux dans chaque œuf !</string>
+        <string lang="it">Contiene ^5^ mascotte casuali. Almeno ^1^ mascotte *epic* o migliore garantita in ciascun uovo!</string>
+        <string lang="de">Enthält ^5^ zufällige Begleiter. Garantiert mindestens ^1^ Begleiter der Stufe *epic* oder höher in jedem Ei!</string>
+        <string lang="es">Contiene ^5^ mascotas al azar. ¡Te garantiza al menos ^1^ *epic* o superior en cada huevo!</string>
+        <string lang="pt">Contém ^5^ Mascotes aleatórios. Garantimos pelo menos ^1^ mascote *epic* ou melhor em cada ovo!</string>
+    </ref>
+    <ref link="consumable_79_summary">
+        <string lang="en">Contains ^5^ of the Pets below!break!Guaranteed at least ^1^ *epic* or better!</string>
+        <string lang="fr">Contient ^5^ des Animaux domestiques ci-dessous!break!Présence garantie d'au moins ^1^ animal *epic* ou mieux !</string>
+        <string lang="it">Contiene ^5^ delle mascotte seguenti!break!Almeno ^1^ mascotte *epic* o migliore garantita!</string>
+        <string lang="de">Enthält ^5^ der untenstehenden Begleiter.!break!Garantiert mindestens ^1^ Begleiter der Stufe *epic* oder höher!</string>
+        <string lang="es">¡Contiene ^5^ de las mascotas de abajo!break!¡Te garantiza al menos ^1^ mascota *epic* o superior!</string>
+        <string lang="pt">Contém ^5^ dos Mascotes abaixo!break!Garantimos pelo menos ^1^ *epic* ou melhor!</string>
+    </ref>
+    <ref link="consumable_80_name">
+        <string lang="en">Average Badge Pouch</string>
+        <string lang="fr">Pochette de badge intermédiaire</string>
+        <string lang="it">Busta di badge</string>
+        <string lang="de">Durchschnittliche Abzeichen</string>
+        <string lang="es">Bolsa de insignia intermedia</string>
+        <string lang="pt">Bolsa de Distintivo Média</string>
+    </ref>
+    <ref link="consumable_80_desc">
+        <string lang="en">Increases your current Badges by ^5^</string>
+        <string lang="fr">Te confère ^5^ badges supplémentaires</string>
+        <string lang="it">Aumenta i tuoi badge attuali di ^5^</string>
+        <string lang="de">Erhöht deine aktuellen Abzeichen um ^5^.</string>
+        <string lang="es">Aumenta tus insignias en ^5^ unidades.</string>
+        <string lang="pt">Receba ^5^ Distintivos</string>
+    </ref>
+    <ref link="consumable_81_name">
+        <string lang="en">Small Offense Accessory Box</string>
+        <string lang="fr">Petite boîte d'Accessoires offensifs</string>
+        <string lang="it">Scatola piccola accessorio d'attacco</string>
+        <string lang="de">Kleine Angriffsaccessoire-Box</string>
+        <string lang="es">Caja de accesorios de ataque pequeña</string>
+        <string lang="pt">Caixa de Acessórios de Ataque Pequena</string>
+    </ref>
+    <ref link="consumable_82_name">
+        <string lang="en">Large Offense Accessory Box</string>
+        <string lang="fr">Grande boîte d'Accessoires offensifs</string>
+        <string lang="it">Scatola grande accessorio d'attacco</string>
+        <string lang="de">Große Angriffsaccessoire-Box</string>
+        <string lang="es">Caja de accesorios de ataque grande</string>
+        <string lang="pt">Caixa de Acessórios de Ataque Grande</string>
+    </ref>
+    <ref link="consumable_84_name">
+        <string lang="en">Small Defense Pet Egg (Shielding)</string>
+        <string lang="fr">Petit œuf d'Animal domestique défensif (Blindage)</string>
+        <string lang="it">Uovo piccolo mascotte di difesa (Schermatura)</string>
+        <string lang="de">Kleines Verteidigungsbegleiter-Ei (Abschirmung)</string>
+        <string lang="es">Huevo de mascota de defensa pequeño (Blindaje)</string>
+        <string lang="pt">Ovo de Mascote Defensivo Pequeno (Blindagem)</string>
+    </ref>
+    <ref link="consumable_85_name">
+        <string lang="en">Large Defense Pet Egg (Shielding)</string>
+        <string lang="fr">Grand œuf d'Animal domestique défensif (Blindage)</string>
+        <string lang="it">Uovo grande mascotte di difesa (Schermatura)</string>
+        <string lang="de">Großes Verteidigungsbegleiter-Ei (Abschirmung)</string>
+        <string lang="es">Huevo de mascota de defensa grande (Blindaje)</string>
+        <string lang="pt">Ovo de Mascote Defensivo Grande (Blindagem)</string>
+    </ref>
+    
+    
+    
+    <ref link="consumable_86_desc">
+        <string lang="en">Contains ^1^ random Pet that you have not already owned</string>
+        <string lang="fr">Contient ^1^ Animal domestique que tu n'as pas encore</string>
+        <string lang="it">Contiene ^1^ oggetto Mascotte casuale che non possiedi già</string>
+        <string lang="de">Enthält ^1^ zufälliges Begleiter, das du noch nicht besitzt.</string>
+        <string lang="es">Contiene ^1^ Mascota al azar que todavía no tienes.</string>
+        <string lang="pt">Contém ^1^ Mascote que você ainda não possui</string>
+    </ref>
+    <ref link="consumable_86_summary">
+        <string lang="en">Contains ^1^ of the Pets below that you have not already owned</string>
+        <string lang="fr">Contient ^1^ des Animaux domestiques ci-dessous que tu n'as pas encore</string>
+        <string lang="it">Contiene ^1^ degli oggetti Mascotte seguenti che non possiedi già</string>
+        <string lang="de">Enthält ^1^ der untenstehenden Begleiter, das du noch nicht besitzt.</string>
+        <string lang="es">Contiene ^1^ de los Mascotas siguientes que todavía no tienes.</string>
+        <string lang="pt">Contém ^1^ dos Mascotes abaixo que você ainda não possui</string>
+    </ref>
+    <ref link="consumable_90_desc">
+        <string lang="en">Contains ^1^ random Accessory that you have not already owned</string>
+        <string lang="fr">Contient ^1^ aléatoire que tu n'as pas encore</string>
+        <string lang="it">Contiene ^1^ oggetto accessorio casuale che non possiedi già</string>
+        <string lang="de">Enthält ^1^ zufälliges Accessoire, das du noch nicht besitzt.</string>
+        <string lang="es">Contiene ^1^ accesorio al azar que todavía no tienes.</string>
+        <string lang="pt">Contém ^1^ Acessório que você ainda não possui</string>
+    </ref>
+    <ref link="consumable_90_summary">
+        <string lang="en">Contains ^1^ of the Accessories below that you have not already owned</string>
+        <string lang="fr">Contient ^1^ des Accessoires ci-dessous que tu n'as pas encore</string>
+        <string lang="it">Contiene ^1^ degli oggetti accessori seguenti che non possiedi già</string>
+        <string lang="de">Enthält ^1^ der untenstehenden Accessoires., das du noch nicht besitzt.</string>
+        <string lang="es">Contiene ^1^ de los accesorios siguientes que todavía no tienes.</string>
+        <string lang="pt">Contém ^1^ dos Acessórios abaixo que você ainda não possui</string>
+    </ref>
+    <ref link="consumable_94_desc">
+        <string lang="en">Contains ^1^ random Accessory or Pet that you have not already owned</string>
+        <string lang="fr">Contient ^1^ Accessoire ou Animal domestique aléatoire que tu n'as pas encore</string>
+        <string lang="it">Contiene ^1^ oggetto Accessorio o Mascotte casuale che non possiedi già</string>
+        <string lang="de">Enthält ^1^ zufälliges Accessoire oder Begleiter, das du noch nicht besitzt.</string>
+        <string lang="es">Contiene ^1^ elemento Accesorio o Mascota al azar que todavía no tienes.</string>
+        <string lang="pt">Contém ^1^ Acessório ou Mascote que você ainda não possui</string>
+    </ref>
+    <ref link="consumable_94_summary">
+        <string lang="en">Contains ^1^ of the items below that you have not already owned</string>
+        <string lang="fr">Contient ^1^ des objets ci-dessous que tu n'as pas encore</string>
+        <string lang="it">Contiene ^1^ degli oggetti seguenti che non possiedi già</string>
+        <string lang="de">Enthält ^1^ der untenstehenden Gegenstände, das du noch nicht besitzt.</string>
+        <string lang="es">Contiene ^1^ de los elementos objetos siguientes que todavía no tienes.</string>
+        <string lang="pt">Contém ^1^ dos itens abaixo que você ainda não possui</string>
+    </ref>
+    <ref link="consumable_98_name">
+        <string lang="en">Zombo Potion</string>
+        <string lang="fr">Potion de Zombo</string>
+        <string lang="it">Pozione Zombo</string>
+        <string lang="de">Zombo Trank</string>
+        <string lang="es">Poción Zombo</string>
+        <string lang="pt">Poção Zombo</string>
+    </ref>
+    <ref link="consumable_98_desc">
+        <string lang="en">Changes your skin tone to a Zombie color. Using this potion a second time will reverse the effects. This potion has infinite uses.</string>
+        <string lang="fr">Donne à ta peau la couleur d'un Zombi. La deuxième utilisation de cette potion inversera ses effets. Elle peut être utilisée à l'infini.</string>
+        <string lang="it">Cambia il colore della tua pelle in un colore Zombie. Usa di nuovo la pozione per invertire gli effetti. Puoi usare la pozione infinite volte.</string>
+        <string lang="de">Ändert deine Hautfarbe in eine Zombie. Wenn du diesen Trank ein zweites Mal zu dir nimmst, wird die Wirkung aufgehoben. Du kannst diesen Trank unendlich oft zu dir nehmen.</string>
+        <string lang="es">Cambia tu tono de piel a un color Zombi. Si utilizas esta poción por segunda vez, se invertirá el efecto. Esta poción tiene usos infinitos.</string>
+        <string lang="pt">Altera a cor da sua pele para uma tonalidade Zombie. Use a poção novamente para reverter os efeitos. Esta poção é infinita.</string>
+    </ref>
+    
+    
+    
+    
+    <ref link="consumable_99_name">
+        <string lang="en">Bubblin' Cauldron</string>
+        <string lang="fr">Chaudron bouillonnant</string>
+        <string lang="it">Bollitore Caldaie</string>
+        <string lang="de">Sprudelnder Kessel</string>
+        <string lang="es">Caldera burbujeante</string>
+        <string lang="pt">Caldeirão borbulhante</string>
+    </ref>
+    <ref link="consumable_99_summary">
+        <string lang="en">Creates ^1^ of the Enchants below</string>
+        <string lang="fr">Crée ^1^ des Enchantements ci-dessous</string>
+        <string lang="it">Crea ^1^ delle Incanta seguenti</string>
+        <string lang="de">Lässt ^1^ der untenstehenden Verzauberungen entstehen.</string>
+        <string lang="es">Crea ^1^ de las siguientes Encantamientos</string>
+        <string lang="pt">Cria ^1^ das Encanta abaixo</string>
+    </ref>
+    <ref link="consumable_99_desc">
+        <string lang="en">Creates ^1^ *common* Enchant from the zone you are currently in</string>
+        <string lang="fr">Crée 1 *common* Enchanter dans la zone dans laquelle vous vous trouvez actuellement</string>
+        <string lang="it">Crea 1 *common* Incantare dalla zona in cui sei attualmente presente</string>
+        <string lang="de">Erstellt 1 *common* Verzaubern aus der Zone, in der du dich gerade befindet</string>
+        <string lang="es">Crea 1 *common* Enchant de la zona en la que se encuentra actualmente</string>
+        <string lang="pt">Cria 1 *common* Encantar da zona em que você está atualmente</string>
+    </ref>
+    <ref link="consumable_100_desc">
+        <string lang="en">Creates ^1^ *rare* Enchant from the zone you are currently in</string>
+        <string lang="fr">Crée 1 *rare* Enchanter dans la zone dans laquelle vous vous trouvez actuellement</string>
+        <string lang="it">Crea 1 *rare* Incantare dalla zona in cui sei attualmente presente</string>
+        <string lang="de">Erstellt 1 *rare* Verzaubern aus der Zone, in der du dich gerade befindet</string>
+        <string lang="es">Crea 1 *rare* Enchant de la zona en la que se encuentra actualmente</string>
+        <string lang="pt">Cria 1 *rare* Encantar da zona em que você está atualmente</string>
+    </ref>
+    <ref link="consumable_101_desc">
+        <string lang="en">Creates ^1^ *epic* Enchant from the zone you are currently in</string>
+        <string lang="fr">Crée 1 *epic* Enchanter dans la zone dans laquelle vous vous trouvez actuellement</string>
+        <string lang="it">Crea 1 *epic* Incantare dalla zona in cui sei attualmente presente</string>
+        <string lang="de">Erstellt 1 *epic* Verzaubern aus der Zone, in der du dich gerade befindet</string>
+        <string lang="es">Crea 1 *epic* Enchant de la zona en la que se encuentra actualmente</string>
+        <string lang="pt">Cria 1 *epic* Encantar da zona em que você está atualmente</string>
+    </ref>
+    <ref link="consumable_102_desc">
+        <string lang="en">Creates ^1^ *legendary* Enchant from the zone you are currently in</string>
+        <string lang="fr">Crée 1 *legendary* Enchanter dans la zone dans laquelle vous vous trouvez actuellement</string>
+        <string lang="it">Crea 1 *legendary* Incantare dalla zona in cui sei attualmente presente</string>
+        <string lang="de">Erstellt 1 *legendary* Verzaubern aus der Zone, in der du dich gerade befindet</string>
+        <string lang="es">Crea 1 *legendary* Enchant de la zona en la que se encuentra actualmente</string>
+        <string lang="pt">Cria 1 *legendary* Encantar da zona em que você está atualmente</string>
+    </ref>
+    
+    <ref link="consumable_109_name">
+        <string lang="en">Common Schematic</string>
+        <string lang="fr">Courant Schéma</string>
+        <string lang="it">Comune Progetto</string>
+        <string lang="de">Gewöhnlich Bauplan</string>
+        <string lang="es">Común Esquema</string>
+        <string lang="pt">Comum Fórmula</string>
+    </ref>
+    <ref link="consumable_109_desc">
+        <string lang="en">Creates ^1^ random Schematic that you do not already own</string>
+        <string lang="fr">Crée ^1^ Schéma aléatoire que tu n'as pas encore</string>
+        <string lang="it">Crea ^1^ oggetto Progetto che non possiedi già</string>
+        <string lang="de">Lässt ^1^ zufälliges Bauplan, das du noch nicht besitzt.</string>
+        <string lang="es">Crea una ^1^ elemento Esquema al azar que todavía no tienes.</string>
+        <string lang="pt">Contém ^1^ Fórmula aleatório que você ainda não possui</string>
+    </ref>
+    
+    <ref link="consumable_110_name">
+        <string lang="en">Rare Schematic</string>
+        <string lang="fr">Rare Schéma</string>
+        <string lang="it">Raro Progetto</string>
+        <string lang="de">Selten Bauplan</string>
+        <string lang="es">Inusual Esquema</string>
+        <string lang="pt">Raro Fórmula</string>
+    </ref>
+    <ref link="consumable_111_name">
+        <string lang="en">Epic Schematic</string>
+        <string lang="fr">Épique Schéma</string>
+        <string lang="it">Epico Progetto</string>
+        <string lang="de">Episch Bauplan</string>
+        <string lang="es">Épico Esquema</string>
+        <string lang="pt">Épico Fórmula</string>
+    </ref>
+    <ref link="consumable_112_name">
+        <string lang="en">Legendary Schematic</string>
+        <string lang="fr">Légendaire Schéma</string>
+        <string lang="it">Leggendario Progetto</string>
+        <string lang="de">Legendär Bauplan</string>
+        <string lang="es">Legendario Esquema</string>
+        <string lang="pt">Lendário Fórmula</string>
+    </ref>
+    <ref link="consumable_113_name">
+        <string lang="en">Mega Defense Accessory Box</string>
+        <string lang="fr">Méga boîte d'Accessoires défensifs</string>
+        <string lang="it">Scatola uovo accessorio di difesa</string>
+        <string lang="de">Mega Verteidigungsaccessoire-Box</string>
+        <string lang="es">Caja de accesorios de defensa mega</string>
+        <string lang="pt">Caixa de Acessórios Defensivos Mega</string>
+    </ref>
+    <ref link="consumable_113_desc">
+        <string lang="en">Contains ^5^ random Accessories. Guaranteed at least ^1^ *epic* or better in each Box!</string>
+        <string lang="fr">Contient ^5^ Accessoires aléatoires. Présence garantie d'au moins ^1^ accessoire *epic* ou mieux dans chaque boîte !</string>
+        <string lang="it">Contiene ^5^ accessori casuali. Almeno ^1^ accessorio *epic* o migliore garantito in ciascuna scatola!</string>
+        <string lang="de">Enthält ^5^ zufällige Accessoires. Garantiert mindestens ^1^ Accessoire der Stufe *epic* oder höher in jeder Box!</string>
+        <string lang="es">Contiene ^5^ accesorios al azar. ¡Te garantiza al menos ^1^ accesorio *epic* o superior en cada caja!</string>
+        <string lang="pt">Contém ^5^ Acessórios aleatórios. Garantimos pelo menos ^1^ *epic* ou melhor em cada caixa!</string>
+    </ref>
+    <ref link="consumable_113_summary">
+        <string lang="en">Contains ^5^ of the Accessories below!break!Guaranteed at least ^1^ *epic* or better!</string>
+        <string lang="fr">Contient ^5^ des Accessoires ci-dessous!break!Présence garantie d'au moins ^1^ accessoire *epic* ou mieux !</string>
+        <string lang="it">Contiene ^5^ degli accessori seguenti!break!Almeno ^1^ accessorio *epic* o migliore garantito!</string>
+        <string lang="de">Enthält ^5^ der untenstehenden Accessoires.!break!Garantiert mindestens ^1^ Accessoire der Stufe *epic* oder höher!</string>
+        <string lang="es">¡Contiene ^5^ de los accesorios de abajo!break!¡Te garantiza al menos ^1^ accesorio *epic* o superior!</string>
+        <string lang="pt">Contém ^5^ dos Acessórios abaixo!break!Garantimos pelo menos ^1^ *epic* ou melhor!</string>
+    </ref>
+    <ref link="consumable_114_name">
+        <string lang="en">Hyper Offense Accessory Box</string>
+        <string lang="fr">Hyper boîte d'Accessoires offensifs</string>
+        <string lang="it">Scatola iper accessorio d'attacco</string>
+        <string lang="de">Hyper Angriffsaccessoire-Box</string>
+        <string lang="es">Caja de accesorios de ataque Hiper</string>
+        <string lang="pt">Caixa de Acessórios de Ataque Hiper</string>
+    </ref>
+    <ref link="consumable_118_name">
+        <string lang="en">Hyper Defense Accessory Box</string>
+        <string lang="fr">Hyper boîte d'Accessoires défensifs</string>
+        <string lang="it">Scatola iper accessorio di difesa</string>
+        <string lang="de">Hyper Verteidigungsaccessoire-Box</string>
+        <string lang="es">Caja de accesorios de defensa Hiper</string>
+        <string lang="pt">Caixa de Acessórios Defensivos Hiper</string>
+    </ref>
+    
+    <ref link="consumable_119_name">
+        <string lang="en">Orlag Potion</string>
+        <string lang="fr">Potion de Orlag</string>
+        <string lang="it">Pozione Orlag</string>
+        <string lang="de">Orlag Trank</string>
+        <string lang="es">Poción Orlag</string>
+        <string lang="pt">Poção Orlag</string>
+    </ref>
+    <ref link="consumable_119_desc">
+        <string lang="en">Changes your skin tone to a green Orlag color. Using this potion a second time will reverse the effects. This potion has infinite uses.</string>
+        <string lang="fr">Change la couleur de ta peau en vert, comme celle d'un Orlag. La deuxième utilisation de cette potion inversera ses effets. Elle peut être utilisée à l'infini.</string>
+        <string lang="it">Cambia il colore della tua pelle in verde Orlag. Usa di nuovo la pozione per invertire gli effetti. Puoi usare la pozione infinite volte.</string>
+        <string lang="de">Ändert deine Hautfarbe in eine grüne Orlag.-Farbe. Wenn du diesen Trank ein zweites Mal zu dir nimmst, wird die Wirkung aufgehoben. Du kannst diesen Trank unendlich oft zu dir nehmen.</string>
+        <string lang="es">Cambia tu tono de piel a un color verde Orlag. Si utilizas esta poción por segunda vez, se invertirá el efecto. Esta poción tiene usos infinitos.</string>
+        <string lang="pt">Altera a cor da sua pele para uma tonalidade verde-Orlag. Use a poção novamente para reverter os efeitos. Esta poção é infinita.</string>
+    </ref>
+    
+    
+    <ref link="consumable_120_name">
+        <string lang="en">Super Scroll</string>
+        <string lang="fr">Super Scroll</string>
+        <string lang="it">Super Scroll</string>
+        <string lang="de">Super Blättern</string>
+        <string lang="es">Super Scroll</string>
+        <string lang="pt">Super Scroll</string>
+    </ref>
+    <ref link="consumable_120_desc">
+        <string lang="en">Increases your Item Find, Experience, Gold Find, and Movement Speed by ^150^% for ^24^ hours</string>
+        <string lang="fr">Augmente votre Découverte d'objets, Expérience, Découverte d'or et Vitesse de déplacement de ^150^% pendant ^24^ heures</string>
+        <string lang="it">Aumenta il tuo Trova-oggetti, Esperienza, Trova-oro e Velocità di movimento del ^150^% per ^24^ ore</string>
+        <string lang="de">Erhöht deine Gegenstände finden, Erfahrung, Gold finden und Bewegungsgeschwindigkeit um ^150^% für ^24^ Stunden</string>
+        <string lang="es">Aumenta su Hallazgo de objetos, Experiencia, Hallazgo de oro y Velocidad de movimiento en un ^150^% durante ^24^ horas</string>
+        <string lang="pt">Aumenta seu Encontrar Itens, Experiência, Encontrar Ouro e Movimentação em ^150^% durante ^24^ horas</string>
+    </ref>
+    <ref link="consumable_121_name">
+        <string lang="en">Kongiversary Egg</string>
+        <string lang="fr">Kongiversary œuf</string>
+        <string lang="it">Uovo Kongiversary</string>
+        <string lang="de">Kongiversary Ei</string>
+        <string lang="es">Huevo Kongiversary</string>
+        <string lang="pt">Ovo Kongiversary</string>
+    </ref>
+    
+    
+    
+    <ref link="consumable_122_name">
+        <string lang="en">Fammy Slop</string>
+    </ref>
+    <ref link="consumable_122_desc">
+        <string lang="en">Increases chance for powerful familiars to want to join your team by ^100^% for 24 hours</string>
+        <string lang="fr">Accroît de ^100^% pendant 24 heures tes chances d'attirer de puissants familiers dans ton équipe</string>
+        <string lang="it">Aumenta le chance che i famigli potenti vogliano unirsi alla tua squadra del ^100^% per 24 ore</string>
+        <string lang="de">Erhöht die Chance, dass mächtige Schutzgeister deiner Gruppe beitreten wollen, 24 Stunden lang um ^100^%.</string>
+        <string lang="es">Aumenta las probabilidades de que compañeros poderosos quieran unirse a tu equipo en un ^100^% durante 24 horas.</string>
+        <string lang="pt">Aumenta a chance dos familiares poderosos pedirem para entrar no seu time em ^100^% durante 24 horas</string>
+    </ref>
+    <ref link="consumable_123_name">
+        <string lang="en">Hyper Offense Pet Egg</string>
+        <string lang="fr">Hyper œuf d'Animal domestique offensif</string>
+        <string lang="it">Uovo iper mascotte di attacco</string>
+        <string lang="de">Hyper Angriffsbegleiter-Ei</string>
+        <string lang="es">Huevo de mascota de ataque Hiper</string>
+        <string lang="pt">Ovo de Mascote Ofensivo Hiper</string>
+    </ref>
+    
+    
+    <ref link="consumable_124_name">
+        <string lang="en">Kongiversary Barrel</string>
+        <string lang="fr">Kongiversary Baril</string>
+        <string lang="it">Barile Kongiversary</string>
+        <string lang="de">Kongiversary Fass</string>
+        <string lang="es">Barril Kongiversary</string>
+        <string lang="pt">Barril Kongiversary</string>
+    </ref>
+    <ref link="consumable_124_desc">
+        <string lang="en">Exclusive one time consumable containing very rare items. Limit one per account.</string>
+        <string lang="fr">Un consommable unique contenant des articles très rares. Limite d'un par compte.</string>
+        <string lang="it">Esclusivo un tempo di consumo contenente articoli molto rari. Limitare uno per conto.</string>
+        <string lang="de">Exklusives Einmal-Verschleiß mit sehr seltenen Gegenständen. Limit eins pro Konto.</string>
+        <string lang="es">Exclusivo consumible de una sola vez que contiene artículos muy raros. Limite uno por cuenta.</string>
+        <string lang="pt">Consumíveis exclusivos de um tempo contendo itens muito raros. Limite um por conta.</string>
+    </ref>
+    <ref link="consumable_124_summary">
+        <string lang="en">Contains all of the items below. Limit one per account.</string>
+        <string lang="fr">Contient tous les éléments ci-dessous. Limite d'un par compte.</string>
+        <string lang="it">Contiene tutti gli elementi sottostanti. Limitare uno per conto.</string>
+        <string lang="de">Enthält alle nachfolgenden Artikel. Limit eins pro Konto.</string>
+        <string lang="es">Contiene todos los elementos a continuación. Limite uno por cuenta.</string>
+        <string lang="pt">Contém todos os itens abaixo. Limite um por conta.</string>
+    </ref>
+    
+    
+    
+    <ref link="consumable_125_name">
+        <string lang="en">Kongiversary Bag</string>
+        <string lang="fr">Kongiversary Sac</string>
+        <string lang="it">Borsa Kongiversary</string>
+        <string lang="de">Kongiversary Tasche</string>
+        <string lang="es">Bolso Kongiversary</string>
+        <string lang="pt">Bolsa Kongiversary</string>
+    </ref>
+    <ref link="consumable_125_desc">
+        <string lang="en">Exclusive one time consumable containing very rare items. Limit three per account.</string>
+        <string lang="fr">Un consommable unique contenant des articles très rares. Limite de trois par compte.</string>
+        <string lang="it">Esclusivo un tempo di consumo contenente articoli molto rari. Limiti tre per conto.</string>
+        <string lang="de">Exklusives Einmal-Verschleiß mit sehr seltenen Gegenständen. Limit drei pro Konto.</string>
+        <string lang="es">Exclusivo consumible de una sola vez que contiene artículos muy raros. Límite de tres por cuenta.</string>
+        <string lang="pt">Consumíveis exclusivos de um tempo contendo itens muito raros. Limite três por conta.</string>
+    </ref>
+    <ref link="consumable_125_summary">
+        <string lang="en">Contains all of the items below. Limit three per account.</string>
+        <string lang="fr">Contient tous les éléments ci-dessous. Limite de trois par compte.</string>
+        <string lang="it">Contiene tutti gli elementi sottostanti. Limiti tre per conto.</string>
+        <string lang="de">Enthält alle nachfolgenden Artikel. Limit drei pro Konto.</string>
+        <string lang="es">Contiene todos los elementos a continuación. Límite de tres por cuenta.</string>
+        <string lang="pt">Contém todos os itens abaixo. Limite três por conta.</string>
+    </ref>
+    
+    
+    <ref link="consumable_126_name">
+        <string lang="en">Kongiversary Pouch</string>
+        <string lang="fr">Kongiversary Poche</string>
+        <string lang="it">Marsupio Kongiversary</string>
+        <string lang="de">Kongiversary Beutel</string>
+        <string lang="es">Bolsa Kongiversary</string>
+        <string lang="pt">Bolsa Kongiversary</string>
+    </ref>
+    
+    <ref link="consumable_127_name">
+        <string lang="en">Kongiversary Sack</string>
+        <string lang="fr">Kongiversary Sac</string>
+        <string lang="it">Sacco Kongiversary</string>
+        <string lang="de">Kongiversary Sack</string>
+        <string lang="es">Saco Kongiversary</string>
+        <string lang="pt">Saco Kongiversary</string>
+    </ref>
+    
+    <ref link="consumable_128_name">
+        <string lang="en">Kongiversary Satchel</string>
+        <string lang="fr">Kongiversary Cartable</string>
+        <string lang="it">Cartella Kongiversary</string>
+        <string lang="de">Kongiversary Schulranzen</string>
+        <string lang="es">Cartera Kongiversary</string>
+        <string lang="pt">Sacola Kongiversary</string>
+    </ref>
+    
+    
+    
+    
+    <ref link="consumable_129_name">
+        <string lang="en">Mega Defense Pet Egg</string>
+        <string lang="fr">Méga œuf d'Animal domestique défensif</string>
+        <string lang="it">Uovo mega mascotte di difesa</string>
+        <string lang="de">Mega Verteidigungsbegleiter-Ei</string>
+        <string lang="es">Huevo de mascota de defensa mega</string>
+        <string lang="pt">Ovo de Mascote Defensivo Mega</string>
+    </ref>
+    
+    
+    
+    
+    <ref link="consumable_130_name">
+        <string lang="en">Derwin's Bag of Mystery</string>
+        <string lang="fr">Le sac de mystère de Derwin</string>
+        <string lang="it">Il sacchetto di mistero di Derwin</string>
+        <string lang="de">Derwins Tasche des Geheimnisses</string>
+        <string lang="es">La bolsa de misterio de Derwin</string>
+        <string lang="pt">Saco do mistério de Derwin</string>
+    </ref>
+    
+    <ref link="consumable_132_name">
+        <string lang="en">Hyper Defense Pet Egg</string>
+        <string lang="fr">Hyper œuf d'Animal domestique défensif</string>
+        <string lang="it">Uovo iper mascotte di difesa</string>
+        <string lang="de">Hyper Verteidigungsbegleiter-Ei</string>
+        <string lang="es">Huevo de mascota de defensa Hiper</string>
+        <string lang="pt">Ovo de Mascote Defensivo Hiper</string>
+    </ref>
+    
+    <ref link="consumable_136_name">
+        <string lang="en">Energy Pack</string>
+        <string lang="fr">Énergie Pack</string>
+        <string lang="it">Pacchetto Energia</string>
+        <string lang="de">Energía Packung</string>
+        <string lang="es">Paquete Energía</string>
+        <string lang="pt">Pacote Energia</string>
+    </ref>
+    <ref link="consumable_136_desc">
+        <string lang="en">Increases your current Energy by ^400^</string>
+        <string lang="fr">Accroît ton énergie actuelle de ^400^</string>
+        <string lang="it">Aumenta la tua energia attuale di ^400^</string>
+        <string lang="de">Erhöht deine aktuelle Energie um ^400^.</string>
+        <string lang="es">Aumenta tu energía en ^400^ puntos.</string>
+        <string lang="pt">Aumenta sua Energia em ^400^</string>
+    </ref>
+    <ref link="consumable_137_name">
+        <string lang="en">Plaque of Badges</string>
+        <string lang="fr">Plaque de Badges</string>
+        <string lang="it">Targa di Badge</string>
+        <string lang="de">Plakette von Abzeichen</string>
+        <string lang="es">Placa de Insignias</string>
+        <string lang="pt">Placa de Distintivos</string>
+    </ref>
+    <ref link="consumable_137_desc">
+        <string lang="en">Increases your current Badges by ^50^</string>
+        <string lang="fr">Accroît ton Badges actuelle de ^50^</string>
+        <string lang="it">Aumenta la tua Badge attuale di ^50^</string>
+        <string lang="de">Erhöht deine aktuelle Abzeichen um ^50^.</string>
+        <string lang="es">Aumenta tu Insignias en ^50^ puntos.</string>
+        <string lang="pt">Aumenta sua Distintivos em ^50^</string>
+    </ref>
+    <ref link="consumable_138_name">
+        <string lang="en">Ticket Roll</string>
+        <string lang="fr">Rouleau Tickets</string>
+        <string lang="it">Rotolo Tickets</string>
+        <string lang="de">Biglietti Rolle</string>
+        <string lang="es">Tickets Roll</string>
+        <string lang="pt">Rolo Tíquetes</string>
+    </ref>
+    <ref link="consumable_138_desc">
+        <string lang="en">Increases your current Tickets by ^50^</string>
+        <string lang="fr">Accroît ton Tickets actuelle de ^50^</string>
+        <string lang="it">Aumenta la tua Biglietti attuale di ^50^</string>
+        <string lang="de">Erhöht deine aktuelle Tickets um ^50^.</string>
+        <string lang="es">Aumenta tu Boletos en ^50^ puntos.</string>
+        <string lang="pt">Aumenta sua Tíquetes em ^50^</string>
+    </ref>
+    <ref link="consumable_139_name">
+        <string lang="en">Shard Basket</string>
+        <string lang="fr">Tessons panier</string>
+        <string lang="it">Cesto Frammenti</string>
+        <string lang="de">Splitter Korb</string>
+        <string lang="es">Cesta Fragmentos</string>
+        <string lang="pt">Cesta Cristais</string>
+    </ref>
+    <ref link="consumable_139_desc">
+        <string lang="en">Increases your current Shards by ^20^</string>
+        <string lang="fr">Accroît ton Tessons actuelle de ^20^</string>
+        <string lang="it">Aumenta la tua Frammenti attuale di ^20^</string>
+        <string lang="de">Erhöht deine aktuelle Splitter um ^20^.</string>
+        <string lang="es">Aumenta tu Fragmentos en ^20^ puntos.</string>
+        <string lang="pt">Aumenta sua Cristais em ^20^</string>
+    </ref>
+    <ref link="consumable_140_name">
+        <string lang="en">Token Duffle</string>
+        <string lang="fr">Duffle Jetons</string>
+        <string lang="it">Gettoni Duffle</string>
+        <string lang="de">Tokens-Duffle</string>
+        <string lang="es">Fichas duffle</string>
+        <string lang="pt">Fichas duffle</string>
+    </ref>
+    <ref link="consumable_140_desc">
+        <string lang="en">Increases your current Tokens by ^50^</string>
+        <string lang="fr">Accroît ton Jetons actuelle de ^50^</string>
+        <string lang="it">Aumenta la tua Gettoni attuale di ^50^</string>
+        <string lang="de">Erhöht deine aktuelle Tokens um ^50^.</string>
+        <string lang="es">Aumenta tu Fichas en ^50^ puntos.</string>
+        <string lang="pt">Aumenta sua Fichas em ^50^</string>
+    </ref>
+    
+    
+    
+    
+    <ref link="consumable_141_name">
+        <string lang="en">Item Find Tome</string>
+        <string lang="fr">Découverte d'objets Tome</string>
+        <string lang="it">Trova-oggetti Tome</string>
+        <string lang="de">Gegenstände finden Tome</string>
+        <string lang="es">Hallazgo de objetos Tome</string>
+        <string lang="pt">Encontrar Itens Tome</string>
+    </ref>
+    <ref link="consumable_141_desc">
+        <string lang="en">Increases your chance to find powerful items from battles and treasures by ^200^% for ^24^ hours</string>
+        <string lang="fr">Accroît de ^200^% pendant ^24^ heures tes chances de découvrir de puissants objets lors des combats et dans les coffres aux trésors</string>
+        <string lang="it">Aumenta le chance di trovare oggetti potenti in battaglie e tesori del ^200^% per ^24^ ore</string>
+        <string lang="de">Erhöht deine Chance, in Schlachten und Schätzen mächtige Gegenstände zu finden, ^24^ Stunden lang um ^200^%.</string>
+        <string lang="es">Aumenta tus probabilidades de encontrar objetos poderosos en batallas y tesoros en un ^200^% durante ^24^ horas.</string>
+        <string lang="pt">Aumenta em ^200^% sua chance de encontrar itens poderosos em batalhas e tesouros, durante ^24^ horas</string>
+    </ref>
+    <ref link="consumable_142_name">
+        <string lang="en">Experience Tome</string>
+        <string lang="fr">Expérience Tome</string>
+        <string lang="it">Esperienza Tome</string>
+        <string lang="de">Erfahrung Tome</string>
+        <string lang="es">Experiencia Tome</string>
+        <string lang="pt">Experiência Tome</string>
+    </ref>
+    <ref link="consumable_142_desc">
+        <string lang="en">Increases your Experience gained from battles by ^200^% for ^24^ hours</string>
+        <string lang="fr">Accroît de ^200^% pendant ^24^ heures l'expérience que tu acquiers lors des combats</string>
+        <string lang="it">Aumenta l'esperienza che ottieni in battaglia del ^200^% per ^24^ ore</string>
+        <string lang="de">Erhöht die Erfahrung, die du in Schlachten sammelst, ^24^ Stunden lang um ^200^%.</string>
+        <string lang="es">Aumenta la experiencia que ganas en las batallas en un ^200^% durante ^24^ horas.</string>
+        <string lang="pt">Aumenta seu ganho de experiência em ^200^% durante ^24^ horas</string>
+    </ref>
+    
+    
+    <ref link="consumable_155_name">
+        <string lang="en">Broccoli</string>
+        <string lang="fr">Brocoli</string>
+        <string lang="it">Broccoli</string>
+        <string lang="de">Brokkoli</string>
+        <string lang="es">Brócoli</string>
+        <string lang="pt">Brócolis</string>
+    </ref>
+    <ref link="consumable_155_desc">
+        <string lang="en">Increases your Item Find, Experience, Gold Find, and Movement Speed by ^75^% for ^24^ hours</string>
+        <string lang="fr">Augmente votre Découverte d'objets, Expérience, Découverte d'or et Vitesse de déplacement de ^75^% pendant ^24^ heures</string>
+        <string lang="it">Aumenta il tuo Trova-oggetti, Esperienza, Trova-oro e Velocità di movimento del ^75^% per ^24^ ore</string>
+        <string lang="de">Erhöht deine Gegenstände finden, Erfahrung, Gold finden und Bewegungsgeschwindigkeit um ^75^% für ^24^ Stunden</string>
+        <string lang="es">Aumenta su Hallazgo de objetos, Experiencia, Hallazgo de oro y Velocidad de movimiento en un ^75^% durante ^24^ horas</string>
+        <string lang="pt">Aumenta seu Encontrar Itens, Experiência, Encontrar Ouro e Movimentação em ^75^% durante ^24^ horas</string>
+    </ref>
+    
+    
+    
+    
+    
+    
+    
+    <ref link="consumable_156_name">
+        <string lang="en">Green Candy</string>
+        <string lang="fr">Bonbon vert</string>
+        <string lang="it">Candy verde</string>
+        <string lang="de">Grüne Süßigkeit</string>
+        <string lang="es">Caramelo verde</string>
+        <string lang="pt">Doces verdes</string>
+    </ref>
+    <ref link="consumable_156_desc">
+        <string lang="en">Increases your current Energy by ^100^</string>
+        <string lang="fr">Accroît ton énergie actuelle de ^100^</string>
+        <string lang="it">Aumenta la tua energia attuale di ^100^</string>
+        <string lang="de">Erhöht deine aktuelle Energie um ^100^</string>
+        <string lang="es">Aumenta tu energía en ^100^ puntos.</string>
+        <string lang="pt">Aumenta sua Energia em ^100^</string>
+    </ref>
+    <ref link="consumable_157_name">
+        <string lang="en">Yellow Candy</string>
+        <string lang="fr">Bonbons jaunes</string>
+        <string lang="it">Candy giallo</string>
+        <string lang="de">Gelbe Süßigkeit</string>
+        <string lang="es">Caramelo amarillo</string>
+        <string lang="pt">Doces amarelos</string>
+    </ref>
+    <ref link="consumable_157_desc">
+        <string lang="en">Increases your current Badges by ^10^</string>
+        <string lang="fr">Accroît ton Badges actuelle de ^10^</string>
+        <string lang="it">Aumenta la tua Badge attuale di ^10^</string>
+        <string lang="de">Erhöht deine aktuelle Abzeichen um ^10^</string>
+        <string lang="es">Aumenta tu Insignias en ^10^ puntos.</string>
+        <string lang="pt">Aumenta sua Distintivos em ^10^</string>
+    </ref>
+    <ref link="consumable_158_name">
+        <string lang="en">Red Candy</string>
+        <string lang="fr">Bonbons rouges</string>
+        <string lang="it">Candy rosso</string>
+        <string lang="de">Rote Süßigkeit</string>
+        <string lang="es">Caramelo rojo</string>
+        <string lang="pt">Red Candy</string>
+    </ref>
+    <ref link="consumable_158_desc">
+        <string lang="en">Increases your current Tickets by ^10^</string>
+        <string lang="fr">Accroît ton Tickets actuelle de ^10^</string>
+        <string lang="it">Aumenta la tua Biglietti attuale di ^10^</string>
+        <string lang="de">Erhöht deine aktuelle Tickets um ^10^</string>
+        <string lang="es">Aumenta tu Boletos en ^10^ puntos.</string>
+        <string lang="pt">Aumenta sua Tíquetes em ^10^</string>
+    </ref>
+    <ref link="consumable_159_name">
+        <string lang="en">Pink Candy</string>
+        <string lang="fr">Bonbon rose</string>
+        <string lang="it">Candy rosa</string>
+        <string lang="de">Rosa Süßigkeit</string>
+        <string lang="es">Caramelo rosado</string>
+        <string lang="pt">Pink Candy</string>
+    </ref>
+    <ref link="consumable_159_desc">
+        <string lang="en">Increases your current Shards by ^4^</string>
+        <string lang="fr">Accroît ton Tessons actuelle de ^4^</string>
+        <string lang="it">Aumenta la tua Frammenti attuale di ^4^</string>
+        <string lang="de">Erhöht deine aktuelle Splitter um ^4^</string>
+        <string lang="es">Aumenta tu Fragmentos en ^4^ puntos.</string>
+        <string lang="pt">Aumenta sua Cristais em ^4^</string>
+    </ref>
+    <ref link="consumable_160_name">
+        <string lang="en">Blue Candy</string>
+        <string lang="fr">Bonbons bleus</string>
+        <string lang="it">Candy blu</string>
+        <string lang="de">Blaue Süßigkeit</string>
+        <string lang="es">Blue Candy</string>
+        <string lang="pt">Blue Candy</string>
+    </ref>
+    <ref link="consumable_160_desc">
+        <string lang="en">Increases your current Tokens by ^10^</string>
+        <string lang="fr">Accroît ton Jetons actuelle de ^10^</string>
+        <string lang="it">Aumenta la tua Gettoni attuale di ^10^</string>
+        <string lang="de">Erhöht deine aktuelle Tokens um ^10^</string>
+        <string lang="es">Aumenta tu Fichas en ^10^ puntos.</string>
+        <string lang="pt">Aumenta sua Fichas em ^10^</string>
+    </ref>
+    <ref link="consumable_161_name">
+        <string lang="en">Mega Offense Accessory Box</string>
+        <string lang="fr">Méga boîte d'Accessoires offensifs</string>
+        <string lang="it">Scatola uovo accessorio d'attacco</string>
+        <string lang="de">Mega Angriffsaccessoire-Box</string>
+        <string lang="es">Caja de accesorios de ataque mega</string>
+        <string lang="pt">Caixa de Acessórios de Ataque Mega</string>
+    </ref>
+    
+    <ref link="consumable_162_name">
+        <string lang="en">Super Potion</string>
+        <string lang="fr">Potion de Super</string>
+        <string lang="it">Pozione Super</string>
+        <string lang="de">Superstrank</string>
+        <string lang="es">Poción Súper</string>
+        <string lang="pt">Poção de Super</string>
+    </ref>
+    <ref link="consumable_162_desc">
+        <string lang="en">Restores ^100^% Health and Shields. Usable on dead or alive units.</string>
+        <string lang="fr">Restaure ^100^% Santé et boucliers. Utilisable sur des unités mortes ou vivantes.</string>
+        <string lang="it">Ripristina ^100^% salute e scudi. Utilizzabile su unità morte o vive.</string>
+        <string lang="de">Stellt ^100^% Gesundheit und Schilde wieder her. Verwendbar auf toten oder lebendigen Einheiten.</string>
+        <string lang="es">Restaura ^100^% Salud y Escudos. Utilizable en unidades muertas o vivas.</string>
+        <string lang="pt">Restaura ^100^% Saúde e Escudos. Usável em unidades mortas ou vivas.</string>
+    </ref>
+    
+    <ref link="consumable_163_name">
+        <string lang="en">Capture Rate Tome</string>
+        <string lang="fr">Taux de capture Tome</string>
+        <string lang="it">Chance di cattura Tome</string>
+        <string lang="de">Schutzgeistrate Tome</string>
+        <string lang="es">Tasa de captura Tome</string>
+        <string lang="pt">Taxa de Captura Tome</string>
+    </ref>
+    <ref link="consumable_163_desc">
+        <string lang="en">Increases chance for powerful familiars to want to join your team by ^200^% for 24 hours</string>
+        <string lang="fr">Accroît de ^200^% pendant 24 heures tes chances d'attirer de puissants familiers dans ton équipe</string>
+        <string lang="it">Aumenta le chance che i famigli potenti vogliano unirsi alla tua squadra del ^200^% per 24 ore</string>
+        <string lang="de">Erhöht die Chance, dass mächtige Schutzgeister deiner Gruppe beitreten wollen, 24 Stunden lang um ^200^%.</string>
+        <string lang="es">Aumenta las probabilidades de que compañeros poderosos quieran unirse a tu equipo en un ^200^% durante 24 horas.</string>
+        <string lang="pt">Aumenta a chance dos familiares poderosos pedirem para entrar no seu time em ^200^% durante 24 horas</string>
+    </ref>
+    
+    
+    
+    <ref link="consumable_174_name">
+        <string lang="en">Delicious Feast</string>
+        <string lang="fr">Festin délicieux</string>
+        <string lang="it">Festa deliziosa</string>
+        <string lang="de">Köstliches Fest</string>
+        <string lang="es">Delicioso banquete</string>
+        <string lang="pt">Festa deliciosa</string>
+    </ref>
+    
+    
+    <ref link="consumable_175_name">
+        <string lang="en">Black Friday Egg</string>
+        <string lang="fr">Oeuf du vendredi noir</string>
+        <string lang="it">Black Friday Egg</string>
+        <string lang="de">Schwarzes Freitag-Ei</string>
+        <string lang="es">Huevo del Viernes Negro</string>
+        <string lang="pt">Ovo preto da sexta-feira</string>
+    </ref>
+    
+    
+    <ref link="consumable_177_name">
+        <string lang="en">Small Defense Pet Egg</string>
+        <string lang="fr">Petit œuf d'Animal domestique défensif</string>
+        <string lang="it">Uovo piccolo mascotte di difesa</string>
+        <string lang="de">Kleines Verteidigungsbegleiter-Ei</string>
+        <string lang="es">Huevo de mascota de defensa pequeño</string>
+        <string lang="pt">Ovo de Mascote Defensivo Pequeno</string>
+    </ref>
+    <ref link="consumable_178_name">
+        <string lang="en">Large Defense Pet Egg</string>
+        <string lang="fr">Grand œuf d'Animal domestique défensif</string>
+        <string lang="it">Uovo grande mascotte di difesa</string>
+        <string lang="de">Großes Verteidigungsbegleiter-Ei</string>
+        <string lang="es">Huevo de mascota de defensa grande</string>
+        <string lang="pt">Ovo de Mascote Defensivo Grande</string>
+    </ref>
+    <ref link="consumable_179_name">
+        <string lang="en">Coco</string>
+    </ref>
+    
+    <ref link="consumable_181_name">
+        <string lang="en">Gingerbread Potion</string>
+        <string lang="fr">Potion de pain d'épice</string>
+        <string lang="it">Pozione di Gingerbread</string>
+        <string lang="de">Lebkuchentrank</string>
+        <string lang="es">Poción de jengibre</string>
+        <string lang="pt">Poção de pão de gengibre</string>
+    </ref>
+    <ref link="consumable_181_desc">
+        <string lang="en">Changes your skin tone to a Gingerbread color. Using this potion a second time will reverse the effects. This potion has infinite uses.</string>
+        <string lang="fr">Donne à ta peau la couleur d'un pain d'épice. La deuxième utilisation de cette potion inversera ses effets. Elle peut être utilisée à l'infini.</string>
+        <string lang="it">Cambia il colore della tua pelle in un colore Pan di zenzero. Usa di nuovo la pozione per invertire gli effetti. Puoi usare la pozione infinite volte.</string>
+        <string lang="de">Ändert deine Hautfarbe in eine Ur-Farbe. Wenn du diesen Lebkuchen ein zweites Mal zu dir nimmst, wird die Wirkung aufgehoben. Du kannst diesen Trank unendlich oft zu dir nehmen.</string>
+        <string lang="es">Cambia tu tono de piel a un color Pan de jengibre. Si utilizas esta poción por segunda vez, se invertirá el efecto. Esta poción tiene usos infinitos.</string>
+        <string lang="pt">Altera a cor da sua pele para uma tonalidade Pão de gengibre. Use a poção novamente para reverter os efeitos. Esta poção é infinita.</string>
+    </ref>
+    
+    
+    
+    <ref link="consumable_182_name">
+        <string lang="en">Holiday Goodie Bag</string>
+        <string lang="fr">Sac de vacances Goodie</string>
+        <string lang="it">Borsa per gli amici delle feste</string>
+        <string lang="de">Urlaub Goodie Bag</string>
+        <string lang="es">Holiday Goodie Bag</string>
+        <string lang="pt">Saco Goodie Feriado</string>
+    </ref>
+    <ref link="consumable_182_desc">
+        <string lang="en">Exclusive one time consumable containing very rare items. Limit five per account.</string>
+        <string lang="fr">Un consommable unique contenant des articles très rares. Limite de cinq par compte.</string>
+        <string lang="it">Esclusivo un tempo di consumo contenente articoli molto rari. Limite cinque per account.</string>
+        <string lang="de">Exklusives Einmal-Verschleiß mit sehr seltenen Gegenständen. Begrenzen Sie fünf pro Konto.</string>
+        <string lang="es">Exclusivo consumible de una sola vez que contiene artículos muy raros. Límite de cinco por cuenta.</string>
+        <string lang="pt">Consumíveis exclusivos de um tempo contendo itens muito raros. Limite cinco por conta.</string>
+    </ref>
+    <ref link="consumable_182_summary">
+        <string lang="en">Contains all of the items below. Limit five per account.</string>
+        <string lang="fr">Contient tous les éléments ci-dessous. Limite de cinq par compte.</string>
+        <string lang="it">Contiene tutti gli elementi sottostanti. Limite cinque per account.</string>
+        <string lang="de">Enthält alle nachfolgenden Artikel. Begrenzen Sie fünf pro Konto.</string>
+        <string lang="es">Contiene todos los elementos a continuación. Límite de cinco por cuenta.</string>
+        <string lang="pt">Contém todos os itens abaixo. Limite cinco por conta.</string>
+    </ref>
+    
+    <ref link="consumable_183_name">
+        <string lang="en">Festivus Crate</string>
+        <string lang="fr">Caisse de Festivus</string>
+        <string lang="it">Cassa Festivus</string>
+        <string lang="de">Festivus Kiste</string>
+        <string lang="es">Cajón Festivus</string>
+        <string lang="pt">Festivus Crate</string>
+    </ref>
+    
+    
+    
+    
+    <ref link="consumable_184_name">
+        <string lang="en">Quinn's Fammy Pouch</string>
+        <string lang="fr">Quinn's Fammy Pochette</string>
+        <string lang="it">Custodia per Fammy di Quinn</string>
+        <string lang="de">Quinns Famy Pouch</string>
+        <string lang="es">Bolsa de Fammy de Quinn</string>
+        <string lang="pt">Bolsa Fammy de Quinn</string>
+    </ref>
+    
+    
+    
+    
+    <ref link="consumable_185_name">
+        <string lang="en">Gold Pan</string>
+        <string lang="fr">Casserole d'or</string>
+        <string lang="it">Padella d'oro</string>
+        <string lang="de">Goldpfanne</string>
+        <string lang="es">Pan de Oro</string>
+        <string lang="pt">Panela de Ouro</string>
+    </ref>
+    <ref link="consumable_185_desc">
+        <string lang="en">Increases your Gold gained from battles and treasures by ^200^% for ^24^ hours</string>
+        <string lang="fr">Accroît de ^200^% pendant ^24^ heures l'or acquis via les combats et les coffres aux trésors</string>
+        <string lang="it">Aumenta l'oro guadagnato in battaglie e tesori del ^200^% per ^24^ ore</string>
+        <string lang="de">Erhöht das Gold, das du in Schlachten und aus Schätzen sammelst, ^24^ Stunden lang um ^200^%.</string>
+        <string lang="es">Aumenta el oro que ganas con las batallas y tesoros en un ^200^% durante ^24^ horas.</string>
+        <string lang="pt">Aumenta seu ganho de ouro em ^200^% durante ^24^ horas</string>
+    </ref>
+    <ref link="consumable_186_name">
+        <string lang="en">Rocket Skates</string>
+        <string lang="fr">Patins à Fusées</string>
+        <string lang="it">Pattini a Razzo</string>
+        <string lang="de">Raketenskates</string>
+        <string lang="es">Patines de Cohetes</string>
+        <string lang="pt">Skates de Foguete</string>
+    </ref>
+    <ref link="consumable_186_desc">
+        <string lang="en">Increases your movement speed in dungeons and towns by ^200^% for ^24^ hours</string>
+        <string lang="fr">Accroît de ^200^% pendant ^24^ heures ta vitesse de déplacement dans les villes et donjons</string>
+        <string lang="it">Aumenta la velocità di movimento in dungeon e città del ^200^% per ^24^ ore</string>
+        <string lang="de">Erhöht deine Bewegungsgeschwindigkeit in Verliesen und Städten ^24^ Stunden lang um ^200^%.</string>
+        <string lang="es">Aumenta tu velocidad de movimiento en mazmorras y ciudades en un ^200^% durante ^24^ horas.</string>
+        <string lang="pt">Aumenta em ^200^% sua velocidade nas masmorras e cidades, durante ^24^ horas</string>
+    </ref>
+    
+    <ref link="consumable_199_name">
+        <string lang="en">Derwin's Power Pouch</string>
+        <string lang="fr">Poche de puissance de Derwin</string>
+        <string lang="it">La sacca elettrica di Derwin</string>
+        <string lang="de">Derwins Power Pouch</string>
+        <string lang="es">Bolsa de energía de Derwin</string>
+        <string lang="pt">Bolsa de poder de Derwin</string>
+    </ref>
+    
+    <ref link="consumable_200_name">
+        <string lang="en">Winter's Chill Crate</string>
+        <string lang="fr">Caisse froide de l'hiver</string>
+        <string lang="it">Winter's Chill Crate</string>
+        <string lang="de">Winter Chill Crate</string>
+        <string lang="es">Caja de enfriamiento de invierno</string>
+        <string lang="pt">Caixão frio do inverno</string>
+    </ref>
+    
+    <ref link="consumable_201_name">
+        <string lang="en">Hyper Pouch</string>
+        <string lang="fr">Hyper Poche</string>
+        <string lang="it">Iper Sacca</string>
+        <string lang="de">Hyperbeutel</string>
+        <string lang="es">Bolsa Hiperactiva</string>
+        <string lang="pt">Bolsa Hiper</string>
+    </ref>
+    
+    
+    <ref link="consumable_206_name">
+        <string lang="en">Mega Offense Pet Egg</string>
+        <string lang="fr">Méga œuf d'Animal domestique offensif</string>
+        <string lang="it">Uovo mega mascotte di attacco</string>
+        <string lang="de">Mega Angriffsbegleiter-Ei</string>
+        <string lang="es">Huevo de mascota de ataque mega</string>
+        <string lang="pt">Ovo de Mascote Ofensivo Mega</string>
+    </ref>
+    
+    
+    <ref link="consumable_208_name">
+        <string lang="en">Small Dragon Egg</string>
+        <string lang="fr">Petit œuf de dragon</string>
+        <string lang="it">Uovo piccolo di Drago</string>
+        <string lang="de">Kleines Drachenei</string>
+        <string lang="es">Huevo de dragón pequeño</string>
+        <string lang="pt">Ovo de Dragão Pequeno</string>
+    </ref>
+    <ref link="consumable_208_desc">
+        <string lang="en">Contains ^1^ random item</string>
+        <string lang="fr">Contient ^1^ objet aléatoire</string>
+        <string lang="it">Contiene ^1^ oggetto casuale</string>
+        <string lang="de">Enthält ^1^ zufälligen objekt.</string>
+        <string lang="es">Contiene ^1^ objeto al azar.</string>
+        <string lang="pt">Contém ^1^ objeto aleatório</string>
+    </ref>
+    <ref link="consumable_209_name">
+        <string lang="en">Large Dragon Egg</string>
+        <string lang="fr">Grand œuf de dragon</string>
+        <string lang="it">Uovo grande di Drago</string>
+        <string lang="de">Großes Drachenei</string>
+        <string lang="es">Huevo de dragón grande</string>
+        <string lang="pt">Ovo de Dragão Grande</string>
+    </ref>
+    <ref link="consumable_209_desc">
+        <string lang="en">Contains ^5^ random items. Guaranteed at least ^1^ *rare* or better!</string>
+        <string lang="fr">Contient ^5^ objets aléatoires. Présence garantie d'au moins ^1^ objet *rare* ou mieux !</string>
+        <string lang="it">Contiene ^5^ oggetti casuali. Almeno ^1^ oggetto *rare* o migliore garantito!</string>
+        <string lang="de">Enthält ^5^ zufällige gegenstände. Garantiert mindestens ^1^ Gegenstand der Stufe *rare* oder höher!</string>
+        <string lang="es">Contiene ^5^ objetos al azar. ¡Te garantiza al menos ^1^ objeto *rare* o superior!</string>
+        <string lang="pt">Contém ^5^ itens aleatórios. Garantimos pelo menos ^1^ item *rare* ou melhor!</string>
+    </ref>
+    
+    
+    <ref link="consumable_210_desc">
+        <string lang="en">Creates ^1^ random Mount</string>
+        <string lang="fr">Crée ^1^ Monture aléatoire</string>
+        <string lang="it">Crea ^1^ Cavalcatura casuale</string>
+        <string lang="de">Lässt ^1^ zufälligen Reittier.</string>
+        <string lang="es">Crea ^1^ Montura al azar.</string>
+        <string lang="pt">Contém ^1^ Montaria aleatório</string>
+    </ref>
+    <ref link="consumable_210_summary">
+        <string lang="en">Creates ^1^ of the Mounts below</string>
+        <string lang="fr">Crée ^1^ des Montures ci-dessous</string>
+        <string lang="it">Crea ^1^ delle Cavalcature seguenti</string>
+        <string lang="de">Lässt ^1^ der untenstehenden Reittiere.</string>
+        <string lang="es">Crea ^1^ de las Monturas siguientes</string>
+        <string lang="pt">Contém ^1^ dos Montarias aleatórios</string>
+    </ref>
+    
+    
+    
+    
+    
+    <ref link="consumable_223_name">
+        <string lang="en">Bubgor</string>
+    </ref>
+    <ref link="consumable_223_desc">
+        <string lang="en">Increases your Item Find, Experience, Capture Rate, Gold Find, and Movement Speed by ^200^% for ^72^ hours</string>
+        <string lang="fr">Augmente votre Découverte d'objets, Expérience, Taux de capture, Découverte d'or et Vitesse de déplacement de ^200^% pendant ^72^ heures</string>
+        <string lang="it">Aumenta il tuo Trova-oggetti, Esperienza, Chance di cattura, Trova-oro e Velocità di movimento del ^200^% per ^72^ ore</string>
+        <string lang="de">Erhöht deine Gegenstände finden, Erfahrung, Schutzgeistrate, Gold finden und Bewegungsgeschwindigkeit um ^200^% für ^72^ Stunden</string>
+        <string lang="es">Aumenta su Hallazgo de objetos, Experiencia, Tasa de captura, Hallazgo de oro y Velocidad de movimiento en un ^200^% durante ^72^ horas</string>
+        <string lang="pt">Aumenta seu Encontrar Itens, Experiência, Taxa de Captura, Encontrar Ouro e Movimentação em ^200^% durante ^72^ horas</string>
+    </ref>
+    
+    
+</data>
