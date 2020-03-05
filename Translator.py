@@ -112,6 +112,7 @@ class GoogleTranslator:
                 if content.find("lang=\"en\"")!=-1:#找到需要翻译的特征符合lang="en"
                     key_word = content[content.find(">")+1:content.rfind("</")]
                     new_content = content.replace(key_word,self.translate(key_word))
+                    
                     target_content.append(new_content.replace("lang=\"en\"","lang=\"zh-cn\""))#添加中文特征符合
                     print("translated text:"+new_content)
                 else:
@@ -129,20 +130,123 @@ class GoogleTranslator:
         with open(_path+".txt", 'w', encoding='utf-8') as f:
             f.writelines(new_content)
 
+    def txt_doc_giveitupfall(self, _path):
+        print("Translate txt Started:"+_path)
+        new_content = []
+        with open(_path, 'r', encoding='utf-8') as f:
+            contents = f.readlines()
+            for content in contents:
+                if content.find("		<value>")!=-1:
+                    print(content)
+                    start_text = content.find("		<value>")
+                    end_text = content.find("</value>")
+                    translate_string = content[start_text+len('		<value>'):end_text]
+                    translate_back = False
+                    if translate_string.find('#')!=-1:
+                        translate_string = translate_string.replace("#",'..')
+                        translate_back=True
+                        modified_text = content.replace(translate_string.replace("..",'#'),self.translate(translate_string))+'\n'
+                    elif translate_string.find('&')!=-1:
+                        translate_string = translate_string.replace("&",'..')
+                        translate_back=True
+                        modified_text = content.replace(translate_string.replace("..",'&'),self.translate(translate_string))+'\n'
+                    elif translate_string.find('+')!=-1:
+                        translate_string = translate_string.replace("+",'..')
+                        translate_back=True
+                        modified_text = content.replace(translate_string.replace("..",'+'),self.translate(translate_string))+'\n'
+                    else:
+                        modified_text = content.replace(translate_string,self.translate(translate_string))+'\n'
+                    if translate_back == True:
+                        modified_text = modified_text.replace('..','#')
+                        translate_back = False
+                    new_content.append(modified_text)
+                    print(modified_text)
+                    time.sleep(1)
+                else:
+                    new_content.append(content+'\n')
+        with open(_path+"."+self.target, 'w', encoding='utf-8') as f:
+            f.writelines(new_content)
+
+    def txt_doc_giveitupfall(self, _path):
+        print("Translate txt Started:"+_path)
+        new_content = []
+        with open(_path, 'r', encoding='utf-8') as f:
+            contents = f.readlines()
+            for content in contents:
+                if content.find(":")!=-1:
+                    print(content)
+                    start_text = content.find('": "')
+                    end_text = content.rfind("\"")
+                    translate_string = content[start_text+len('": "'):end_text]
+                    translate_back = False
+                    if translate_string.find('#')!=-1:
+                        translate_string = translate_string.replace("#",'..')
+                        translate_back=True
+                        modified_text = content.replace(translate_string.replace("..",'#'),self.translate(translate_string))+'\n'
+                    elif translate_string.find('&')!=-1:
+                        translate_string = translate_string.replace("&",'..')
+                        translate_back=True
+                        modified_text = content.replace(translate_string.replace("..",'&'),self.translate(translate_string))+'\n'
+                    elif translate_string.find('+')!=-1:
+                        translate_string = translate_string.replace("+",'..')
+                        translate_back=True
+                        modified_text = content.replace(translate_string.replace("..",'+'),self.translate(translate_string))+'\n'
+                    else:
+                        modified_text = content.replace(translate_string,self.translate(translate_string))+'\n'
+                    if translate_back == True:
+                        modified_text = modified_text.replace('..','#')
+                        translate_back = False
+                    new_content.append(modified_text)
+                    print(modified_text)
+                    # time.sleep(2)
+                else:
+                    new_content.append(content+'\n')
+        with open(_path+"."+self.target, 'w', encoding='utf-8') as f:
+            f.writelines(new_content)
 if __name__ == '__main__':
     # main()
     parser = argparse.ArgumentParser()
-    parser.add_argument('-orgin', '--o'  , type = str, default = 'zh-CN', help = 'orginal text, 中文:zh-CN, 英语:en, 繁体中文台湾:zh_TW, 繁体中文香港:zh_HK, 繁体中文新加坡:zh_HK, 俄语:ru, 日语:ja, 德语:de, 法语:fr, 韩语:ko, 泰语:th, 意大利语言:it')
-    parser.add_argument('-target','--t'  , type = str, default = 'en',    help = 'target text,  中文:zh-CN, 英语:en, 繁体中文台湾:zh_TW, 繁体中文香港:zh_HK, 繁体中文新加坡:zh_HK, 俄语:ru, 日语:ja, 德语:de, 法语:fr, 韩语:ko, 泰语:th, 意大利语言:it')
+    parser.add_argument('-orgin', '--o'  , type = str, default = 'en', help = 'orginal text, 中文:zh-CN, 英语:en, 繁体中文台湾:zh_TW, 繁体中文香港:zh_HK, 繁体中文新加坡:zh_HK, 俄语:ru, 日语:ja, 德语:de, 法语:fr, 韩语:ko, 泰语:th, 意大利语言:it')
+    parser.add_argument('-target','--t'  , type = str, default = 'zh-CN',    help = 'target text,  中文:zh-CN, 英语:en, 繁体中文台湾:zh_TW, 繁体中文香港:zh_HK, 繁体中文新加坡:zh_HK, 俄语:ru, 日语:ja, 德语:de, 法语:fr, 韩语:ko, 泰语:th, 意大利语言:it')
     args = parser.parse_args()
-
     gt = GoogleTranslator(oringal= args.o, target=args.t)
-    print(gt.translate('我'))
+    gt.txt_doc_giveitupfall('/Users/batista/Desktop/english.txt')
 
-    # gt_en_to_zhCN = GoogleTranslator(oringal= 'en', target='zh-CN')
-    # gt_en_to_zhCN.xml_doc('./demo_translate_files/demo.xml')
+    parser = argparse.ArgumentParser()
+    parser.add_argument('-orgin', '--o'  , type = str, default = 'en', help = 'orginal text, 中文:zh-CN, 英语:en, 繁体中文台湾:zh_TW, 繁体中文香港:zh_HK, 繁体中文新加坡:zh_HK, 俄语:ru, 日语:ja, 德语:de, 法语:fr, 韩语:ko, 泰语:th, 意大利语言:it')
+    parser.add_argument('-target','--t'  , type = str, default = 'zh_TW',    help = 'target text,  中文:zh-CN, 英语:en, 繁体中文台湾:zh_TW, 繁体中文香港:zh_HK, 繁体中文新加坡:zh_HK, 俄语:ru, 日语:ja, 德语:de, 法语:fr, 韩语:ko, 泰语:th, 意大利语言:it')
+    args = parser.parse_args()
+    gt = GoogleTranslator(oringal= args.o, target=args.t)
+    gt.txt_doc_giveitupfall('/Users/batista/Desktop/english.txt')
 
-    # gt_znCN_to_en = GoogleTranslator(oringal= 'zh-CN', target='en')
-    # gt_znCN_to_en.txt_doc('./demo_translate_files/demo.txt')
+
+    parser = argparse.ArgumentParser()
+    parser.add_argument('-orgin', '--o'  , type = str, default = 'en', help = 'orginal text, 中文:zh-CN, 英语:en, 繁体中文台湾:zh_TW, 繁体中文香港:zh_HK, 繁体中文新加坡:zh_HK, 俄语:ru, 日语:ja, 德语:de, 法语:fr, 韩语:ko, 泰语:th, 意大利语言:it')
+    parser.add_argument('-target','--t'  , type = str, default = 'zh_HK',    help = 'target text,  中文:zh-CN, 英语:en, 繁体中文台湾:zh_TW, 繁体中文香港:zh_HK, 繁体中文新加坡:zh_HK, 俄语:ru, 日语:ja, 德语:de, 法语:fr, 韩语:ko, 泰语:th, 意大利语言:it')
+    args = parser.parse_args()
+    gt = GoogleTranslator(oringal= args.o, target=args.t)
+    gt.txt_doc_giveitupfall('/Users/batista/Desktop/english.txt')
+
+    parser = argparse.ArgumentParser()
+    parser.add_argument('-orgin', '--o'  , type = str, default = 'en', help = 'orginal text, 中文:zh-CN, 英语:en, 繁体中文台湾:zh_TW, 繁体中文香港:zh_HK, 繁体中文新加坡:zh_HK, 俄语:ru, 日语:ja, 德语:de, 法语:fr, 韩语:ko, 泰语:th, 意大利语言:it')
+    parser.add_argument('-target','--t'  , type = str, default = 'ja',    help = 'target text,  中文:zh-CN, 英语:en, 繁体中文台湾:zh_TW, 繁体中文香港:zh_HK, 繁体中文新加坡:zh_HK, 俄语:ru, 日语:ja, 德语:de, 法语:fr, 韩语:ko, 泰语:th, 意大利语言:it')
+    args = parser.parse_args()
+    gt = GoogleTranslator(oringal= args.o, target=args.t)
+    gt.txt_doc_giveitupfall('/Users/batista/Desktop/english.txt')
+
+    parser = argparse.ArgumentParser()
+    parser.add_argument('-orgin', '--o'  , type = str, default = 'en', help = 'orginal text, 中文:zh-CN, 英语:en, 繁体中文台湾:zh_TW, 繁体中文香港:zh_HK, 繁体中文新加坡:zh_HK, 俄语:ru, 日语:ja, 德语:de, 法语:fr, 韩语:ko, 泰语:th, 意大利语言:it')
+    parser.add_argument('-target','--t'  , type = str, default = 'ko',    help = 'target text,  中文:zh-CN, 英语:en, 繁体中文台湾:zh_TW, 繁体中文香港:zh_HK, 繁体中文新加坡:zh_HK, 俄语:ru, 日语:ja, 德语:de, 法语:fr, 韩语:ko, 泰语:th, 意大利语言:it')
+    args = parser.parse_args()
+    gt = GoogleTranslator(oringal= args.o, target=args.t)
+    gt.txt_doc_giveitupfall('/Users/batista/Desktop/english.txt')
+
+    parser = argparse.ArgumentParser()
+    parser.add_argument('-orgin', '--o'  , type = str, default = 'en', help = 'orginal text, 中文:zh-CN, 英语:en, 繁体中文台湾:zh_TW, 繁体中文香港:zh_HK, 繁体中文新加坡:zh_HK, 俄语:ru, 日语:ja, 德语:de, 法语:fr, 韩语:ko, 泰语:th, 意大利语言:it')
+    parser.add_argument('-target','--t'  , type = str, default = 'en-sg',    help = 'target text,  中文:zh-CN, 英语:en, 繁体中文台湾:zh_TW, 繁体中文香港:zh_HK, 繁体中文新加坡:zh_HK, 俄语:ru, 日语:ja, 德语:de, 法语:fr, 韩语:ko, 泰语:th, 意大利语言:it')
+    args = parser.parse_args()
+    gt = GoogleTranslator(oringal= args.o, target=args.t)
+    gt.txt_doc_giveitupfall('/Users/batista/Desktop/english.txt')
+
 
 
