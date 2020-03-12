@@ -3,1838 +3,1838 @@ TRANSLATION (MALE MANAGER)
 DO NOT TRANSLATE (F)
 DO NOT TRANSLATE (F)
 DO NOT TRANSLATE (F)
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
+一队
+能力
+关于
+接受
+成就
+升级培训地面
+建立俱乐部商店
+建立一个医疗单位
+雇用PHYSIO
+建立侦察员办公室
+雇用侦察兵
+升级健身中心
+举行成功的新闻发布会
+建立一个青年学院
+升级音高
+赢得联赛
+赢得杯赛
+赢得杯赛
+赢得欧陆俱乐部比赛
+赢得欧陆俱乐部锦标赛
+球进了
+一场比赛进球3个进球
+以5个进球赢得一场比赛
+1场比赛中传10球
+1场比赛获得20传
+升职
+调整团队组成
+赢得联赛冠军
+在联赛中保持不败
+做高音（联赛，杯赛和欧式杯赛）
+签署赞助协议
+购买侦察兵
+签约青年球员
+使用NRG卡
+召开玩家会议
+使用治疗卡
+使用合约延期卡
+进行比赛
+使用团队谈话卡
+使用禁令上诉卡
+使用员工提升卡
+获得100％董事会关系
+获得100％的FANS关系
+获得100％赞助者关系
+玩了10个赛季
+进球20个进球
+进球50个进球
+进球100个进球
+使用技能培训卡
+得分250个进球
+得分500个目标
+得分1000个目标
+得分点击
+在禁区外得分
+从30码处进​​球
+从40码处射入一球
+雇用技能教练
+雇用健身教练
+雇用青年教练
+使用健身训练卡
+成功完成BOARD目标
+调整票价
+升级您的体育场
+成就进度：
+成就成就
+这个游戏看起来很有趣，让我们看看.
+我是对的，这个游戏很有趣.让我回到它上面. . .
+学会编织，这样我就可以制作<an> $ clubname FC围巾.
+不知道这个周末该怎么办，我需要来自<工作人员姓名>的建议.
+考虑让我的头发看起来更像<playername> <position> .
+引发了关于为什么$ clubname FC在下个赛季要跻身联盟榜首的争论.
+引发了一个争论，为什么$ clubname FC下个赛季将在联赛中名列前茅，并赢得了这场胜利.
+梦见<playername> <position> .并不奇怪.
+我可能会养一条狗并将其命名为<staffname> .
+今年不打算休假，我们有一些董事会目标可以实现.
+昨天我在街上看到<playername> <position>时可能发誓.
+可以肯定的是，我很快就会被<nation>教练召集.
+开始在我的踢拇指上长出老茧.
+昨晚根本无法入睡.担心<playername> <s> <position>当前形式.
+<nation>尚未致电.也许他们留下了一条消息.
+我记得<playername> <s> <position>生日，但是忘记了自己的生日. . .
+也可以在下一场<nation>比赛时出现。
+已将“ $ clubname FC的经理”添加到我的简历的“爱好”部分.
+写一封措辞强烈的信，说明地面电视缺少$ clubname FC游戏.
+在我的简历的“以前的工作”部分添加了“ $ clubname FC的经理” .
+发现如何正式重命名我的房子后，我现在住在“ $ stadiumname” .
+在我的简历的“当前就业”部分中添加了“ $ clubname FC的经理” .
+再考虑一下，如果<nation>打电话给我.我是$ clubname FC终身.
+如果我能拿到防水电话，我可以继续在淋浴间玩耍.
+丢掉我的简历.只要我管理$ clubname FC，就不需要其他工作.
+短暂休息一下看电影.我想<playername> <position>本来会喜欢的.
+我可能会得到一个离散的“ $ clubname FC”纹身.
+我的背上可能会纹身有<playername> <s> <position>脸.
+一直在问陌生人他们是否准备好接受$ clubname FC的心意.
+<playername> <position>是我的精神动物.
+如果每个人都可以落后于$ clubname FC，我认为我们可以实现世界和平.
+<staffname>基本上就像我的家人.
+改变我的遗嘱.我所有的财产归于<工作人员姓名> .
+我死后，在我的墓碑上凿了$ clubname FC的胜利记录.
+开始希望有更多的人像<staffname> .一样有用。
+如果$ clubname FC是真实的，我会购买一张季票.
+在线检查了我是否可以为$ clubname FC购买季票.以防万一.
+为$ clubname FC设计了自己的季票并打印出来了.现在感觉更好.
+创作了一首关于<playername> <position>的歌曲，以便我在演奏时可以对其进行吟唱.
+努力回忆起$ clubname FC .之前的情况。
+班长的平均年龄是平均年龄，老板.我建议带些新鲜血液.
+班长的平均年龄是$ average_age，老板.我建议引进一或两个经验丰富的球员.
+下一场比赛后，董事会将审核我们的目标.
+一些参与者担心他们的合同.
+一些参与者担心他们缺乏发展.
+许多玩家都在关注您的管理技能.
+许多球员都在关注当前的球队FORM .我们需要一场胜利才能增强球队实力.
+目前我们缺少$ position保险.
+$ position位置是我们最弱的位置.
+我认为，我们应该寻求尽快升级我们的$ facility .
+目前，小队的整体幸福感很低.
+别忘了我们有一个空缺的$ stafftype职位需要填补.
+我认为我们的票价对比赛的出勤率有负面影响.
+我们与$关系的关系非常低，需要引起您的注意.
+我们可能需要考虑尽快增加体育场容量.
+$playername十分不高兴.也许您应该开会开会以消除气氛?
+我们的下一个目标是反对$ clubname，为什么不在比赛开始前重试!
+我们有一场至关重要的杯赛与$ clubname对抗，为什么不在比赛前重试!
+我们在$ compname中有一个与$ clubname对抗的重要比赛，为什么不在比赛开始前重试!
+嘿老板，此刻一切似乎都在发生.
+我们应该考虑提高票价.
+您可能需要考虑降低门票价格.
+团队看上去很累，也许我们应该给他们一些能量卡.
+添加Bux
+招募玩家
+重试
+使用NRG卡
+年龄
+正确
+没有
+不拥有
+错误
+是
+减少禁令
+出场
+助攻
+助理报告
+$playername和$playername 2之间的化学反应不佳.
+$playername和$playername 2的化学成分为零，并引起错误.
+$playername和$playername 2彼此之间的厌恶显而易见.
+$playername和$playername 2不相处.
+$playername和$playername 2不能站在一起.
+$playername和$playername 2显然无法相处.
+$playername和$playername 2之间的沟通不畅.
+$playername和$playername 2需要抛开它们的分歧.
+$playername和$playername 2处于不同的波长.
+$playername和$playername 2之间的化学反应不佳.
+今天，我们的粉丝们全场欢呼.
+球迷真的落后于球队.
+我们的粉丝是我们的功劳.
+粉丝们真的相信我们.
+我们的粉丝非常支持.
+今天我们的粉丝很棒.
+粉丝是我们今天的第十二个人.
+今天，我们的客队球迷们热情洋溢，.
+我们的旅行迷真的落后于车队.
+我们的客场支援非常棒.
+我们的旅行迷们真的相信我们.
+我们的旅行迷们非常支持.
+我们的客场球迷是我们的功劳.
+今天，旅行迷们是我们的第十二个人.
+$playername还是很原始.我们不应该开始他.
+$playername仍然很生疏.我们不应该等到深夜才把他带走.
+$playername非常原始.我们不应该等到比赛后期才把他带上来.
+$playername不再被视为菜鸟.
+$playername仍然是菜鸟.我们不应该启动他.
+$playername缺乏经验，无法开始比赛.
+我们应该以$playername作为替代，直到他有更多的经验.
+$playername是菜鸟.我们现在应该将他用作子对象.
+$playername在开始游戏之前需要更多的经验.
+$playername在开球后就很累.
+$playername从一开始就很累.
+$playername太累了，无法开始这场比赛.
+$playername现在的想法不在其他地方.
+我们需要解决$playername的问题.
+$playername情况不佳.
+$playername的心态不正确.
+$playername今天犯了几个错误.
+$playername的心态导致了几个错误.
+$playername目前不开心.
+$playername的士气低落.
+我们需要提高士气$playername .
+我们需要提高$playername的士气，以充分利用他的利益.
+$playername似乎分心了.
+小队缺乏信心.
+团队士气低落.
+我们需要解决小队的快乐.
+我们现在有一个不幸的小队.
+小伙子们需要鼓舞士气.
+我们需要增强小队的幸福感.
+我们需要控制玩家的担忧.
+我们需要关注玩家的快乐.
+球员的信心很低.
+幸福低落会导致球场失误.
+我们非常需要解决团队的快乐.
+玩家需要您为他们提供帮助.
+我们需要解决玩家的担忧.
+球员的低沉幸福会导致失误.
+小队充满信心.
+目前，团队士气很高.
+小队的幸福很好.
+我们现在有一个快乐的小队.
+小队的整体幸福感很好.
+从心理上来说，小队处于一个很好的位置.
+像$playername这样的球员为球队带来了丰富的经验.
+$playername显示了他的经验.
+年轻玩家可以向$playername .等经验丰富的职业玩家学习
+$playername显示了他的领导才能.
+$playername运用了他今天的所有经验.
+$playername利用他的经验取得了巨大的成就.
+$playername的经验在今天显而易见.
+$playername首次亮相.
+$playername在他的处子秀中很出色.
+$playername .精彩的处女作
+$playername出道不错.
+$playername在他的处子秀中表现不错.
+$playername首次亮相.
+$playername出道不佳.
+$playername需要时间睡觉.
+$playername的首次亮相令人失望.
+$playername很棒.
+$playername的表现非常出色.
+$playername今天真棒.
+$playername有出色的比赛.
+$playername .的惊人表演
+$playername .的惊人展示
+$playername令人震惊.
+$playername的表现远低于标准杆.
+$playername今天很糟糕.
+$playername会对他的表现感到失望.
+$playername .的糟糕表现
+$playername表现不佳.
+小伙子们为惩罚感到紧张.
+我们理应赢得枪战.
+小伙子们很好地罚分了.
+我们很不幸输掉罚款.
+我们不应该输掉罚款.
+令人失望的罚款损失.
+音调质量很差.
+音高不符合标准.
+音调质量很差.
+音调的质量非常不合标准.
+音调很糟糕.
+沥青不会帮助我们提高精力.
+在该球场上比赛后，男孩们将需要额外的恢复时间.
+球场消耗了球员的精力.
+球场排尽了球员.
+球场不利于优质足球.
+音调不佳导致$playername受伤.
+音调质量造成$playername的伤害.
+狡猾的步伐造成$playername的伤害.
+粗略的音调导致$playername受伤.
+$playername的伤害是由音高状态引起的.
+团队筋疲力尽.
+一些球员可能需要额外的恢复时间.
+球员精力很低.
+小伙子们给了我们一切，筋疲力尽.
+球员们空无一人.
+您可能需要帮助球员及时恢复下一场比赛.
+小伙子们被枪杀了.他们需要恢复时间.
+我们错过了很多好机会.
+乞讨的机会太多了.
+前锋在进球前缺乏镇定的态度.
+我们未能转换很多机会.
+我们的前锋需要更多的临床经验.
+射门过多，无法达到目标.
+我们的某些枪击事件令人毛骨悚然.
+我们的射击缺乏准确性.
+我们的前锋们需要更多地达到目标.
+太多的远程努力未达到目标.
+我们的射击非常准确.
+我们的大多数枪击都是针对性的.
+我们的前锋在进球前表现出良好的准确性.
+我们很富有创造力.
+我们的前锋率领他们的防守.
+我们向前看挺好.
+我们奋斗了.
+我们的前锋未能产生影响.
+我们的进攻缺乏创造力.
+$playername在球场上上下摇摆.
+$playername确实是盒对盒.
+$playername防守很好，有时会支持袭击.
+我们的防守很好.
+我们在防守方面表现出色.
+我们的防御力很强.
+我们缺乏防御.
+我们无法应付他们的袭击.
+反对派前锋欺负我们的国防.
+$playername愚蠢地拿到了一张黄牌进行潜水.
+裁判员发现$playername的跳水，并给了他黄色.
+$playername愚蠢地想获得第二只黄色的潜水.
+$playername在捡到另一只黄色的潜水服后将自己下车.
+$playername未能将裁判与他的表演结合起来.
+$playername很幸运没有被预定潜水.
+$playername的戏剧表演为我们赢得了罚款.
+$playername中的巧妙模拟为我们赢得了罚款.
+$playername在反对派地区屈指可数.
+$playername很好地进入了禁区.
+$playername在盒子中找到了空间.
+$playername取得了一些不错的成绩.
+$playername尽管落后，但仍拒绝放弃.
+$playername在我们落后之后表现出了重返游戏的真正决心.
+当我们落后时，$playername挖了.
+$playername受到了愚蠢的伤害.他的思想并没有集中在游戏上.
+$playername可以避免受伤。.他的心态全错了.
+$playername只能为自己的受伤负责。.他的心态不正确.
+我们在中场击败了他们.
+我们的中场控制了比赛.
+我们在中场占据统治地位.
+我们在中场挣扎.
+反对派控制了中场.
+反对派在中场占主导地位.
+$playername位置不佳时感到不舒服.
+$playername发挥自己的首选位置是一个问题.
+反对派给$playername造成了麻烦，他们发挥了自己的优势.
+$playername是一个圆孔中的方形钉子.
+$playername不喜欢扮演位置错误的角色.
+玩家位置偏离位置会使他们感到疲倦.
+球员不在位置时会更快疲劳
+$playername取得了一些不错的成绩.
+$playername显示了他的传球范围.
+$playername的过人是崇高的.
+我们表现​​出缺乏纪律性.
+我们今天犯规了.
+我们太激进了.
+我们丢了太多的任意球.
+我们的男孩太生气了.
+我们控制着财产.
+我们把球保持得很好.
+我们看上去很放心.
+$playername作为子项产生了影响.
+$playername当他加入时产生了真正的影响.
+$playername在替补席上很有用.
+$playername有时会保持良好状态.
+$playername显示了他为什么会成为好目标人.
+$playername表现出色.
+很好的结果.
+这是一个坚实的表现.
+一场胜利的胜利.
+小伙子们整体表现不错.
+很好的结果.
+我们的努力正在获得回报.
+俱乐部正在前进.
+让我们享受这个结果，然后专注于下一场比赛.
+结果如何!了不起的成就!
+整个团队都取得了令人难以置信的成就!
+哇!多么美好的一天!
+不错的成绩.这将提高团队的士气.
+进入下一轮!
+增强信心的结果.
+我们需要振作起来然后再去.
+我们需要加倍努力.
+我们应该从这个游戏中得到更多.
+今天倒退了一步.
+我们今天很不幸.
+表现不佳.
+令人失望的结果.
+让我们把这个结果抛在脑后继续前进.
+$playername年龄几岁.他的步伐和力量只会下降.
+$playername随着年龄的增长，步伐和力量将会减弱.
+$playername正在显示年龄迹象.
+到$ age岁$playername，将需要额外的恢复时间.
+$playername不是春鸡.年龄开始显现.
+$playername具有很大的潜力.
+$playername可以发展成为出色的参与者.
+我们应该帮助$playername发挥他的潜力.
+$playername具有潜力.
+在我们的帮助下$playername可以发挥他的潜力.
+获胜时我们需要变得更有韧性.
+下半场我们把比赛丢掉了.
+下半年的表现使我们付出了代价.
+下半年我们弄错了.
+我们在半场时间在前面，把它吹了.
+我们在下半年让铅滑走.
+半场领先之后很难做到.
+小伙子们感觉就像他们把比赛丢掉了.
+我们在最近15分钟内吹灭了它!
+我们需要保持韧性，直到比赛结束.
+我们需要保护铅.
+小伙子们在比赛中这么晚才被淘汰.
+我们最终失去了它.
+我们在最后投降了.
+我们在下半年进行了出色的反击.
+那是一个挑衅的卷土重来.
+下半年的表现令人难以置信.
+下半场有个好转!
+小伙子们很好地来自后面.
+球队在下半场表现出了真正的个性.
+那是充满活力的下半场复出.
+球队表现出了真正的反击实力.
+小伙子们从未放弃.
+小伙子们一直战斗到最后.
+那晚回来之后，男孩们嗡嗡作响.
+球队表现出了反击的本色.
+多么卷土重来!
+团队表现出了真正的信念，希望能在晚些时候将其扭转.
+我们需要继续努力.
+我们目前运转良好.
+我们需要保持专注，以保持这一进展.
+我们需要关注玩家的关注点，以确保比赛顺利进行.
+如果我们能让小队开心，我们就可以继续保持良好状态.
+我们经营不善.
+目前我们没有任何运气.
+我们需要扭转这种可怜的形式.
+如果我们解决了玩家的担忧，我们可以扭转这种糟糕的局面.
+如果我们提高班级的幸福感，我们可以回到制胜之道.
+如果我们能取得胜利，那将会给玩家带来巨大的升力.
+这种糟糕的表现使球员感到紧张.
+许多球员不满意被球队淘汰.
+我们对很多被淘汰的球员感到失望.
+一些球员担心被排斥在外.
+我们有些球员担心不参加比赛.
+一些玩家担心他们缺乏比赛时间.
+太多的球员担心球队的目前状态.
+太多的参与者担心他们的合同.
+太多的参与者关注他们的发展.
+$playername的形式很棒.
+$playername最近着火了.
+$playername的形式是电的.
+$playername表现出色.
+$playername位于最佳状态.
+$playername努力寻找形式.
+$playername的形式不正确.
+$playername今天再次挣扎.
+我们不能依靠$playername进行调整.
+$playername最近非常贫穷.
+$playername今天使$ num通过.
+$playername这个赛季现在有$ num个目标.
+$playername本赛季现在有$ num助攻.
+None
+助理
+助攻
+出勤率
+可用球员
+可用人员
+平均评分
+获奖情况
+客队
+None
+自定义您的徽章
+1层
+第2层
+第三层
+第4层
+5层
+设计
+在徽章上滑动即可移动设计
+背景色
+保存徽章更改
+层色
+放大
+缩小
+右旋
+向左旋转
+空白
+广场
+圈
+带
+条带
+正方形
+条2
+鹘
+狮子
+狮子
+公鸡
+天鹅
+鹰
+象
+马
+独角兽
+虎
+魔鬼
+格里芬
+球1
+球2
+球3
+球4
+5号球
+塔
+城堡
+剑
+头盔1
+轴
+头盔2
+大炮
+船
+门
+潮流
+旗
+目标
+开机
+哨
+沥青
+树
+三叶草
+玫瑰
+花
+竖琴
+横幅1
+横幅2
+横幅3
+冠1
+皇冠2
+皇冠3
+皇冠4
+明星1
+星2
+星3
+星4
+明星5
+星6
+新星
+翼1
+翼2
+翼3
+翼4
+翼5
+死亡1
+死亡2
+死亡3
+None
+球
+上诉
 DO NOT TRANSLATE (B)
 DO NOT TRANSLATE (B)
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
+董事会会议
+董事会
+董事会目标
+董事会目标
+申请资金
+董事会对您在目标方面的表现感到非常满意.
+您这次错过了董事会的期望.
+这是未来几周的目标.
+这是您未来几周的目标，请继续努力.
+这是您未来几周的目标，这次尝试并取得更大的成功.
+取得$ num个目标
+进行成功的团队交谈
+使用$ num技能培训卡
+使用一张技能训练卡
+使用$ num健身训练卡
+使用1张健身训练卡
+在接下来的五场比赛中赚取$ num积分
 DO NOT TRANSLATE (C)
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
+童军$ num潜在目标玩家
+填补$ stafftype职位
+保持$ num干净的床单
+保持一张干净的床单
+以$ num个明确目标赢得比赛
+赢得$ num个游戏
+赢1场
+在接下来的5场比赛中赢或抽奖$ num
+赢或赢接下来的5场比赛中的1场
+连续赢取$ num个游戏
+在$ opp（$ comp）中赢得比赛
+将$ facility升级到$ num级
+召开成功的玩家会议
+董事会目标奖励
+董事会目标奖励
 DO NOT TRANSLATE (B)
 DO NOT TRANSLATE (B)
-None
-None
-None
-None
-None
-None
+水平
+小额投资
+巨额投资
+巨额投资
+巨额投资
+董事会投资
 DO NOT TRANSLATE (C)
 DO NOT TRANSLATE (C)
 DO NOT TRANSLATE (C)
 DO NOT TRANSLATE (C)
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
+购买
+取消玩家交换
+最近使用的上诉卡
+目前受伤
+最近使用过的治疗卡
+最近使用的会议卡
+不禁止
+不用担心
+不开心
+员工未被雇用
+没有受伤
+不在小队
+退休的
+退役
+能量饱满
+没有技能
+质量不对
+有侧面
+不能用
+潜力超标
 DO NOT TRANSLATE (C)
-None
-None
-None
-None
+达到的潜力
+能量低
+达到的最高技能
+能量不足
 DO NOT TRANSLATE (C)
 DO NOT TRANSLATE (C)
+无法在这里申请卡
+教练卡
+教练卡
+经理卡
+经理卡
+员工提升卡
+员工助推卡
+员工卡
+职员卡
+技能
+适合度
+青年球员
+治疗
+童军球员
+事业
 None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
+职业评论
+职业统计
+禁令
+杯赛
 DO NOT TRANSLATE (C)
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
+联赛排名
+下一个灯具
+改善玩家的应对能力
+提高球员技巧
+改善球员运球
+提高球员节奏
+提高球员实力
+改善门将处理
+提高守门员敏捷度
+改善守门员反应
+提高球员的多功能性
+帮助员工生成更好的技能卡
+帮助员工生成更好的健身卡
+帮助员工培养出更好的青年球员
+帮助员工培养出更好的侦察员
+帮助员工生成更好的治疗卡
+减少受伤恢复时间
+有机会增加团队力量
+减少禁令期限
+减少球员/员工的担忧
+延长球员/职员合同
+增加玩家精力
+可以将技能卡应用于玩家，以提高技能.。该玩家将受益于改善自己的盘带动作. ¬#A61214FF¬¬o:#A61214FF¬轻击并按住卡，然后将其拖到他的身上以进行应用¬s¬ .
+老板，让我们使用半场团队对话卡.
+老板，俱乐部接近联盟的底部，本赛季只剩下很少的比赛.情况非常令人绝望，但是董事会已经凑齐$ num来帮助您入门.
+优秀!您仍然有一些球员不在位，但是如果您要我选择球队，只需按ASSICKANT PICK .，请立即尝试.
+好的，这些是目前可用的教练.价格由STAR RATING和AGE .确定。随着教练年龄的增长，他们的评分将下降.浏览列表，并¬#A61214FF¬¬o:#A61214FF¬一对一地踢¬s¬ [ 
+最后一件事：上司. . .您可以四处移动摄像机，以更好地了解动作.。¬#A61214FF¬¬o:#A61214FF¬在音高和阻力上的任何位置触摸¬s¬即可旋转摄像机.
+玩家卡会自动添加到您的班级.其他卡会添加到您的收藏中，可通过屏幕顶部的按钮访问.
+您可以在这里查看您的信用卡收藏夹.
+更好的包装包含更好的玩家.玩家卡上的星星颜色代表质量：灰色，青铜色，银色，金色或黑色.玩家越好，您就需要改善他的技能卡. 
+CLUB屏幕显示有关俱乐部的各种统计信息.。此标签显示您的人际关系状态.保持较高的关系和降低关系会带来的好处!
+现在我们来看看教练的效果.您的教练可以将时间专注于技能，健身或青年.
+星级评定决定了教练卡的质量：更好的教练会产生更好的卡.有了更多的教练和设施，我们就可以培养青年球员，侦察目标或治疗受伤的球员.
+我们生成了一些ENERGY卡!，它们可以像疲惫的球员一样使用，以像SKILL卡.一样为他们提供更多的能量。
+PACE卡可提高玩家的最高速度，而STRENGTH卡则可提高玩家的挑战能力.有用!
+让我们完成您的管理员资料.输入名称，设置性别并选择您想去的地方.开心时，点击继续.
+就这样，老板!我会让你自己做点事.我会不时地回来帮忙，但是您随时可以点击标题上的帮助图标以获取其他指导
+那是团队准备就绪的老板!让我们进入比赛!
+您可以通过协商在任何时候同意合同。.协商失败会增加合同的成本，.
+尝试增加教练的合同.这样做会增加教练在俱乐部的停留时间，但也会增加合同的成本.
+最后，数据图表对于检查俱乐部的绩效如何影响球迷快乐或董事会满意度等关系非常有用.嘿!有人想采访您!
+我们的守护者当前受伤，所以让我们与受伤守护者上的副守护者. ¬#A61214FF¬¬o:#A61214FF¬ TAP AND HOLD ¬s¬交换一下，¬#A61214FF¬¬o:#A61214FF¬当拖曳¬s¬时，将卡交给备用守护者.
+继续做老板!让我们看看下半年我们能否在您的良好工作基础上发展!
+让我们尝试将传球动作串起来.记住，¬#A61214FF¬¬o:#A61214FF¬轻按玩家以直接通过传球¬s¬ .
+就是这样!现在，¬#A61214FF¬¬o:#A61214FF¬在球员前轻拍以使HIM跑到球上¬s¬ .
+您还将获得财务细分.主场比赛根据门票价格和售出的数量生成GATE收据.
+哇!多么糟糕的上司! |球员们真的为你打开了电源!看起来你完全对比赛控制感到满意.
+有了健身中心，我们可以聘请教练来改善球员的身体状况.现在就开始做.
+很棒! |在健身中心拥有教练意味着我们将开始生成健身卡，您可以用它来改善运动员.
+这是“ FORMATION”屏幕.点击并按住一个玩家卡，然后拖动以与其他玩家卡交换或将其移动到字段上的新位置.
+我们生成了一张技能卡!，进入“ SQUAD”屏幕，改善玩家的技能.
+几乎有老板，但是在我去之前，让我们快速浏览一下商店.
+现在，让我们尝试协商合同：使用较高或较低的按钮猜测高于或低于所示的衬衫编号：数字范围为1-11 .满意时点按[同意] .请记住，谈判失败会提高价格
+这支球队的防守上司非常虚弱.也许值得告诉他们更多地进攻.
+您的老板做得很好，但我建议我们尽快升级健身中心.
+出色的游戏老板!每场比赛之后，您都可以了解结果对您的人际关系产生的影响.
+有很多事情要做，但是让我们在那场精彩的训练之后就直接进入游戏.。每场比赛在桌下都是重要的，所以让我们看看是否可以获得结果.
+好的老板，是时候玩另一款游戏了!
+出色的老板.在健身中心拥有教练，可以为您的球员带来PACE和实力卡.让我们玩另一种游戏!
+这是比赛画面的上司.它会向您显示游戏的进度.比赛开始时，我们将切入要在动作上出现的瞬间. ¬#A61214FF¬¬o:#A61214FF¬ TAP PLAY
+卡片包通常会花钱给老板，但是这是您第一次免费获得该包。!
+此标签向您显示俱乐部和所有设施的概况.
+尽管此标签向您显示了赞助商.，升级俱乐部商店是获得更多赞助商. . . .和额外收入!的好方法
+教练在每场比赛后都不会生成牌：他们有冷却时间.，所以当这种情况发生时，请尝试让您的玩家休息!您不会获得任何技能卡，但会获得能量卡，可用于疲倦的玩家
+现在¬#A61214FF¬¬o:#A61214FF¬轻按并按住团队通话卡，然后将其拖到团队中¬s¬，向您的团队发表激励性演讲!
+现在看看您是否可以击败守门员!记住，¬#A61214FF¬¬o:#A61214FF¬向后拉并瞄准箭头¬s¬瞄准您的射击.
+如果您有足够的空间去尝试，请尝试运球. ¬#A61214FF¬¬o:#A61214FF¬直到开始开始跑步时，才将球拖回球员并拖回¬s¬ .
+始终尝试传递给未标记的球员.将传球瞄准球员面前，使他们冲向球. ¬#A61214FF¬¬o:#A61214FF¬朝球员前侧轻击球. ¬s¬
+这是您第一个得分机会!击败门将，瞄准进球角，¬#A61214FF¬¬o:#A61214FF¬拉回箭头直到红色变成箭头¬s¬，以发挥最大威力!
+我们可以通过适时的奔跑来突破防守线! ¬#A61214FF¬¬o:#A61214FF¬从防守者之间的球员¬s¬到目标.画一条路
+就这样!现在¬#A61214FF¬¬o:#A61214FF¬轻按路径¬s¬以执行防御分裂通道.
+完美!现在¬#A61214FF¬¬o:#A61214FF¬向后拉并瞄准箭头¬s¬朝进球的一角击败守门员.
+接下来要解决的问题!有两种类型的铲球：滑行铲球和块状铲球.我们将尝试块状铲球.因为您没有球，所以必须将球拖向球员
+¬#A61214FF¬¬o:#A61214FF¬在箭头变红¬s¬之前，先将球从球上拖到球上并释放，然后执行¬s¬
+这是所有比赛控制项，老板.尝试通过¬#A61214FF¬¬o:#A61214FF¬轻按团队题以通过¬s¬，¬#A61214FF¬¬o:#A61214FF¬拖回有争议的¬s¬和¬#A61214FF¬¬o:#A61214FF¬拖回拍摄[ 
+团队看起来不错，老板.让我们一起去比赛.
+表现出色的老板!我们可以在下一场比赛中使用该团队谈话卡片，以在半场比赛中为我们的团队助一臂之力.
+尝试找出六个短语中的哪个变成绿色，然后在它们混在一起时轻按它们.您获得的越多，团队获得的精力就越多.
+训练玩家会使他们更有效.，但是，它也会消耗能量.。使用“辅助选择”将玩家调出并让他康复.
+做好工作的老板! |那是一次很棒的培训课程.，您准备好进入令人兴奋的足球管理世界!
+优秀!现在，下一次审判是关于带球. ¬#A61214FF¬¬o:#A61214FF¬用球和球向后扳伤球员¬s¬，让他朝一个方向奔跑：箭头变成绿色时，他将开始奔跑.
+就这样!向上拖动屏幕并越过蓝线.
+团队正在等待您的第一次训练，老板!让我们开始吧!
+让球员彼此传球很容易.只需¬#A61214FF¬¬o:#A61214FF¬轻拍没有球的球员¬s¬ .
+优秀!现在让您的团队进入太空. ¬#A61214FF¬¬o:#A61214FF¬轻拍另一个球员附近的区域¬s¬：最近的球员将冲向球.
+好!您还可以设置球员进行奔跑. ¬#A61214FF¬¬o:#A61214FF¬从没有球的球员处拖出一条路线¬s¬ .
+就是这样!现在，¬#A61214FF¬¬o:#A61214FF¬在路径上轻拍¬s¬将球传给球员以使其冲向.
+完美!下一次测试是关于射击. ¬#A61214FF¬¬o:#A61214FF¬用球和后拖将球员推向球门¬s¬ .随时释放射击；
+很棒!现在，¬#A61214FF¬¬o:#A61214FF¬轻按球的中心¬s¬使其笔直或在任一侧踢一下以增加卷发!
+当您雇用新员工时，他们会出现在屏幕上.目前我们只有一名技能教练，因此我们进行更改! ¬#A61214FF¬¬o:#A61214FF¬轻按教练按钮¬s¬ .
+在下一场比赛之前，让我们看一下CLUB屏幕. ¬#A61214FF¬¬o:#A61214FF¬现在轻按CLUB按钮¬s¬ .
+嗨，我是Simon Read，我会在这里为您提供有关游戏的所有重要提示.祝贺您被任命为$ clubname FC经理!
+团队肯定会感受到团队对话的影响，老板.我们可以提高下半年的工作效率.团队工作越努力，得分的机会就越多!
+冠军
+错过机会
+机会
+始终值得检查您完成了哪些成就，因为每一项都有奖励!
+嘿老板!如果您不想每次编辑团队徽章时都需要付款，请在商店中查看编辑器：一次购买即可进行任意更改.
+董事会不满意!如果您想要额外的投资，则需要让董事会满意.成功完成董事会目标.可使他们满意
+老板，现在您已经定居，董事会已为您设定了一些目标.完成这些任务将使他们满意!
+嘿老板!也许是时候考虑雇用侦察员了?然后我们可以通过从其他球队购买球员来提高阵容.
+嗨，老板!我注意到您没有使用卡片.，只是快速提醒您可以通过标题上的卡片图标访问卡片收藏夹.
+仔细选择老板：选择的任何关系都会有所帮助!
+FANS感到不高兴!如果您的FANS关系太低，您的出勤率将会下降.让团队表现出色以保持他们的快乐.
+选择最适合球队球员的阵型.正确的阵型可以利用对手的弱点.
+老板，您已经解锁了另一个编队!转到“ FORMATION”选项卡尝试一下.
+头球的动作与常规射击相同：只需轻按球的中心即可将球笔直拉直.
+老板，我们有一个受伤的球员!您需要将他转移到储备金中或使用治疗卡治愈他.
+嘿老板!如果您不想每次编辑团队工具包时都付款，请在商店中查看编辑器：一次购买即可进行任意数量的更改.
+老板，我们有一个低能量的球员!在这种状态下比赛会降低他的等级并增加受伤的机会.休息一下或使用能量卡.
+嘿老板，这是经理屏幕.，是我们所有职业数据和成就记录的地方：对面试很有用.
+嘿老板!如果您不想在每次重命名球队或体育场时都付款，请在商店中查看编辑器：一次购买即可进行任意更改.
+嘿老板，团队，希望您喜欢这个游戏.让我们知道您的想法!
+需要改进
+趣味游戏.评价!
+老板，您录制过重播了吗?好吧，这是他们保留的地方.您最多可以保存10个不同的重播.
+如果出现问题，您可以重试一次机会.您只能免费重试一场比赛，但可以通过观看广告或从商店购买一包东西来获得更多机会!
+有时玩家会遇到麻烦.您为解决问题而做出的选择会影响人际关系，玩家幸福感，或同时影响两者!
+轻按脸部左侧的星号即可将搜索列表中的玩家添加到您的候选列表中.
+老板定期检查您的消息!消息显示球员和俱乐部问题的日志，而社交包含新闻事件的日志.
+您有一件球衣SPONSOR !，您每周都会从SPONSORS那里赚到BUX .升级您的CLUB STORE并保持较高的SPONSORS关系可以获得更多的赞助商.
+您的赞助商不满意!如果您的赞助商关系下降，将来将很难吸引交易.赢得比赛让您的赞助人满意.
+购买物品可以充实您的职业! BUX可以购买物品，而CARD PACKS可以增加您的班组或人员.现在就购买一个!
+球员搜索列表可让您按位置，年龄，等级或价值对球员进行分类，以找到合适的球队阵容.
+转移窗口已打开，老板!我们可以买卖球员，直到其再次关闭.通过页眉上的SEARCH按钮进入转移市场.
+我们有一个不开心的玩家!不开心的玩家表现较差，收集了更多的黄牌.点击玩家以打开对话框，查看他的关注点.
+选择大陆
 DO NOT TRANSLATE (B)
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
+选择联赛
+选择国家
+要求
+声称
+清除筛选
+俱乐部
+俱乐部名称
+俱乐部统计
+$ clubname不愿意出售
+$ clubname很高兴出售
+$ clubname要出售
+经理声誉：
+收支平衡价格.
+体育馆的名字：
+平衡收入和出勤率之间的价格.
+会所
+兴趣俱乐部
+交换踢球者?
+<assistant><pause>我们正在奋斗，老板.我们可以尝试进攻重点.
+<assistant><pause>我们不能破坏他们的防守，老板.我们需要进一步进攻.
+<assistant><pause>他们的防守者完全掌握.也许我们应该进攻更多.
+<assistant><pause>我们的前锋挣扎，老板.我们需要尝试一个进攻重点.
+<assistant><pause>我们需要打破他们的防守.也许改变重点会有所帮助.
+<assistant><pause>我们的攻击者目前无法进入游戏.让我们尝试攻击更多.
+<assistant><pause>上司，我们正在奋斗中.也许换个形式会有所帮助?
+<assistant><pause>我们不能破坏他们的防守，老板.也许我们应该改变我们的阵型?
+<assistant><pause>他们的防守者完全处于控制之中.我们应该尝试其他的编队吗?
+<assistant><pause>我们的前锋挣扎，老板.我们应该在战术上尝试一些不同的事情?
+<assistant><pause>我们需要破坏他们的防御力.也许我们的编队是错误的.
+<assistant><pause>我们的攻击者现在无法进入游戏.我们是否应该调整阵型?
+<assistant><pause>老板，我们正在奋斗中.提高工作效率.
+<assistant><pause>我们不能破坏他们的防守，老板.我们需要更加努力.
+<assistant><pause>他们的捍卫者处于完全控制之中.我们是否应该提高工作效率?
+<assistant><pause>我们的前锋挣扎，老板.我们应该提高工作效率.
+<assistant><pause>我们需要打破他们的防守.我们可以提高工作效率.
+<assistant><pause>我们的攻击者目前无法进入比赛.。团队需要更加努力地工作.
+<assistant><pause>我们在防御中挣扎，老板.我们也许应该尝试在反击中击中他们.
+<assistant><pause>我们无法应付他们的攻击者，上司.我们可以尝试以防御为重心以站稳脚跟.
+<assistant><pause>他们的前锋正在使我们的防守者屈服.也许防守重点更适合我们.
+<assistant><pause>我们的防守挣扎，老板.也许尝试反击重点?
+<assistant><pause>我们需要加强防守.我们可以尝试将防守重点放在比赛上.
+<assistant><pause>我们的防守者目前无法应对.我们应该在反击中击中他们.
+<assistant><pause>老板，我们在防守上挣扎.也许改变阵型会有所帮助?
+<assistant><pause>我们无法应付他们的攻击者，老板.也许我们应该改变我们的阵型?
+<assistant><pause>他们的前锋正在捍卫我们的防守者.我们是否应该尝试其他阵型?
+<assistant><pause>我们的防守处境艰难，上司.我们是否应该在战术上尝试一些不同的事情?
+<assistant><pause>我们需要加强防御，上司.也许我们的编队是错误的.
+<assistant><pause>我们的防守暂时无法应对.我们是否应该调整阵型?
+<assistant><pause>老板，我们在防守上挣扎.提高工作效率.
+<assistant><pause>我们无法应付他们的攻击者，老板.我们需要更加努力.
+<assistant><pause>他们的前锋正在捍卫我们的防守者.我们应该提高工作效率?
+<assistant><pause>我们的防守挣扎，老板.我们可以提高工作效率.
+<assistant><pause>我们需要加强防御，上司.我们可以提高工作效率.
+<assistant><pause>我们的防守者目前无法应对.球队需要更加努力地工作.
+<assistant><pause>我们在中场挣扎，老板.我们应该调整重点.
+<assistant><pause>我们不能应付他们的中场老板.我们可以尝试改变重点.
+<assistant><pause>他们的中场球员正在主导比赛.也许我们应该改变重点.
+<assistant><pause>我们的中场挣扎，老板.我们需要重新考虑我们的关注点.
+<assistant><pause>我们需要控制中场.也许改变重点会有所帮助.
+<assistant><pause>我们的中场暂时无法应对.我们应该改变重点吗?
+<assistant><pause>我们在中场挣扎，老板.也许阵型的改变会有所帮助?
+<assistant><pause>我们不能应付他们的中场老板.也许我们应该改变阵型?
+<assistant><pause>他们的中场球员在争夺战.我们是否应该尝试其他阵型?
+<assistant><pause>我们的中场挣扎，老板.我们应该在战术上尝试一些不同的事情?
+<assistant><pause>我们需要控制中场.也许我们的阵型是错误的.
+<assistant><pause>我们的中场暂时无法应对.我们是否应该调整阵型?
+<assistant><pause>我们在中场挣扎，老板.让我们提高工作效率.
+<assistant><pause>我们不能应付他们的中场老板.我们需要更加努力.
+<assistant><pause>他们的中场球员正在比赛.我们应该提高工作效率?
+<assistant><pause>我们的中场挣扎，老板.我们可以提高工作效率.
+<assistant><pause>我们需要控制中场.我们可以提高工作效率.
+<assistant><pause>我们的中场暂时无法应对.球队需要更加努力地工作.
+<assistant> $playername外面看起来很累，老板.他可以喝NRG饮料.
+<assistant>我们应该考虑给$playername喝一杯NRG，老板.他很累.
+<assistant> $playername被骗.我们应该给他喝NRG，老板.
+<assistant>老板在中场休息时给$playername喝NRG怎么样？?
+<assistant> $playername可以帮助提高NRG，老大.
+<assistant> $playername今天在外面挣扎，老板.我们应该给他喝NRG饮料.
+<assistant><pause>老板，我们看上去很舒服.我们应该考虑休息的球员.
+<assistant><pause>我们看起来很舒服，老板.我们可以给我们的一个潜艇跑出去.
+<assistant><pause>看起来不错，老板.我们带一个潜艇去吧?
+<assistant><pause>我们是否考虑休息一个球员，老板?
+<assistant><pause>如何为老板带来潜艇?
+<assistant>嘿老板!遇到困难时，额外重试可以帮助您扭转比赛的潮流!
+<assistant>嘿老板!发生问题时，额外重试可以给您第二次机会实现至关重要的目标!
+<assistant>嘿老板!额外重试可让您将错误变成成功的目标!
+<assistant>老板，男孩们可以做一个鼓舞人心的团队谈话来增强他们的精力.
+<assistant>您应该给男孩们一个团队对话，老板.他们的精力低落.
+<assistant>激烈的团队交谈将使小伙子们精力旺盛，老板.
+<assistant>现在是时候进行团队讨论了，老板.这会增强团队的活力.
+<assistant>如何增强团队合作精神，老板?
+<assistant>老板谈话中的一些老式吹风机治疗会提高能量水平，老板.
+<assistant>老板，男孩们可以做一场激动人心的赛前团队谈话，以增强他们的精力.
+<assistant>老板，你应该在开始前与小伙子们聊天.他们精力低落.
+<assistant>赛前的团队谈话将使小伙子们精力旺盛，老板.
+<assistant>您应该给小伙子们进行赛前团队交谈，老板.给他们一点帮助.
+<assistant>老板如何进行赛前团队交谈，以提高精力水平?
+<assistant><pause> $playername累了，老板.我们需要把他带走.
+<assistant><pause> $playername不好意思，老板.我们应该考虑用他代替.
+<assistant><pause> $playername的腿都掉了，老板.我们应该把他解雇.
+<assistant><pause>我认为$playername持续时间不会更长，老板.
+<assistant><pause> $playername很累，老板.也许我们应该代替他?
+<assistant><pause>我们应该考虑减法$playername，上司.他很累.
+$ attackingteamname的一个长球
+$ attackingteamname的直接球
+长球因$ attackingteamname而友善
+$ attackingteamname的一个长长的球传出
+$ attackingforwardname可以使$ attackingteamname保持稳定
+粉丝呼吁$ attackingteamname
+$ attackingteamname受到球迷的鼓励
+$ attackingteamname粉丝敦促他们的团队前进
+$ attackingteamname粉丝落后于他们的团队
+攻击!攻击!攻击!哭泣$ attackingteamname粉丝
+$ attackingteamname在高音上赢得球
+$ attackingteamname的紧迫要求谁赢得了胜利
+$ attackingteamname赢得了上场球
+$ attackingteamname从对手防守中抢断
+$ attackingteamname按下并赢回
+$ attackingteamname受到攻击
+$ attackingteamname推进
+$ attackingteamname将球上移
+$ attackingteamname有机会攻击
+这是$ attackingteamname前进的机会
+<!whistledelayed> $ attackingteamname有一个角落
+<!whistledelayed> $ attackingteamname赢了一个角
+<!whistledelayed>这是$ attackingteamname的一个角落
+<!whistledelayed>裁判发信号给$ attackingteamname一个角球
+<!whistledelayed>助理裁判员示意$ attackingteamname将要角球
+$ attackingteamname自己赢一半
+$ attackingteamname尝试快速破解
+$ attackingteamname看起来要反击
+$ attackingteamname赢球，可以在这里突破
+$ attackingteamname在休息时捕获$ defendingteamname
+$ attackingteamname有机会反击
+$ attackingteamname自己承担一半
+$ attackingteamname尝试从后面构建
+$ attackingteamname看起来会发起攻击
+$ attackingkeepername将其传递出去
+$ attackingteamname将球带出防守
+$ attackingteamname从后面播放
+<!whistledelayed> $ attackingteamname任意球
+<!whistledelayed> $ attackingteamname赢得任意球
+<!whistledelayed> $ attackingteamname任意球
+<!whistledelayed>裁判员授予$ attackingteamname任意球
+<!whistledelayed>助理裁判员犯规，犯规| $ attackingteamname任意球
+$ attackingteamname在中场控球
+$ attackingteamname希望通过
+$ attackingteamname尝试从中场建设
+$ attackingkeepername将它踢上场
+$ attackingteamname中场拿到球
+<!whistledelayed> <col_a> $ defendingdefendername击倒了攻击者! |罚款!
+<!whistledelayed> <col_a> $ defendingdefendername | Penalty !在盒子里是个轻率的挑战
+<!whistledelayed> <col_a> $ defendingdefendername似乎使前锋绊倒了! |罚款!
+<!whistledelayed> <col_a>前锋因为承担$ defendingdefendername | Penerty而被绊倒!
+<!whistledelayed> <col_a>攻击者使用$ defendingdefendername并被倒下! |罚款!
+<!whistledelayed> <col_a> $ defendingdefendername伸出一条腿，使前锋倒下! |罚款!
+<!whistledelayed> <col_a>这似乎是$ defendingdefendername | Penalty的推动!
+<!whistledelayed> <col_a> $ defendingdefendername | Penalty看起来像手球!
+<!whistledelayed> <col_a>当然，这是$ defendingdefendername | Penalty !带来的麻烦。
+<!whistledelayed> <col_a>肯定是$ defendingdefendername | Penalty盒子里的手球!
+<col_d> <!crowdoh> <PAC>但是$ defendingdefendername用他的步伐阻止$ attackingforwardname
+<col_d> <!crowdoh> <PAC>但是$ attackingforwardname不能超过$ defendingdefendername
+<col_d> <!crowdoh> <PAC>但是$ defendingdefendername很快就可以阻止攻击
+<col_d> <!crowdoh> <PAC>但是$ defendingdefendername很好地追赶了$ attackingforwardname
+<cold> <!crowdoh> <PACK>但是$ defendingdefendername返回以停止$攻击正名
+<col_d> <!crowdoh> <PAC>但是$ attackingforwardname不能超过$ defendingdefendername
+<col_d> <!crowdoh> <PAC>但是$ defendingdefendername快速移动以关闭$ attackingforwardname
+<col_d> <!crowdoh> <PAC>但是$ defendingdefendername对于$ attackingforwardname来说太快了
+<col_d> <!crowdoh> <PAC>但是$ defendingdefendername快速关闭$ attackingforwardname
+<col_d> <!crowdoh> <PAC>但是$ defendingdefendername很好地跟踪了$ attackingforwardname
+<col_d> <!crowdoh> <STR>但是$ defendingdefendername用他的力量赢得了胜利
+<col_d> <!crowdoh> <STR>但是$ attackingforwardname被$ defendingdefendername抢走了
+<col_d> <!crowdoh> <STR>但是$ defendingdefendername使他的身体处于球和攻击者之间
+<col_d> <!crowdoh> <STR>但是$ defendingdefendername胜过$ attackingforwardname
+<col_d> <!crowdoh> <STR>但是$ defendingdefendername会使$ attackingforwardname失去作用
+<col_d> <!crowdoh> <STR>但是$ attackingforwardname被$ defendingdefendername削弱了
+<col_d> <!crowdoh> <STR>但是$ defendingdefendername在那里显示了他的力量
+<col_d> <!crowdoh> <STR>但是$ defendingdefendername很好地利用了他的身体
+<col_d> <!crowdoh> <STR>但是$ defendingdefendername对于$ attackingforwardname来说太强大了
+<col_d> <!crowdoh> <STR>但是$ defendingdefendername会使$ attackingforwardname陷入困境
+<col_d> <!crowdoh> <! parry> <TCK>但射门被$ defendingdefendername阻止
+<col_d> <! kickshort> <!crowdoh> <TCK>但这是$ defendingdefendername的好块
+<col_d> <! kickshort> <! kickshort> <!crowdoh> <TCK>但是它已经被$ defendingdefendername所阻止
+<col_d> <! kicklong> <! kicklong> <!crowdoh> <TCK>但该球被$ defendingdefendername清除。
+<col_d> <! kickshort> <!crowdoh> <TCK>但是它被$ defendingdefendername扰乱了安全性
+<col_d> <! kickshort> <! parry> <!crowdoh> <TCK>但这是$ defendingdefendername的好块
+<col_d> <!crowdoh> <TCK>但是使用$ defendingdefendername可以解决这个问题
+<col_d> <! kickshort> <!crowdoh> <TCK>哦，$ defendingdefendername的好助攻
+<col_d> <! kicklong> <!crowdoh> <TCK>但该球被$ defendingdefendername清除。
 DO NOT TRANSLATE (C)
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
+<col_d> <!whistledelayed>裁判在这里发现了一些东西. . .
+<col_d> <!whistledelayed>助理裁判正在举报. . .
+<col_d> <!whistledelayed>这是一个令人讨厌的问题. . .
+<col_d> <!whistledelayed>裁判员停止比赛. . .
+<col_d> <!whistledelayed>这是轻率的挑战. . .
+<col_d> <! parry> <HND>但是$ defendingkeepername可以很好地捕获它
+<col_d> <! parry> <HND>但是$ defendingkeepername会跳转并保持不变
+<col_d> <! parry> <HND> $ defendingkeepername突飞猛进
+<col_d> <! parry> <STR>但是$ defendingkeepername会保留并保留
+<col_d> <! parry> <STR> $ defendingkeepername声称它很好
+<col_d> <! parry> <STR>但是$ defendingkeepername跳跃并获得了球
+<col_d> <! kickshort> <TCK> $ defendingdefendername使它清晰可见
+<col_d> <! kickshort> <TCK> $ defendingdefendername使它消失了
+<col_d> <! kickshort> <TCK>但$ defendingdefendername上升并清除球
+<col_d> <! kickshort> <TCK>但是$ defendingdefendername使它脱颖而出!
+<col_d> <! kickshort> <TCK>但是它已经被$ defendingdefendername淘汰了
+<col_d> <! parry> <TCK> $ defendingdefendername获取块
+<col_d> <! kicklong> <TCK>但是$ defendingdefendername将其清除
+<col_d> <! parry> <TCK>但是$ defendingdefendername阻止了投篮
+<col_d> <! parry> <TCK>但是$ defendingdefendername阻止它在线上!
+<col_d> <! kicklong> <TCK>但已通过$ defendingdefendername清除
+<!短脚裤> <!crowdgoal>目标!从拐角处回家!
+<!短球> <!crowdgoal>目标!强大的头球!
+<!crowdgoal>目标!管理者被困在无人区中!
+<! kickshort> <!crowdgoal>目标!球门之争，并被劝告回家
+<!踢龙> <!crowdgoal>目标!从盒子边缘钻回家
+<col_d> $ defendingteamname清除球
+<col_d> $ defendingteamname把球拿走
+<col_d> $ defendingteamname将球清除。
+<!whistledelayed> <col_a>这是$ attackingteamname的一个角落
+<!whistledelayed> <col_a> $ attackingteamname碰到了
+<!whistledelayed> <col_a> $ attackingteamname强制拐角
+<!whistledelayed> <col_d>这是$ attackingteamname的一个角落
+<!whistledelayed> <col_d> $ attackingteamname碰到了
+<!whistledelayed> <col_d> $ attackingteamname强制拐角
+<!whistledelayed> <col_d> $ defendingteamname任意球
+<!whistledelayed> <col_d> $ defendingteamname获得任意球
+<!whistledelayed> <col_d> $ defendingteamname任意球
+<!whistledelayed> <col_a> $ attackingteamname任意球
+<!whistledelayed> <col_a> $ attackingteamname赢得任意球
+<!whistledelayed> <col_a> $ attackingteamname任意球
+<!whistledelayed> <col_d> $ attackingteamname任意球
+<!whistledelayed> <col_d> $ attackingteamname获得任意球
+<!whistledelayed> <col_d> $ attackingteamname任意球
+<!crowdgoal>目标! $playername收起球!
+<!crowdgoal> $playername分近距离得分!
+<!crowdgoal>这是$playername !的目标
+<!crowdgoal>目标!来自$playername !的整洁效果
+<!crowdgoal>目标! $playername将其丢掉!
+<!crowdgoal>目标! $playername炸毁它!
+<!crowdgoal>目标! $playername将其粉碎为!
+<!crowdgoal> $playername从近距离进行钻探!
+<!crowdgoal>目标!来自$playername !的净破坏者
+<!crowdgoal>目标!被$playername击碎!
+<!crowdgoal>目标! $playername将其运入篮网
+<!crowdgoal>进入! $playername进入目标
+<!crowdgoal>目标! $playername乐于助其运球
+<!crowdgoal>目标! $playername在!中点头
+<!crowdgoal> $playername头近距离射杀!
+<!crowdgoal>目标!由$playername !点头
+<!crowdgoal> $playername遥遥领先!
+<!crowdgoal>目标! $playername开出的头球!
+<!crowdgoal>目标! $playername的出色头球!
+<!crowdgoal>目标!以$playername !重击头球
+<!crowdgoal>目标! $playername的雷霆头球!
+<!crowdgoal>目标!以$playername !强势回家
+<!crowdgoal>目标!来自$playername !的令人难以置信的剪刀脚
+<!crowdgoal>目标!由$playername !造成的残忍的剪刀踢
+<!crowdgoal>目标!来自$playername !的惊人的杂技踢
+<!crowdgoal>目标! $playername !的令人难以置信的头顶踢
+<!crowdgoal>目标! $playername !的令人发指的顶空踢
 DO NOT TRANSLATE (C)
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-DO NOT TRANSLATE (C)
-DO NOT TRANSLATE (C)
-None
-None
-None
-None
-DO NOT TRANSLATE (C)
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-DO NOT TRANSLATE (C)
-None
-None
-DO NOT TRANSLATE (C)
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-DO NOT TRANSLATE (C)
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-DO NOT TRANSLATE (C)
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
+<!crowdgoal>目标! $playername !的远射
+<!crowdgoal> $playername从距离得分!
+<!crowdgoal>目标! $playername的惊人罢工!
+<!crowdgoal>目标! $playername的漂亮罢工!
+<!crowdgoal>目标!从远处发射$playername !
+<!crowdgoal>在!中，由$playername !强行驶过饲养员
+<!crowdgoal>由$playername !钻回家
+<!crowdgoal>在!的强力打击中$playername !
+<!crowdgoal> $playername !势不可挡的射门
+<!crowdgoal>来自$playername !的雷电
+<!crowdgoal> $playername主罚任意球
+<!crowdgoal> $playername击中惊人的任意球
+<!crowdgoal> $playername令人难以置信的任意球
+<!crowdgoal> $playername任意球破门
+<!crowdgoal> $playername奇妙的任意球
+<!crowdgoal> $playername任意球得分
+<!crowdgoal> $playername的任意球
+<!crowdgoal> $playername的欺骗性任意球
+<!crowdgoal> $playername任意球得分
+<!crowdgoal>罚款$playername
+<!crowdgoal> $playername保持冷静并得分
+<!crowdgoal>从$playername中没有错误并处以罚款
+<!crowdgoal> $playername废除罚款
+<!crowdgoal> $playername得分
+<!crowdgoal> $playername角球得分令人难以置信
+<!crowdgoal> $playername !拐角处的目标令人难以置信
+<!crowdgoal> $playername直接从角落得分!
+<!crowdgoal>目标!射门得分!
+<!crowdgoal>目标! $playername无意中将其放入自己的网中
+<!crowdgoal>目标!进了$playername !
+<!crowdgoal>目标! $playername最后碰触!
 DO NOT TRANSLATE (C)
 DO NOT TRANSLATE (C)
-None
-None
-None
-None
-None
-None
-None
+<!crowdgoal>目标!来自$playername的临床效果
+<!crowdgoal>目标!被$playername淘汰
+<!crowdgoal>目标! $playername分
+<!crowdgoal>目标!不错，以$playername完成
 DO NOT TRANSLATE (C)
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
+<!whistledelayed> <col_d> $ defendingteamname射门得分
+<!whistledelayed> <col_d>这是$ defendingteamname的进球
+<!whistledelayed> <col_d> $ defendingteamname的进球
+<col_d> $ defendingteamname赢得比赛
+<col_d> $ defendingteamname停止攻击
+<col_d> $ defendingteamname重新获得所有权
+<col_a> $ attackingteamname老板收集球
+<col_a> $ attackingkeepername收集球
+<col_a> $ attackingkeepername接球
+<col_d> $ defendingteamname守护者收集球
+<col_d> $ defendingkeepername收集球
+<col_d> $ defendingkeepername得了球
+<!whistledelayed> $playername接球时触球两次
+<!whistledelayed>犯规| $playername两次触球
+<!whistledelayed>这是一个业余失误| $playername两次碰球
+$playername丢球
+$playername传球
+$playername输了
+<!whistledelayed> $playername越位
+<!whistledelayed> $playername越位犯规
+<!crowdgoal> <col_d>这是$playername !中的目标
+<!crowdgoal> <col_d>哦，亲爱的!来自$playername !的目标
+<!crowdgoal> <col_d> $playername将其纳入自己的目标!
+<!whistledelayed> <! crowdgoalsfx> <col_a> $ attackingteamname的罚款!
+<!whistledelayed> <! crowdgoalsfx> <col_a> $ attackingteamname赢得了点球!
+<!whistledelayed> <! crowdgoalsfx> <col_a> $ attackingteamname受罚!
+<!whistledelayed> <! crowdgoalsfx> <col_d>对$ attackingteamname的处罚!
+<!whistledelayed> <! crowdgoalsfx> <col_d> $ attackingteamname得到罚款!
+<!whistledelayed> <! crowdgoalsfx> <col_d> $ attackingteamname受罚!
+铅球高出横杆
+棒了
+进入Z行!
+那又高又广
+哦，亲爱的|他太过分了
+很高，很宽，不是很帅
+镜头刚好越过酒吧
+哦!刚过酒吧
+只是在横杆上几英寸
+射门远近
+他全都错了|离目标很远
+噢，亲爱的|那下着雪
+射门范围广
+这是很广泛的目标
+那张照片拍得很宽
+镜头只有几英寸宽!
+哦，就这么宽!
+那吹过哨子!
+<!whistledelayed> <col_d>全场掷界外球
+<!whistledelayed> <col_d>这是一个掷界外球
+<!crowdgoal>目标!美丽的任意球!
+<!crowdgoal>目标! Cur绕在墙壁上!
+<!crowdgoal>目标!右上角!
+<!crowdgoal>目标!运作良好的例行程序
+<!crowdgoal>目标!从墙上和里面偏转了!
+<col_a><+TRAIT> $playername正在通过颈背进行比赛
+<col_a><+TRAIT> $playername看上去决心要扭转这场比赛
+<col_a><+TRAIT> $playername愿意带领他的团队前进
+<col_a><+TRAIT> $playername没有显示让步$ defendingteamname的迹象
+<col_a><+TRAIT> $playername拒绝放弃这场比赛
+<col_a><+TRAIT> $playername拒绝让$ defendingteamname拥有自己的方式
+<col_a><+TRAIT> $playername显示出坚定的决心
+<!crowdgoal>目标! | <-AGI> $ defendingkeepername无法达到目标!
+<!crowdgoal>出色的目标! | <-AGI>已超出$ defendingkeepername的位置
+<!crowdgoal>目标! | <-AGI>一个完全错误的偏斜脚$ defendingkeepername
+<!crowdgoal>就在! | <-AGI> $ defendingkeepername跳得不够快
+<!crowdgoal>在! | <-AGI>低射飞过$ defendingkeepername
+<!crowdgoal>就在! | <-HND>在$ defendingkeepername的名字下sc着脚
+<!crowdoh> <-HND> $ defendingkeepername阻止它退出. . . | <!crowdgoal>在那儿! $ attackingforwardname阻止反弹
+<!crowdoh> <-HND> $ defendingkeepername摸索了它! | <!crowdgoal>目标!由$ attackingforwardname点头回家
+<!crowdoh> <-HND> $ defendingkeepername丢球! | <!crowdgoal>目标! $ attackingforwardname将球踢回家
+<!crowdgoal>就在! | <-HND> $ defendingkeepername亲自接手，但无法阻止
+<!crowdgoal>目标! | <-PAC> $ defendingkeepername的动作缓慢
+$ defendingkeepername冲出. . . | <-PAC>但是$ attackingforwardname首先到达那里. . . | <!crowdgoal>目标!
+<!crowdgoal>目标! | <-PAC> $ defendingkeepername的速度太慢，无法拦截球
+<-PAC> $ defendingkeepername关闭了$ attackingforwardname，但是他太慢了. . . | <!crowdgoal>目标!
+<!crowdgoal>就在! | <-PAC> $ defendingkeepername无法足够快地将角度关闭
+<!crowdgoal>在! | <-RFL>中，他击中了$ defendingkeepername之前不能设置自己的位置
+<!crowdgoal>目标何在! | <-RFL> $ defendingkeepername扎根
+<!crowdgoal>就在! | <-RFL> $ defendingkeepername看着它驶过
+<!crowdgoal>目标! | <-RFL> $ defendingkeepername的反应不够快
+<!crowdgoal>就在! | <-RFL> $ attackingforwardname将其粉碎到$ defendingkeepername之后
+<!crowdgoal>就在! | $ defendingkeepername对此无能为力
+<!crowdgoal>这是一个目标! | $ defendingkeepername没有机会
+<!crowdgoal>在! | $ defendingkeepername对他的防守者大怒
+<!crowdgoal>目标! | $ attackingforwardname，只需轻按即可
+<!crowdgoal>目标! |防守不力使$ defendingkeepername失去了机会
+<!crowdgoal>有什么目标! |世界上没有一个守护者可以拯救那个目标
+<!crowdgoal>就在!奇妙的目标!
+<!crowdgoal> Goooooaaaaalllll !
+<!crowdgoal>在! |多么尖叫!
+<!crowdgoal>目标! |守门员没有机会
+<!crowdgoal>宏伟目标! |临床完成
+<!crowdgoal>就在! |从盒子的边缘钻进来
+<!crowdgoal>目标! |那不可阻挡
+<!crowdgoal>被枪杀! |真正的网络破坏者
+<!crowdgoal>目标! |远射
+<!crowdgoal>目标! |近距离猛击
+<!crowdgoal>在! |他撞了一个房子
+<!crowdgoal>目标!奇妙的罢工!
+<!crowdgoal>目标! |直入顶角
+<!crowdgoal>这是一个目标!精益求精!
+<!crowdgoal>目标! |它像子弹一样飞进去
+<!crowdgoal>超级进球! |整齐划开
+<!crowdgoal>就在! |从远处C来
+<!crowdgoal>目标! |精打细算的回家
+<!crowdgoal>动作准确!
+<!crowdgoal>目标!不可阻挡的射门!
+<!招架> <!crowdgoal>目标!偏斜且处于!
+<!crowdgoal>就在那里!崇高的努力!
+<!crowdgoal>目标! |那是绝对的饼干!
+<!crowdgoal>这是一个目标!有力的打击!
+<!crowdgoal>目标! |直接从顶部抽屉中取出
+<!crowdgoal>梦幻般的进球! |世界一流的成绩
+<! hitpost> <!crowdgoal>而且不在岗位上!
+<!crowdgoal>挑出一个! |超级进球
+<!crowdgoal>目标! |就像制导导弹
+<!crowdgoal>在! |令人难以置信的罢工!
+<!whistledelayed> <!crowdoh> $playername需要注意
+<!whistledelayed> <!crowdoh> $playername躺在地上
+<!whistledelayed> <!crowdoh>似乎$playername无法继续
+<!whistledelayed> <!crowdoh> $playername似乎受伤了
+<!whistledelayed> <!crowdoh> $playername敲了敲门
+<assistant>他全心全意地参加了那个挑战
+<assistant>他积极进去，表现最差
+<assistant>他似乎想伤害对手
+<assistant>他今天的心态不正确
+<assistant>这是一个不好的解决方案，使他事与愿违
+他在泥泞的球场上笨拙地滑倒了
+他的站立脚在球场上滑倒
+他溜进泥里了
+他在粗糙的草地上绊倒了
+他跌跌撞撞地跌落
+他正在步
+他可以不加干预地离开球场
+$ attackingteamname Physo正在帮助他摆脱困境
+他很痛苦
+$ attackingteamname Physo需要担架
+这可能很严重.他正在担架
+$ teamname已用完所有子项
+$ teamname没有剩余替代品
+<+TRAIT> $playername敲了敲门，但他正在把它甩开.
+<+TRAIT> $playername在那儿受到了重击，但并没有影响他.
+<+TRAIT> $playername被黑了，但他已经恢复正常并开始奔跑.
+<+TRAIT> $playername在那儿打了一个恶心的踢，但他又重新站起来并奔跑了.
+<+TRAIT> $playername在那里发生了头部冲突，但他仍在继续.
+<col_d>但是参考波继续播放!
+<col_d>裁判员摇摇头|不罚!
+<col_d>但是裁判告诉球员起床! |不罚分!
+<col_d>裁判员考虑了一秒钟. . . |没有罚款!
+<col_d>裁判员挥舞着手臂|他没有给他!
+<!crowdoh> <col_d>看门人必须走路! |红牌!
+<!crowdoh> <col_d>裁判别无选择，只能出示红牌!
+<!crowdoh> <col_d>裁判正伸手去拿一张牌. . . |它是红色的!
+<!crowdoh> <col_d> $ defendingkeepername遇到了麻烦|他离开了!
+<!crowdoh> <col_d>裁判到达一张卡片! | $ defendingkeepername被送走!
+$ attackingforwardname加紧处罚
+$ attackingforwardname将受罚
+$ attackingteamname现在可以接受罚款
+<!whistledelayed>是罚款!
+<!whistledelayed>裁判指出罚球点!
+<!whistledelayed>裁判员处以罚款!
+<!whistledelayed>裁判考虑了一秒钟. . . |罚款!
+<!whistledelayed>裁判指出地点|他已判罚!
+<col_d> $ defendingkeepername压倒了攻击者!
+<col_d> $ defendingkeepername似乎使前锋绊倒了!
+<col_d>当前锋担负$ defendingkeepername时被绊倒!
+<col_d>攻击者使用$ defendingkeepername并将其关闭!
+<col_d> $ defendingkeepername拿到球但击倒了前锋!
+<col_d> <TIRED> $ defendingkeepername犯规了！| <col_a> $ attackingteamname有了球，可以从这里进攻
+<col_d> <TIRED> $ defendingkeepername看起来很疲倦|他直接把它扔给了反对派
+<col_d> <TIRED>这是一个疲惫的$ defendingkeepername的错误|他直接将球扔给了对手
+<col_d> <TIRED>从$ defendingkeepername . . .来这很弱
+<col_d> <TIRED> $ defendingkeepername的疲倦直奔$ attackingteamname
+<col_d> <TIRED> $ defendingkeepername丢了球|但没有达到预定目标
+<col_d> <TIRED> $ defendingkeepername将球踢上场|但他没有得到任何距离
+<assistant><col_d><UNHAPPY> $ defendingkeepername今天看起来有些混乱
+<assistant><col_d><UNHAPPY> $ defendingkeepername送出球
+<assistant><col_d><UNHAPPY> $ defendingkeepername今天看起来分神
+<assistant><col_d><UNHAPPY> $ defendingkeepername反应缓慢
+<assistant><col_d><UNHAPPY> $ defendingkeepername在那儿暂时失去了注意力
+<col_d>他的团队现在必须更加努力
+<col_d>他的团队现在需要更加努力
+<col_d>他的队友对此不感激!
+<col_d>随着球场上球员的减少，他的球队将不得不更加努力
+<!crowdoh>但是送货情况不佳
+<!crowdoh>但这已超过所有人
+<!crowdoh>但令人失望的交付
+<!crowdoh>但未能击败第一个人
+<!crowdoh>但是很容易将球清除
+<!crowdoh>失踪!远高于$ attackingforwardname
+<!crowdoh>失踪! $ attackingforwardname射门广!
+<!crowdoh>哦，亲爱的. $ attackingforwardname的射门过去了
+<!crowdoh>但$ attackingforwardname加农炮的射门却从墙上撤退
+<!crowdoh>但是$ attackingforwardname会直接撞墙
+<!whistledelayed> <!crowdoh>但边裁员标记越位
+<!crowdoh>但是射门太远了
+<!crowdoh>这是一项很大的努力，但幅度很大
+<! hitpost> <!crowdoh>枪击声打在木制品上!
+<! hitpost> <!crowdoh> Ooh !砸在酒吧上
+<!招架> <!crowdoh>已保存! | $ attackingforwardname直指守门员
+<! kicklong> <!crowdoh>但$ attackingforwardname将射门高出了横梁
+<!crowdoh>但这是$ attackingforwardname所做的驯服工作|永远不会给饲养员带来麻烦
+<! kickshort> <!crowdoh>哦，亲爱的. $ attackingforwardname将其切成薄片
+<!踢短球> <!crowdoh>但是射门被拉开了| $ attackingforwardname应该已经得分了
+<! parry> <!crowdoh>但$ attackingforwardname的射门直接对守门员
+<!crowdoh>但是$ attackingforwardname浪费了很大的机会
+<!crowdoh>但已超出$ attackingforwardname的限制
+<! hitpost> <!crowdoh>哦! $ attackingforwardname被木工拒绝
+<! kicklong> <!crowdoh>但是$ attackingforwardname的射门未完全击中目标
+<!crowdoh>但是机会却在乞讨| $ attackingforwardname的失败尝试
+<! kicklong> <!crowdoh>但$ attackingforwardname的射门最终出现在看台上
+<! hitnet> <!crowdoh>但是$ attackingforwardname的射门击中了边网
+<! hitnet> <!crowdoh>但是$ attackingforwardname的镜头落在了网顶上
+<! kicklong> <!crowdoh>哦，亲爱的.我不敢相信$ attackingforwardname错过了那个人!
+<! kicklong> <!crowdoh>但是$ attackingforwardname的射门很高
+<!短脚裤> <!crowdoh>失踪! |浪费了千载难逢的机会
+<! kickshort> <!crowdoh>一个可怕的小姐! | $ attackingforwardname完全把它装了瓶
+<!crowdoh>噢，亲爱的人| $ attackingforwardname怎么从那里错过了?
+<!crowdoh>哦，没有! |得分比错过更容易
+<! kickshort> <!crowdoh>吹过哨子|距$ attackingforwardname仅几英寸宽
+<col_d><-PAC> $ defendingdefendername跟不上$ attackingforwardname
+<col_a> <-PAC> $ attackingforwardname击败$ defendingdefendername
+<col_d><-PAC> $ defendingdefendername比$ attackingforwardname快
+<col_d><-PAC> $ defendingdefendername被击败
+<col_d><-PAC> $ defendingdefendername仅次于球
+<col_d><-PAC> $ defendingdefendername没有步伐
+<col_a> <-PAC> $ attackingforwardname跳过$ defendingdefendername
+<col_a> <-PAC> $ attackingforwardname冲过$ defendingdefendername
+<col_a> <-PAC> $ attackingforwardname皮肤$ defendingdefendername进行步速
+<col_d><-PAC> $ defendingdefendername太慢了
+<col_d> <-STR> $ defendingdefendername不够强大
+<col_a><-STR> $ attackingforwardname超过$ defendingdefendername
+<col_d> <-STR> $ defendingdefendername没有力量阻止$ attackingforwardname
+<col_d> <-STR> $ defendingdefendername那里没有显示足够的强度
+<col_d> <-STR> $ defendingdefendername放在一边
+<col_d> <-STR> $ defendingdefendername笨拙
+<col_a><-STR> $ attackingforwardname对于$ defendingdefendername来说太强大了
+<col_a><-STR> $ attackingforwardname推迟了$ defendingdefendername
+<col_a><-STR> $ attackingforwardname运用自己的实力超越了$ defendingdefendername
+<col_a><-STR> $ attackingforwardname刷掉$ defendingdefendername
+<col_d><-TCK> $ defendingdefendername无法解决
+<col_d><-TCK>通过$ defendingdefendername进行铲球的尝试很糟糕。
+<col_d><-TCK> $ defendingdefendername的作用很弱
+<col_d><-TCK> $ defendingdefendername无法解决
+<col_a> <-TCK> $ attackingforwardname跳过$ defendingdefendername的对策
+<col_a> <-TCK> $ attackingforwardname超出$ defendingdefendername的幽灵
+<col_d><-TCK> $ defendingdefendername无法介入
+<col_d><-TCK> $ defendingdefendername无法解决
+<col_d><-TCK>这是$ defendingdefendername的可悲解决方案
+<col_d><-TCK> $ defendingdefendername丢球，$ attackingteamname丢球
+<col_d>天哪知道$playername为何在外场比赛|对手在他周围奔跑!
+<col_d> $playername便宜地将球传给了他|他在外场出战时看起来很失落. . .
+<col_d> $playername完全不在位置|他无法关闭对手. . .
+<col_d> $playername这是一个绝望的挑战|他错过了球员和球!
+<col_a> $ attackingteamname正在直接越过$playername . . .
+<col_d> $playername进球看上去很不稳| <col_a> $ attackingteamname再次进攻. . .
+<col_a> $ attackingteamname继续施加压力$playername |他正在接受再次测试. . .
+<col_d>您可以说$playername不是天生的守门员| <col_a> $ attackingteamname外观再次对其进行测试. . .
+<col_d> $playername将球直接传给对方. . .
+<col_d> $playername在这里慢了下来. . .
+<col_a> $ attackingteamname突破! | <col_d> $playername没有关闭前锋!
+<col_d> $playername到处都是海上| <col_a>这里再次出现$ attackingteamname . . .
+<col_a> $ attackingteamname期待再次测试$playername |他们向前推进. . .
+<col_d> $playername显然是薄弱的环节| <col_a> $ attackingteamname正在四处拍摄
+<col_d> $playername的进球看上去很笨拙| <col_a> $ attackingteamname继续测试他. . .
+<col_d> $playername已被发现拥有. . .
+<col_d> $playername不在位置| <col_a> $ attackingteamname有机会突破. . .
+<col_d> $playername . . .的定位不佳
+<col_d> $playername超出了他的视野| <col_a>这里有$ attackingteamname . . .
+<col_a> $ attackingteamname遇到$playername . . .的错误
+<! crowdcheer> <!whistledelayed> $ attackingteamname的罚款!
+<! crowdcheer> <!whistledelayed> $ attackingteamname受罚!
+<! crowdcheer> <!whistledelayed> $ attackingteamname的罚款!
+<!crowdgoal>目标!奇妙的罚款!
+<!crowdgoal>目标!战栗
+<!crowdgoal>目标!门将无法阻止它!
+<!crowdgoal>目标!直下中间
+<!crowdgoal>目标!不可阻挡的罚款!
+<!crowdgoal>目标!他将其收起!
+<!crowdgoal>目标!他得分!
+<!crowdgoal>目标!他没有犯错!
+<!crowdgoal>目标!钻回家!
+<!crowdgoal>目标!很好地收起球!
+<!crowdgoal>目标!他将其开火!
+<!crowdgoal>目标!守护者没有机会!
+<!crowdoh>失踪!他没有以足够的力量踢过球!
+<!crowdoh>失踪!他弄得一团糟!
+<!crowdoh>失踪!神经变得更好!
+<!crowdoh>未命中!那是很糟糕的刑罚!
+<!招架> <!crowdoh>已保存!管理员猜对了!
+<!招架> <!crowdoh>守护者的一次奇妙保存!
+<!招架> <!crowdoh>被管理员保存!
+<!招架> <!crowdoh>被饲养员赶走!
+<!招架> <!crowdoh>管理员将其保存!
+<!招架> <!crowdoh>已保存!门将走对了路!
 DO NOT TRANSLATE (C)
-None
+<!crowdoh>失踪!横扫酒吧!
+<!crowdoh>失踪!他开枪射击!
+DO NOT TRANSLATE (C)
+<!招架> <!crowdoh>已保存!从守护者那里获得的奇妙保存
+<!招架> <!crowdoh>已保存!管理员将其推开!
+$ attackingteamname必须得分才能留在
+如果$ attackingteamname得分了，他们就赢了
+$ attackingteamname罚款
+<!crowdgoal> $ teamname赢得点球大战!
+<!crowdgoal> $ teamname已经做到了! |他们赢得了点球大战!
+<assistant> <DISLIKE> <col_d>这是$playername和$playername 2之间的误解
+<assistant> <DISLIKE> <col_d> $playername本应将球打向$playername 2，但将球送出
+<assistant> <DISLIKE> <col_d> $playername无法预料到$playername 2的通过
+<assistant> <DISLIKE> <col_d> $playername和$playername 2的波长不同|他们将球传给了对方. . .
+<assistant> <DISLIKE> <col_d> $playername 2没料到$playername的传球
+<assistant> <DISLIKE> <col_d> $playername 2没有从$playername读取通行证
+<assistant> <DISLIKE> <col_d> $playername 2和$playername之间的误解将球赠予了$ attackingteamname
+<assistant> <DISLIKE> <col_d> $playername和$playername 2之间的沟通不畅|他们直接将其传达给反对派. . .
+<col_d> <TIRED> $playername被殴打
+<col_d> <TIRED> $playername跟不上比赛
+<col_d> <TIRED> $playername跟不上他的男人
+<col_d> <TIRED> $playername让比赛绕过他|他的腿走了
+<col_d> <TIRED> $playername无法追球
+<col_d> <TIRED> $playername无法追赶他的对手
+<col_d> <TIRED> $playername看起来很累|他把球给了
+<col_d> <TIRED>这是$playername的一个累赘
+<col_d> <TIRED>看上去疲倦的$playername肌肉发达
+<col_d> <TIRED> $playername让他的男人摆脱他
+<col_a> <TIRED> $ attackingteamname从$playername接球
+<col_d> <TIRED> $playername脱颖而出
+<col_d> $playername努力跟上
+<col_d> <TIRED> $playername无法及时到达终点
+<col_d> <TIRED> $playername看上去很疲倦
+<col_d> <TIRED>这是一个累的错误$playername
+<col_d> <TIRED> $playername追球失败|他看上去很疲倦
+<col_d> <TIRED> $playername太容易捆绑在一起
+<col_d> <TIRED> $playername面临挑战
+<col_a> <TIRED> $ attackingteamname消除了疲劳$playername
+<assistant><col_d><UNHAPPY> $playername今天看起来很不正常
+<assistant> <col_a> <UNHAPPY> $ attackingteamname拦截通过$playername的传球
+<assistant><col_d><UNHAPPY> $playername被剥夺
+<assistant> <col_a> <UNHAPPY> $ attackingteamname轻松从$playername接球
+<assistant><col_d><UNHAPPY> $playername拒绝追捕对手
+<assistant> <col_a> <UNHAPPY> $ attackingteamname从$playername抢断
+<assistant> <col_a> <UNHAPPY> $ attackingteamname受到攻击| <col_d> $playername太容易放弃了球
+<assistant><col_d><UNHAPPY> $playername传球
+<assistant><col_d><UNHAPPY> $playername无法追踪他的男人
+<assistant><col_d><UNHAPPY> $playername不适用于团队
+<assistant><col_d><UNHAPPY> $playername让比赛绕过他
+<assistant><col_d><UNHAPPY> $playername今天步调不快
+<assistant><col_d><UNHAPPY> $playername无法控制球
+<assistant><col_d><UNHAPPY>这是来自$playername的糟糕传球
+<assistant><col_d><UNHAPPY> $playername看起来不感兴趣
+<col_d> <! parry> <!crowdoh> <AGI>但这是$ defendingkeepername节省下来的大笔潜水
+<col_d> <! parry> <!crowdoh> <AGI>但是它被$ defendingkeepername推开了
+<col_d> <! parry> <!crowdoh> <AGI>但是它被$ defendingkeepername屏蔽了
+<col_d> <! parry> <!crowdoh> <AGI>但是$ defendingkeepername向左俯冲并将其掌控
+<col_d> <! parry> <!crowdoh> <AGI>但是$ defendingkeepername向右跳然后将其推开
+<col_d> <! parry> <!crowdoh> <AGI>但是$ defendingkeepername显示了他的敏捷性，将其掌控
+<col_d> <! parry> <!crowdoh> <AGI>但是$ defendingkeepername潜入了他的目标并将其保存
+<col_d> <! parry> <!crowdoh> <AGI>但是$ defendingkeepername可以保存跳水
+<col_d> <! parry> <!crowdoh> <HND>但是$ defendingkeepername会使它窒息
+<col_d> <! parry> <!crowdoh> <HND>但是$ defendingkeepername捕获了它
+<col_d> <! parry> <!crowdoh> <HND>由$ defendingkeepername保存.保存良好.
+<col_d> <! parry> <!crowdoh> <HND>但是$ defendingkeepername保持良好
+<col_d> <! parry> <!crowdoh> <HND>哦! $ defendingkeepername大大节省了
+<col_d> <! parry> <!crowdoh> <HND>但是$ defendingkeepername在那里显示安全的手牌
+<col_d> <! parry> <!crowdoh> <HND>但$ defendingkeepername却举手
+<col_d> <! parry> <!crowdoh> <PAC>但是$ defendingkeepername迅速赶出拦截
+<col_d> <! parry> <!crowdoh> <PAC>但是$ defendingkeepername很快就离开了比赛并得到球
+<col_d> <! parry> <!crowdoh> <PAC>但是$ defendingkeepername首先到达那里
+<col_d> <! parry> <!crowdoh> <PAC>但是守护者$ defendingkeepername快速关闭了角度
+<col_d> <! parry> <!crowdoh> <PAC>但是$ defendingkeepername很快就下线了，这使球更窒息
+<col_d> <! parry> <!crowdoh> <RFL>但这与$ defendingkeepername相比节省了很多
+<col_d> <! parry> <!crowdoh> <RFL> $ defendingkeepername保存的良好反应
+<col_d> <! parry> <!crowdoh> <RFL>但是它被$ defendingkeepername屏蔽了
+<col_d> <! parry> <!crowdoh> <RFL>哦! $ defendingkeepername保存了一个不错的反应
+<col_d> <! parry> <!crowdoh> <RFL> $ defendingkeepername显示良好的反应并将其推开
+<col_d> <! parry> <!crowdoh> <RFL>但是$ defendingkeepername可以保存反射
+<col_d> <! parry> <!crowdoh> <RFL> $ defendingkeepername反应迅速，将其掌控
+<col_d>这是$playername的第二个黄色|他已经离开!
+<col_d>这不太适合$playername |这是第二张黄牌!
+<col_d> $playername在这里遇到麻烦|第二黄，他不在了!
+<col_d> $playername拿到另一张黄牌|他必须离开!
+<col_d> $playername前往隧道|是第二个黄色!
+$ attackingteamname有机会得分. . .
+$ attackingteamname突破数字. . .
+$ attackingteamname . . .这是一个机会
+$ attackingteamname看起来有威胁. . .
+<! kickshort>这里有$ attackingteamname . . .
+$ attackingteamname在这里看起来很危险. . .
+$ attackingteamname . . .的机会打开了
+$ attackingteamname已达到目标. . .
+<!踢龙> $ attackingteamname将球向前踢. . .
+$ attackingteamname有很大的机会. . .
+<! kicklong> $ attackingteamname放入框中. . .
+$ attackingteamname向前推送. . .
+<! kicklong> $ attackingteamname出现了一个十字架. . .
+<! kickshort> $ attackingteamname的足球真不错. . .
+<!踢短裤> $ attackingteamname很好地移动了球. . .
+<col_d> $playername因暴力不当行为而被遣送!
+<col_d>这是$playername !的红牌
+<col_d> $playername处于关闭状态! |红牌顺子!
+<col_d>红牌! | $playername被送出!
+<col_d> $playername正在抗议，但它是一张红牌!
+用$ teamname代替
+这是$ teamname的替代
+$ teamname带来了一个子
+用$ teamname代替
+$ teamname带来了一些新鲜事物
+$ teamname正在进行一些更改
+攻击者
+防御者
+前锋
+守护者
+中场
+前锋
+<+TRAIT> $playername进行了一次肺爆破训练|他接住了球. . .
+<+TRAIT> $playername支持进攻|皮球落在他身上. . .
+<+TRAIT> $playername在危险的位置接球
+<+TRAIT> $playername的大力支持球|他控球
+<+TRAIT> $playername在进攻三分球中获胜
+$playername必须走路! |这是他的第二项可定罪!
+那是$playername !的第二张黄牌|他必须去!
+这意味着他必须去! | $playername获得比赛的第二个黄色!
+裁判挥手将其甩开! |没有罚款!
+但是裁判员说继续比赛!
+但是裁判说没有处罚!
+<!whistledelayed>裁判员给了它! |罚款!
+DO NOT TRANSLATE (C)
+<!whistledelayed>裁判指出地点! |罚款!
+<!whistledelayed>这是罚款! |联系很少
+<!whistledelayed>这是罚款! |辩护人说这是一次跳水
+<!whistledelayed>裁判员吹口哨|黄牌为$playername进行潜水!
+$playername被正确预定潜水.
+<!whistledelayed>裁判员打电话给$playername，|他给了他一张黄牌进行潜水!
+裁判从$playername明显跳水，并预订了他.
+<!whistledelayed> $playername在这里可能会遇到麻烦. . . |这是潜水的黄牌!
+<+TRAIT> $playername在罚球区落下!
+<+TRAIT> $playername在罚罚箱中移过!
+<+TRAIT> $playername恰好位于箱子内!
+<+TRAIT>似乎$playername被绊倒在盒子里!
+<+TRAIT>看起来像是推动盒子中的$playername !
+<+TRAIT> $playername有机会进入盒子
+<+TRAIT>球掉到箱子内的$playername
+<+TRAIT> $playername闯入该区域|球落在他身上. . .
+<+TRAIT> $playername在区域. . .接球
+<+TRAIT>球被鞭打入盒子|落到$playername
+<+TRAIT> $playername传球. . .
+<+TRAIT> $playername将脚踩在球上|现在他将球向前踢. . .
+<+TRAIT>来自$playername . . .的敏锐传球
+<+TRAIT> $playername发起攻击. . .
+<+TRAIT> $playername向前送球. . .
+<+TRAIT>这是来自$playername . . .的灵巧轻弹
+<+TRAIT> $playername提供了前向通过. . .
+<+TRAIT> $playername找到队友. . .
+<+TRAIT> $playername抬起头|他通过了. . .
+<+TRAIT> $playername扫描田野|他找到了他的男人. . .
+<+TRAIT>球落到替补球员$playername . . .
+<+TRAIT> $playername自上来以来就产生了影响|他拿到了球. . .
+<+TRAIT> $playername自参与以来就参与其中|他向前推动. . .
+<+TRAIT> $playername接球|替补得分突破. . .
+<+TRAIT> $playername自上来以来一直是威胁|他正在向前突破. . .
+<+TRAIT> $playername腿部新鲜，心情愉快|他正努力有所作为. . .
+<+TRAIT> $playername持球良好. . .
+<+TRAIT> $playername握住球并等待支撑. . .
+<+TRAIT> $playername为$ attackingteamname提供出口
+<+TRAIT> $ attackingteamname将球提高到$playername |他将球保持得很好. . .
+<+TRAIT>目标男子$playername接球. . .
+<assistant><EXP><col_a> $playername表现出色|他展示了他的经验| $ attackingteamname正在进攻
+<assistant><EXP><col_a> $playername试图在游戏上加盖一些权限|他获得了$ attackingteamname前进. . .
+<assistant><EXP><col_a> $playername赢回球|那是老球员的聪明选择| $ attackingteamname突破
+<assistant><EXP><col_a> $playername从运球员身上抢断了球|他为此太聪明了而不能倒下!
+<assistant><EXP><col_a> $playername拦截通行证|他在那儿表现出了很高的意识. . .
+<assistant><EXP><col_a>这是$playername的一次出色拦截|他利用自己的所有经验
+<assistant><EXP><col_a> $playername显示了他的控球经验
+<assistant> <EXP> <assistant><EXP><col_a> $playername的出色战术意识|他让自己的球队再次发动进攻. . .
+<assistant><EXP><col_a> $playername保持了自己的位置，抢到了皮球|经验赢得了挑战!
+<assistant><EXP><col_a> $ defendingteamname输给了$playername |他为此太明智了. . .
+<assistant><EXP><col_a> <!whistledelayed> $playername赢任意球|他在那里运用了他的所有经验!
+<assistant><EXP><col_a> <!whistledelayed> $playername获得任意球|那是明智球员的明智选择
+<assistant><EXP><col_a> <!whistledelayed> $playername挑战并赢得任意球
+<assistant><EXP><col_a> <!whistledelayed> $playername得到任意球|他在那里很聪明
+<assistant><EXP><col_a> <!whistledelayed> $playername轻松摔倒但获得任意球|裁判真的没有选择
+<col_d>这将是$playername的黄牌
+<col_d>这是一张黄牌| $playername进入书中
+<col_d>被$playername故意犯规|黄牌
+<col_d> $playername拿到一张黄牌
+<col_d>裁判员进入他的口袋|一张$playername的黄牌
+<assistant><-EXP><col_d>从年轻时起分布不佳$playername . . .
+<assistant><-EXP><col_d>菜鸟守护者$playername看起来很紧张|他招架了一个弱小的投篮重新发挥作用. . .
+<assistant><-EXP><col_d> $playername将需要快速学习|他直接将球掷向了对手
+<assistant><-EXP><col_d>那是年轻时的糟糕表现$playername
+<assistant><-EXP><col_d> $playername显示了他的经验|他直接给了$ attackingteamname . . .
+<assistant><-EXP><col_d> $playername望着他的深处| <col_a>他直接把它扔给了$ attackingteamname . . .
+<assistant><-EXP><col_d> $playername似乎没有为第一支球队做好准备| <col_a>他的分配不佳. . .
+<assistant><-EXP><col_d>小伙子$playername实在无法参加一队比赛| <col_a>他在驯服的十字架上扑了一下. . .
+<assistant><-EXP><col_d>小伙子$playername被扔到了最深处| <col_a> $ attackingteamname可以闻到血液. . .
+<assistant><-EXP><col_d>年轻$playername显然在外面挣扎| <col_a> $ attackingteamname对他开枪. . .
+<assistant><-EXP><col_d> $playername完全超出了他的深度| <col_a>这里有$ attackingteamname . . .
+<assistant><-EXP><col_d> $playername显然还没有准备好对第一队采取行动| <col_a> $ attackingteamname攻击. . .
+<assistant><-EXP><col_d>小伙子$playername对于进攻时的一线队行动| <col_a> $ attackingteamname太原始了. . .
+<assistant><-EXP><col_d>小伙子$playername被扔到了最深处| <col_a>这里是$ attackingteamname . . .
+<assistant><-EXP><col_d>年轻$playername显然在外面挣扎| <col_a> $ attackingteamname正在和他玩弄. . .
+<assistant><-EXP><col_d> $playername犯了菜鸟错误. . .
+<assistant><-EXP><col_d>年轻$playername看着大海. . .
+<assistant><-EXP><col_d> $playername将需要快速学习|他已将球传开了. . .
+<assistant><-EXP><col_d>这是年轻时的愚蠢错误$playername
+<assistant><-EXP><col_d> $playername显示了他的经验. . .
+<assistant><-EXP><col_d>小伙子$playername犯了一个愚蠢的错误
+<assistant><-EXP><col_d>这是小伙子的错误$playername
+<assistant><-EXP><col_d> $playername显示他的经验不足|菜鸟错误
+<assistant><-EXP><col_d> $playername犯的一个错误|表明他缺乏经验
+<assistant><-EXP><col_d> $playername位置不正确|他的经验不足，在那儿背叛了他. . .
+<assistant> <-EXP> <col_a> $ attackingteamname处理年轻人$playername
+<assistant><-EXP><col_d> $playername的愚蠢犯规|暴露了他缺乏经验
+<assistant><-EXP><col_d>这是年轻人的轻率挑战$playername
+<assistant><-EXP><col_d>年轻$playername将他的对手捆在了地上
+<assistant><-EXP><col_d> $playername被骗去挑战. . .
+<assistant><-EXP><col_d>在危险区域这是不必要的挑战| $playername表明他在那里没有经验
+没有足够的现金
+需要$设施等级$ num
+辅导课程
+DO NOT TRANSLATE (C)
+提高守门员的敏捷性
+添加面
+影响
+适合度
++1健身卡
+增强门将的处理能力
++1治疗卡
+进展
+增强守门员的反应能力
+休息队
++ $ num个NRG卡
++1球探名单上的球员
+技能专长
+团队合作
++1技能卡
+青年
++1青年球员卡
+提高玩家的多功能性
 DO NOT TRANSLATE (C)
 DO NOT TRANSLATE (C)
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
+冷却时间：$ num
+正在连接. . .
+冷却时间：$ num-升级工具
+检查互联网连接
+冷却时间：$ num-工作人员不满意
+促进球员的运球
+雇用员工使用设施
 DO NOT TRANSLATE (C)
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
+提高玩家的节奏
+增强球员的力量
+增强玩家的处理能力
+提升玩家的技巧
+购买设施以雇用员工
+竞争
+友好
+比赛项目
+最好的地方
+KO
+联盟
+联赛延续
+泳池
+区域排序
+合同
+发展历程
+团队形式
+管理
+选拔
+合同关注
+发展关注
+形式关注
+高度关注
+管理问题
+选择问题
+培训关注
+训练
+顾虑
+DO NOT TRANSLATE (C)
+形成
+DO NOT TRANSLATE (C)
+DO NOT TRANSLATE (C)
+恭喜啦
+None
+数据同意管理
+数据使用
+此游戏带有广告支持.我们希望为您提供更好，更有用，重复次数更少的广告，并且为此，我们需要跟踪有关您设备的一些详细信息.。要达成共识，您必须年满16岁
+同意
+更多信息
+不同意
+None
+大陆
+欧陆
+大陆航空公司
+大陆比赛
+大陆组合
+大洲
+继续
+DO NOT TRANSLATE (C)
+合同到期
+合约时长
+合同谈判
+合约报价
+需要
+已过期
+过期
+聘请
+雇用
+增加合同
+合约长度：$ num个
+未录用
+更新
+退役
+术语
+增加合同期限
+冷却
+角落
+在新闻发布会上，您会被问到以下问题：
+$playername禁赛目前剩下多少场比赛?
+您职业生涯中最大的损失是什么?
+本赛季你最大的损失是什么?
+您职业中最大的胜利是什么?
+您本赛季最大的胜利是什么?
+您目前的体育场容量是多少?
+因伤缺席$playername还有几场比赛?
+您目前的联赛位置是什么?
+您的健身中心在什么水平上?
+您是否建立了健身中心?
+您的医疗单元是什么级别?
+您是否已建立医疗单元?
+您的侦查员办公室在什么级别?
+您是否已经建立了侦察员办公室?
+您的CLUB STORE是什么级别？?
+您是否已建立CLUB STORE？?
+您的训练水平是多少？?
+您是否建立了培训基地？?
+您的青年学院是什么水平?
+您建立了青年学院吗?
+您的健身教练的名字是什么?
+您的PHYSIO的名字是什么?
+您的SCOUT叫什么名字?
+您的技能教练的名字是什么?
+谁是本赛季迄今为止球队中助攻最多的球员?
+到目前为止，哪个球员获得了本赛季最多的红牌?
+谁是本赛季您目前的最佳射手？?
+到目前为止，哪个球员拿到了本赛季最多的黄牌?
+您的YOUTH COACH的名字是什么?
+下一场比赛您有多少前锋可用?
+下一场比赛您有多少个守门员?
+您的球队有多少名前锋球员?
+您的阵容中有多少个守门员?
+您有多少员工?
+由于受伤或禁令，有多少名球员无法参加下一场比赛?
+$ manager name会在与$ opposed clubname对抗赛之前举行完美的新闻发布会.
+您现在的票价是多少?
+您在职业生涯中买了几名球员?
+您在职业生涯中卖出了多少名球员?
+您的职业生涯获胜率是多少?
+您本赛季的胜率是多少?
+您在职业生涯中签了多少青年球员?
+y
+猴子机油
+两个
+几英里以外
+gimmecover .与
+4壁炉墙
+打开.
+霍姆
+土狼
+奥塞特国际
+Whyte &里昂
+北方邮政
+软焦点
+willbuyanytank . com
+一条腿短
+超级激光猫
+折扣摄录机仓库
+Restorigrow
+盘绕的蟒蛇
+正确的球拍
+羊驼毛
+布朗之屋
+智能电信
+主菜
+Trampstons Ale
+皮箱
+CA是bank
+Leggit
+搪瓷器
+天鹅漆
+扭曲帽
+银河系
+恐怖通道
+京东
+McSwirlies
+炸薯条
+纽斯塔郡
+U型靴
+美国叉
+幸运地
+无限技能
+狼人的
+修女第二
+猎犬
+维托·莫扎里拉（Vito Mozzarella）
+大T
+武ぷ
+街头巴士涡轮增压
+圈
+嫩枝&浆果
+布莱恩网络
+S & Y技术
+矮人厅
+这是一间健身房
+NailedIt Direct
+跑一点
+把事情简单化
+放在甲板上
+我想从你那里看到更多
+把一切都留在球场上
+尝试放松
+加快节奏
+设定节奏
+向上推高音
+不要着急
+保持财产
+更快地关闭它们
+寻找通行证
+表现出一些热情
+为粉丝做
+更临床
+给与走
+寻找空间
+落后
+工作渠道
+使用侧面
+停下巴士
+赢得50/50
+保持紧密
+陷在
+使用宽度
+追逐每个球
+不要被吓到
+相信自己的能力
+不要向他们表示敬意
+杯子
+当前俱乐部
+现行合同
+定制
+资料检视
+日期
+1天前
+1个月前
+1周前
+四月
+八月
+十二月
+二月
+星期五
+一月
+七月
+六月
+游行
+可以
+星期一
+十一月
+$ num天前
+$ num月前
+$ num周前
+十月
+星期六
+九月
+星期日
+星期四
+今天
+星期二
+星期三
+天
+期望的转移
+困境!
+困境奖励
+困境奖励
 None
 None
 None
@@ -5202,4 +5202,338 @@ DO NOT TRANSLATE (A)
 DO NOT TRANSLATE (A)
 DO NOT TRANSLATE (A)
 DO NOT TRANSLATE (A)
-DO NOT TRA
+DO NOT TRANSLATE (A)
+DO NOT TRANSLATE (A)
+DO NOT TRANSLATE (A)
+DO NOT TRANSLATE (A)
+DO NOT TRANSLATE (A)
+DO NOT TRANSLATE (A)
+DO NOT TRANSLATE (A)
+DO NOT TRANSLATE (A)
+DO NOT TRANSLATE (A)
+DO NOT TRANSLATE (A)
+DO NOT TRANSLATE (A)
+DO NOT TRANSLATE (A)
+DO NOT TRANSLATE (A)
+DO NOT TRANSLATE (A)
+DO NOT TRANSLATE (A)
+DO NOT TRANSLATE (A)
+DO NOT TRANSLATE (A)
+DO NOT TRANSLATE (A)
+DO NOT TRANSLATE (A)
+DO NOT TRANSLATE (A)
+DO NOT TRANSLATE (A)
+DO NOT TRANSLATE (A)
+DO NOT TRANSLATE (A)
+DO NOT TRANSLATE (A)
+DO NOT TRANSLATE (A)
+DO NOT TRANSLATE (A)
+DO NOT TRANSLATE (A)
+None
+DO NOT TRANSLATE (A)
+DO NOT TRANSLATE (A)
+DO NOT TRANSLATE (A)
+DO NOT TRANSLATE (A)
+DO NOT TRANSLATE (A)
+DO NOT TRANSLATE (A)
+DO NOT TRANSLATE (A)
+DO NOT TRANSLATE (A)
+DO NOT TRANSLATE (A)
+DO NOT TRANSLATE (A)
+DO NOT TRANSLATE (A)
+DO NOT TRANSLATE (A)
+DO NOT TRANSLATE (A)
+DO NOT TRANSLATE (A)
+DO NOT TRANSLATE (A)
+DO NOT TRANSLATE (A)
+DO NOT TRANSLATE (A)
+DO NOT TRANSLATE (A)
+DO NOT TRANSLATE (A)
+DO NOT TRANSLATE (A)
+DO NOT TRANSLATE (A)
+DO NOT TRANSLATE (A)
+DO NOT TRANSLATE (A)
+DO NOT TRANSLATE (A)
+DO NOT TRANSLATE (A)
+DO NOT TRANSLATE (A)
+DO NOT TRANSLATE (A)
+DO NOT TRANSLATE (A)
+DO NOT TRANSLATE (A)
+DO NOT TRANSLATE (A)
+DO NOT TRANSLATE (A)
+DO NOT TRANSLATE (A)
+DO NOT TRANSLATE (A)
+DO NOT TRANSLATE (A)
+DO NOT TRANSLATE (A)
+DO NOT TRANSLATE (A)
+DO NOT TRANSLATE (A)
+DO NOT TRANSLATE (A)
+DO NOT TRANSLATE (A)
+DO NOT TRANSLATE (A)
+DO NOT TRANSLATE (A)
+DO NOT TRANSLATE (A)
+DO NOT TRANSLATE (A)
+DO NOT TRANSLATE (A)
+DO NOT TRANSLATE (A)
+DO NOT TRANSLATE (A)
+DO NOT TRANSLATE (A)
+DO NOT TRANSLATE (A)
+DO NOT TRANSLATE (A)
+DO NOT TRANSLATE (A)
+DO NOT TRANSLATE (A)
+DO NOT TRANSLATE (A)
+DO NOT TRANSLATE (A)
+DO NOT TRANSLATE (A)
+DO NOT TRANSLATE (A)
+DO NOT TRANSLATE (A)
+DO NOT TRANSLATE (A)
+DO NOT TRANSLATE (A)
+DO NOT TRANSLATE (A)
+DO NOT TRANSLATE (A)
+DO NOT TRANSLATE (A)
+DO NOT TRANSLATE (A)
+DO NOT TRANSLATE (A)
+DO NOT TRANSLATE (A)
+DO NOT TRANSLATE (A)
+DO NOT TRANSLATE (A)
+DO NOT TRANSLATE (A)
+DO NOT TRANSLATE (A)
+DO NOT TRANSLATE (A)
+DO NOT TRANSLATE (A)
+DO NOT TRANSLATE (A)
+DO NOT TRANSLATE (A)
+DO NOT TRANSLATE (A)
+DO NOT TRANSLATE (A)
+DO NOT TRANSLATE (A)
+DO NOT TRANSLATE (A)
+DO NOT TRANSLATE (A)
+DO NOT TRANSLATE (A)
+DO NOT TRANSLATE (A)
+DO NOT TRANSLATE (A)
+DO NOT TRANSLATE (A)
+DO NOT TRANSLATE (A)
+DO NOT TRANSLATE (A)
+DO NOT TRANSLATE (A)
+DO NOT TRANSLATE (A)
+DO NOT TRANSLATE (A)
+DO NOT TRANSLATE (A)
+DO NOT TRANSLATE (A)
+DO NOT TRANSLATE (A)
+DO NOT TRANSLATE (A)
+DO NOT TRANSLATE (A)
+DO NOT TRANSLATE (A)
+DO NOT TRANSLATE (A)
+DO NOT TRANSLATE (A)
+DO NOT TRANSLATE (A)
+DO NOT TRANSLATE (A)
+DO NOT TRANSLATE (A)
+DO NOT TRANSLATE (A)
+DO NOT TRANSLATE (A)
+DO NOT TRANSLATE (A)
+DO NOT TRANSLATE (A)
+DO NOT TRANSLATE (A)
+DO NOT TRANSLATE (A)
+DO NOT TRANSLATE (A)
+DO NOT TRANSLATE (A)
+DO NOT TRANSLATE (A)
+DO NOT TRANSLATE (A)
+DO NOT TRANSLATE (A)
+DO NOT TRANSLATE (A)
+DO NOT TRANSLATE (A)
+DO NOT TRANSLATE (A)
+DO NOT TRANSLATE (A)
+DO NOT TRANSLATE (A)
+DO NOT TRANSLATE (A)
+DO NOT TRANSLATE (A)
+DO NOT TRANSLATE (A)
+DO NOT TRANSLATE (A)
+None
+None
+None
+None
+None
+None
+DO NOT TRANSLATE (A)
+DO NOT TRANSLATE (A)
+DO NOT TRANSLATE (A)
+DO NOT TRANSLATE (A)
+DO NOT TRANSLATE (A)
+DO NOT TRANSLATE (A)
+DO NOT TRANSLATE (A)
+DO NOT TRANSLATE (A)
+DO NOT TRANSLATE (A)
+DO NOT TRANSLATE (A)
+DO NOT TRANSLATE (A)
+DO NOT TRANSLATE (A)
+DO NOT TRANSLATE (A)
+DO NOT TRANSLATE (A)
+DO NOT TRANSLATE (A)
+DO NOT TRANSLATE (A)
+DO NOT TRANSLATE (A)
+DO NOT TRANSLATE (A)
+DO NOT TRANSLATE (A)
+DO NOT TRANSLATE (A)
+DO NOT TRANSLATE (A)
+DO NOT TRANSLATE (A)
+DO NOT TRANSLATE (A)
+DO NOT TRANSLATE (A)
+DO NOT TRANSLATE (A)
+DO NOT TRANSLATE (A)
+DO NOT TRANSLATE (A)
+DO NOT TRANSLATE (A)
+DO NOT TRANSLATE (A)
+DO NOT TRANSLATE (A)
+DO NOT TRANSLATE (A)
+DO NOT TRANSLATE (A)
+DO NOT TRANSLATE (A)
+DO NOT TRANSLATE (A)
+DO NOT TRANSLATE (A)
+DO NOT TRANSLATE (A)
+DO NOT TRANSLATE (A)
+DO NOT TRANSLATE (A)
+DO NOT TRANSLATE (A)
+DO NOT TRANSLATE (A)
+DO NOT TRANSLATE (A)
+DO NOT TRANSLATE (A)
+DO NOT TRANSLATE (A)
+DO NOT TRANSLATE (A)
+DO NOT TRANSLATE (A)
+DO NOT TRANSLATE (A)
+DO NOT TRANSLATE (A)
+DO NOT TRANSLATE (A)
+DO NOT TRANSLATE (A)
+DO NOT TRANSLATE (A)
+DO NOT TRANSLATE (A)
+DO NOT TRANSLATE (A)
+DO NOT TRANSLATE (A)
+DO NOT TRANSLATE (A)
+DO NOT TRANSLATE (A)
+DO NOT TRANSLATE (A)
+DO NOT TRANSLATE (A)
+DO NOT TRANSLATE (A)
+DO NOT TRANSLATE (A)
+DO NOT TRANSLATE (A)
+DO NOT TRANSLATE (A)
+DO NOT TRANSLATE (A)
+DO NOT TRANSLATE (A)
+DO NOT TRANSLATE (A)
+DO NOT TRANSLATE (A)
+DO NOT TRANSLATE (A)
+DO NOT TRANSLATE (A)
+DO NOT TRANSLATE (A)
+DO NOT TRANSLATE (A)
+DO NOT TRANSLATE (A)
+DO NOT TRANSLATE (A)
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+N

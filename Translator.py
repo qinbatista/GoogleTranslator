@@ -104,6 +104,10 @@ class GoogleTranslator:
         using_symble = ''
         replaced_list = []
         symble_list = []
+        if key.find('¬#252525FF¬TRAIT¬s¬')!=-1:
+            using_symble = '¬#252525FF¬TRAIT¬s¬'
+            replaced_list.append('[28]')
+            symble_list.append('¬#252525FF¬TRAIT¬s¬')
         if key.find('$playername')!=-1:
             using_symble = '$playername'
             replaced_list.append('[1]')
@@ -159,7 +163,7 @@ class GoogleTranslator:
         if key.find('#')!=-1:
             using_symble = '#'
             replaced_list.append('[14]')
-            symble_list.append('+1')
+            symble_list.append('#')
         if key.find('&')!=-1:
             using_symble = '&'
             replaced_list.append('[15]')
@@ -220,10 +224,7 @@ class GoogleTranslator:
             using_symble = '<nation>'
             replaced_list.append('[27]')
             symble_list.append('<nation>')
-        if key.find('¬#252525FF¬TRAIT¬s¬')!=-1:
-            using_symble = '¬#252525FF¬TRAIT¬s¬'
-            replaced_list.append('[28]')
-            symble_list.append('¬#252525FF¬TRAIT¬s¬')
+
 
 
 
@@ -327,50 +328,50 @@ class GoogleTranslator:
                         orignal_index = 2
                         translate_index = 3
 
-                    elif sheet_number == 1:#Countries
-                        lines = 220
-                        orignal_index = 2
-                        translate_index = 3
+                    # elif sheet_number == 1:#Countries
+                    #     lines = 220
+                    #     orignal_index = 2
+                    #     translate_index = 3
 
-                    elif sheet_number == 2:#Continents
-                        lines = 10
-                        orignal_index = 2
-                        translate_index = 3
+                    # elif sheet_number == 2:#Continents
+                    #     lines = 10
+                    #     orignal_index = 2
+                    #     translate_index = 3
 
-                    elif sheet_number == 3:#Store MetaData
-                        lines = 60
-                        orignal_index = 3
-                        translate_index = 4
+                    # elif sheet_number == 3:#Store MetaData
+                    #     lines = 60
+                    #     orignal_index = 3
+                    #     translate_index = 4
 
-                    elif sheet_number == 4:#Purchase MetaData
-                        lines = 70
-                        orignal_index = 3
-                        translate_index = 4
+                    # elif sheet_number == 4:#Purchase MetaData
+                    #     lines = 70
+                    #     orignal_index = 3
+                    #     translate_index = 4
 
-                    elif sheet_number == 5:#Fake Ads
-                        lines = 15
-                        orignal_index = 3
-                        translate_index = 4
+                    # elif sheet_number == 5:#Fake Ads
+                    #     lines = 15
+                    #     orignal_index = 3
+                    #     translate_index = 4
 
-                    elif sheet_number == 6:#Push Notifications
-                        lines = 10
-                        orignal_index = 3
-                        translate_index = 4
+                    # elif sheet_number == 6:#Push Notifications
+                    #     lines = 10
+                    #     orignal_index = 3
+                    #     translate_index = 4
 
-                    elif sheet_number == 7:#Steam Specific
-                        lines = 320
-                        orignal_index = 2
-                        translate_index = 3
+                    # elif sheet_number == 7:#Steam Specific
+                    #     lines = 320
+                    #     orignal_index = 2
+                    #     translate_index = 3
 
-                    elif sheet_number == 8:#Nintendo Specific
-                        lines = 380
-                        orignal_index = 2
-                        translate_index = 3
+                    # elif sheet_number == 8:#Nintendo Specific
+                    #     lines = 380
+                    #     orignal_index = 2
+                    #     translate_index = 3
 
-                    elif sheet_number == 9:#PlayStation Specific
-                        lines = 380
-                        orignal_index = 2
-                        translate_index = 3
+                    # elif sheet_number == 9:#PlayStation Specific
+                    #     lines = 380
+                    #     orignal_index = 2
+                    #     translate_index = 3
 
                     # for i in range(0,lines):
                     #     ori_list.append(sheet[i,orignal_index].value)
@@ -378,16 +379,16 @@ class GoogleTranslator:
                     # wb.save()
                     # wb.close()
                     # app.quit()
-                # with open(os.path.dirname(os.path.realpath(__file__)) + "/ori_list.txt", "a") as f:
-                #     for ori in ori_list:
-                #         if ori == None:
-                #             ori = ''
-                #         f.writelines(str(ori)+'\n')
-                # with open(os.path.dirname(os.path.realpath(__file__)) + "/tran_list.txt", "a") as f:
-                #     for tran in tran_list:
-                #         if ori == None:
-                #             ori = ''
-                #         f.writelines(str(tran)+'\n')
+                    # with open(os.path.dirname(os.path.realpath(__file__)) + "/ori_list.txt", "a") as f:
+                    #     for ori in ori_list:
+                    #         if ori == None:
+                    #             ori = ''
+                    #         f.writelines(str(ori)+'\n')
+                    # with open(os.path.dirname(os.path.realpath(__file__)) + "/tran_list.txt", "a") as f:
+                    #     for tran in tran_list:
+                    #         if ori == None:
+                    #             ori = ''
+                    #         f.writelines(str(tran)+'\n')
                     with open(os.path.dirname(os.path.realpath(__file__)) + "/ori_list.txt", "r") as f:
                         context_ori = f.readlines()
                     with open(os.path.dirname(os.path.realpath(__file__)) + "/tran_list.txt", "r") as f:
@@ -424,7 +425,7 @@ if __name__ == '__main__':
     parser.add_argument('-target','--t'  , type = str, default = 'zh-CN',    help = 'target text,  中文:zh-CN, 英语:en, 繁体中文台湾:zh_TW, 繁体中文香港:zh_HK, 繁体中文新加坡:zh_HK, 俄语:ru, 日语:ja, 德语:de, 法语:fr, 韩语:ko, 泰语:th, 意大利语言:it')
     args = parser.parse_args()
     gt = GoogleTranslator(oringal= args.o, target=args.t)
-    # print(gt.translate(f"¬#A61214FF¬¬o:#A61214FF¬CURLING & LOFTING THE BALL¬s¬ ||When you've chosen shot power and direction, you get to strike the ball. Tapping in the centre of the ball kicks it straight. Tapping the bottom of the ball lofts it, while tapping on the left or right of the ball curls it. The higher a player's TECHNIQUE, the more curl they can apply to the ball."))
+    print(gt.translate(f"MISTER DOPEY!¦$clubname player $playername has received a $banlength match ban after testing positive for performance enhancing drugs! #BAN"))
     gt.excel_manager_new_star('./Manager Translation Package 16680 INCLUDING CONVERTER.xlsx')
 
 
