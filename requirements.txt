@@ -1,3 +1,4 @@
 PyExecJS
 fake_useragent
 argparse
+xlwings

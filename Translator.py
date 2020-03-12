@@ -8,6 +8,8 @@ import os
 from fake_useragent import UserAgent
 import re
 import argparse
+import xlwings as xw
+import shutil
 UA = UserAgent()
 
 
@@ -97,11 +99,33 @@ class GoogleTranslator:
         return url
 
     def translate(self, key):
+        translate_back = -1
+        modified_text = key
+        if key.find('#')!=-1:
+            modified_text = key.replace("#",'>>>')
+            translate_back=1
+        elif key.find('&')!=-1:
+            modified_text = key.replace("&",'>>>')
+            translate_back=2
+        elif key.find('+')!=-1:
+            modified_text = key.replace("+",'>>>')
+            translate_back=3
+
         """hl -> tl"""
-        url = self.build(key)
+        url = self.build(modified_text)
         res = self.session.post(url=url, headers=self.headers, timeout=self.timeout)
         results = json.loads(res.content.decode(encoding='utf-8'))
-        return results[0][0][0]
+        translated_string = results[0][0][0]
+        if translate_back == 1:
+            modified_text = translated_string[0][0][0].replace('>>>','#')
+        elif translate_back == 2:
+            modified_text = translated_string[0][0][0].replace('>>>','&')
+        elif translate_back == 3:
+            modified_text = translated_string[0][0][0].replace('>>>','+')
+        else:
+            modified_text = translated_string
+        print(f'[{key}]->[{modified_text}]')
+        return modified_text
 
     def xml_doc(self,_path):
         print("Translate xml Started:"+_path)
@@ -112,6 +136,7 @@ class GoogleTranslator:
                 if content.find("lang=\"en\"")!=-1:#找到需要翻译的特征符合lang="en"
                     key_word = content[content.find(">")+1:content.rfind("</")]
                     new_content = content.replace(key_word,self.translate(key_word))
+
                     target_content.append(new_content.replace("lang=\"en\"","lang=\"zh-cn\""))#添加中文特征符合
                     print("translated text:"+new_content)
                 else:
@@ -129,20 +154,180 @@ class GoogleTranslator:
         with open(_path+".txt", 'w', encoding='utf-8') as f:
             f.writelines(new_content)
 
+    def txt_doc_giveitup3(self, _path):
+        print("Translate txt Started:"+_path)
+        new_content = []
+        with open(_path, 'r', encoding='utf-8') as f:
+            contents = f.readlines()
+            for content in contents:
+                if content.find("		<value>")!=-1:
+                    print(content)
+                    start_text = content.find("		<value>")
+                    end_text = content.find("</value>")
+                    translate_string = content[start_text+len('		<value>'):end_text]
+                    translate_back = False
+                    if translate_string.find('#')!=-1:
+                        translate_string = translate_string.replace("#",'..')
+                        translate_back=True
+                        modified_text = content.replace(translate_string.replace("..",'#'),self.translate(translate_string))+'\n'
+                    elif translate_string.find('&')!=-1:
+                        translate_string = translate_string.replace("&",'..')
+                        translate_back=True
+                        modified_text = content.replace(translate_string.replace("..",'&'),self.translate(translate_string))+'\n'
+                    elif translate_string.find('+')!=-1:
+                        translate_string = translate_string.replace("+",'..')
+                        translate_back=True
+                        modified_text = content.replace(translate_string.replace("..",'+'),self.translate(translate_string))+'\n'
+                    else:
+                        modified_text = content.replace(translate_string,self.translate(translate_string))+'\n'
+                    if translate_back == True:
+                        modified_text = modified_text.replace('..','#')
+                        translate_back = False
+                    new_content.append(modified_text)
+                    print(modified_text)
+                    time.sleep(2)
+                else:
+                    new_content.append(content+'\n')
+        with open(_path+"."+self.target, 'w', encoding='utf-8') as f:
+            f.writelines(new_content)
+
+    def excel_manager_new_star(self, _path):
+        for sheet_number in range(0,1):
+            if os.path.exists(os.path.splitext(_path)[0]+'_translated'+os.path.splitext(_path)[-1])==False:
+                shutil.copy(_path,os.path.splitext(_path)[0]+'_translated'+os.path.splitext(_path)[-1])
+            modifying_file = os.path.splitext(_path)[0]+'_translated'+os.path.splitext(_path)[-1]
+            app=xw.App(visible=False,add_book=False)
+            wb=app.books.open(modifying_file)
+            sheet=wb.sheets[sheet_number]
+            ori_list = []
+            tran_list = []
+            if sheet_number == 0:#Core Text
+                lines = 2000
+                orignal_index = 2
+                translate_index = 3
+
+            elif sheet_number == 1:#Countries
+                lines = 220
+                orignal_index = 2
+                translate_index = 3
+
+            elif sheet_number == 2:#Continents
+                lines = 10
+                orignal_index = 2
+                translate_index = 3
+
+            elif sheet_number == 3:#Store MetaData
+                lines = 60
+                orignal_index = 3
+                translate_index = 4
+
+            elif sheet_number == 4:#Purchase MetaData
+                lines = 70
+                orignal_index = 3
+                translate_index = 4
+
+            elif sheet_number == 5:#Fake Ads
+                lines = 15
+                orignal_index = 3
+                translate_index = 4
+
+            elif sheet_number == 6:#Push Notifications
+                lines = 10
+                orignal_index = 3
+                translate_index = 4
+
+            elif sheet_number == 7:#Steam Specific
+                lines = 320
+                orignal_index = 2
+                translate_index = 3
+
+            elif sheet_number == 8:#Nintendo Specific
+                lines = 380
+                orignal_index = 2
+                translate_index = 3
+
+            elif sheet_number == 9:#PlayStation Specific
+                lines = 380
+                orignal_index = 2
+                translate_index = 3
+
+            for i in range(0,lines):
+                ori_list.append(sheet[i,orignal_index].value)
+                tran_list.append(sheet[i,translate_index].value)
+            wb.save()
+            wb.close()
+            app.quit()
+
+            is_file_open = False
+            # wb就是新建的工作簿(workbook)，下面则对wb的sheet1的A1单元格赋值
+            for loop in range(0, int(lines/100)+1):
+                app=xw.App(visible=True,add_book=False)
+                wb=app.books.open(modifying_file)
+                is_file_open = True
+                for i in range(0,100):
+                    if tran_list[i+loop*100] ==None and ori_list[i+loop*100]!= None:
+                        time.sleep(1)
+                        text = self.translate(ori_list[i+loop*100])
+                        print(f'{(i,translate_index+1)}:{ori_list[i+loop*100]}->{text}')
+                        wb.sheets[sheet_number].range((i+loop*100+1,translate_index+1)).value = text
+                wb.save()
+                wb.close()
+                app.quit()
+
+
+
+
 if __name__ == '__main__':
-    # main()
     parser = argparse.ArgumentParser()
-    parser.add_argument('-orgin', '--o'  , type = str, default = 'zh-CN', help = 'orginal text, 中文:zh-CN, 英语:en, 繁体中文台湾:zh_TW, 繁体中文香港:zh_HK, 繁体中文新加坡:zh_HK, 俄语:ru, 日语:ja, 德语:de, 法语:fr, 韩语:ko, 泰语:th, 意大利语言:it')
-    parser.add_argument('-target','--t'  , type = str, default = 'en',    help = 'target text,  中文:zh-CN, 英语:en, 繁体中文台湾:zh_TW, 繁体中文香港:zh_HK, 繁体中文新加坡:zh_HK, 俄语:ru, 日语:ja, 德语:de, 法语:fr, 韩语:ko, 泰语:th, 意大利语言:it')
+    parser.add_argument('-orgin', '--o'  , type = str, default = 'en', help = 'orginal text, 中文:zh-CN, 英语:en, 繁体中文台湾:zh_TW, 繁体中文香港:zh_HK, 繁体中文新加坡:zh_HK, 俄语:ru, 日语:ja, 德语:de, 法语:fr, 韩语:ko, 泰语:th, 意大利语言:it')
+    parser.add_argument('-target','--t'  , type = str, default = 'zh-CN',    help = 'target text,  中文:zh-CN, 英语:en, 繁体中文台湾:zh_TW, 繁体中文香港:zh_HK, 繁体中文新加坡:zh_HK, 俄语:ru, 日语:ja, 德语:de, 法语:fr, 韩语:ko, 泰语:th, 意大利语言:it')
     args = parser.parse_args()
-
     gt = GoogleTranslator(oringal= args.o, target=args.t)
-    print(gt.translate('我'))
+    gt.excel_manager_new_star('/Users/batista/MyProject/GoogleTranslator/Manager Translation Package 16680 INCLUDING CONVERTER 2.xlsx')
 
+
+
+
+
+
+    # main()
+    # parser = argparse.ArgumentParser()
+    # parser.add_argument('-orgin', '--o'  , type = str, default = 'en', help = 'orginal text, 中文:zh-CN, 英语:en, 繁体中文台湾:zh_TW, 繁体中文香港:zh_HK, 繁体中文新加坡:zh_HK, 俄语:ru, 日语:ja, 德语:de, 法语:fr, 韩语:ko, 泰语:th, 意大利语言:it')
+    # parser.add_argument('-target','--t'  , type = str, default = 'zh-CN',    help = 'target text,  中文:zh-CN, 英语:en, 繁体中文台湾:zh_TW, 繁体中文香港:zh_HK, 繁体中文新加坡:zh_HK, 俄语:ru, 日语:ja, 德语:de, 法语:fr, 韩语:ko, 泰语:th, 意大利语言:it')
+    # args = parser.parse_args()
+    # gt = GoogleTranslator(oringal= args.o, target=args.t)
+    # gt.txt_doc_giveitup3('/Users/batista/Desktop/demo/Language.en.txt')
+
+    # parser = argparse.ArgumentParser()
+    # parser.add_argument('-orgin', '--o'  , type = str, default = 'en', help = 'orginal text, 中文:zh-CN, 英语:en, 繁体中文台湾:zh_TW, 繁体中文香港:zh_HK, 繁体中文新加坡:zh_HK, 俄语:ru, 日语:ja, 德语:de, 法语:fr, 韩语:ko, 泰语:th, 意大利语言:it')
+    # parser.add_argument('-target','--t'  , type = str, default = 'zh_TW',    help = 'target text,  中文:zh-CN, 英语:en, 繁体中文台湾:zh_TW, 繁体中文香港:zh_HK, 繁体中文新加坡:zh_HK, 俄语:ru, 日语:ja, 德语:de, 法语:fr, 韩语:ko, 泰语:th, 意大利语言:it')
+    # args = parser.parse_args()
+    # gt = GoogleTranslator(oringal= args.o, target=args.t)
+    # gt.txt_doc_giveitup3('/Users/batista/Desktop/demo/Language.en.txt')
+
+
+    # parser = argparse.ArgumentParser()
+    # parser.add_argument('-orgin', '--o'  , type = str, default = 'en', help = 'orginal text, 中文:zh-CN, 英语:en, 繁体中文台湾:zh_TW, 繁体中文香港:zh_HK, 繁体中文新加坡:zh_HK, 俄语:ru, 日语:ja, 德语:de, 法语:fr, 韩语:ko, 泰语:th, 意大利语言:it')
+    # parser.add_argument('-target','--t'  , type = str, default = 'zh_HK',    help = 'target text,  中文:zh-CN, 英语:en, 繁体中文台湾:zh_TW, 繁体中文香港:zh_HK, 繁体中文新加坡:zh_HK, 俄语:ru, 日语:ja, 德语:de, 法语:fr, 韩语:ko, 泰语:th, 意大利语言:it')
+    # args = parser.parse_args()
+    # gt = GoogleTranslator(oringal= args.o, target=args.t)
+    # gt.txt_doc_giveitup3('/Users/batista/Desktop/demo/Language.en.txt')
+
+    # parser = argparse.ArgumentParser()
+    # parser.add_argument('-orgin', '--o'  , type = str, default = 'en', help = 'orginal text, 中文:zh-CN, 英语:en, 繁体中文台湾:zh_TW, 繁体中文香港:zh_HK, 繁体中文新加坡:zh_HK, 俄语:ru, 日语:ja, 德语:de, 法语:fr, 韩语:ko, 泰语:th, 意大利语言:it')
+    # parser.add_argument('-target','--t'  , type = str, default = 'ja',    help = 'target text,  中文:zh-CN, 英语:en, 繁体中文台湾:zh_TW, 繁体中文香港:zh_HK, 繁体中文新加坡:zh_HK, 俄语:ru, 日语:ja, 德语:de, 法语:fr, 韩语:ko, 泰语:th, 意大利语言:it')
+    # args = parser.parse_args()
+    # gt = GoogleTranslator(oringal= args.o, target=args.t)
+    # gt.txt_doc_giveitup3('/Users/batista/Desktop/demo/Language.en.txt')
+
+    # parser = argparse.ArgumentParser()
+    # parser.add_argument('-orgin', '--o'  , type = str, default = 'en', help = 'orginal text, 中文:zh-CN, 英语:en, 繁体中文台湾:zh_TW, 繁体中文香港:zh_HK, 繁体中文新加坡:zh_HK, 俄语:ru, 日语:ja, 德语:de, 法语:fr, 韩语:ko, 泰语:th, 意大利语言:it')
+    # parser.add_argument('-target','--t'  , type = str, default = 'ko',    help = 'target text,  中文:zh-CN, 英语:en, 繁体中文台湾:zh_TW, 繁体中文香港:zh_HK, 繁体中文新加坡:zh_HK, 俄语:ru, 日语:ja, 德语:de, 法语:fr, 韩语:ko, 泰语:th, 意大利语言:it')
+    # args = parser.parse_args()
+    # gt = GoogleTranslator(oringal= args.o, target=args.t)
+    # gt.txt_doc_giveitup3('/Users/batista/Desktop/demo/Language.en.txt')
     # gt_en_to_zhCN = GoogleTranslator(oringal= 'en', target='zh-CN')
     # gt_en_to_zhCN.xml_doc('./demo_translate_files/demo.xml')
 
     # gt_znCN_to_en = GoogleTranslator(oringal= 'zh-CN', target='en')
     # gt_znCN_to_en.txt_doc('./demo_translate_files/demo.txt')
-
-
