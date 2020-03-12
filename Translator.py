@@ -101,27 +101,48 @@ class GoogleTranslator:
     def translate(self, key):
         translate_back = -1
         modified_text = key
+        using_symble = ''
         if key.find('#')!=-1:
-            modified_text = key.replace("#",'>>>')
-            translate_back=1
+            using_symble = '#'
         elif key.find('&')!=-1:
-            modified_text = key.replace("&",'>>>')
-            translate_back=2
+            using_symble = '&'
         elif key.find('+')!=-1:
-            modified_text = key.replace("+",'>>>')
-            translate_back=3
+            using_symble = '+'
+        elif key.find('¬#A61214FF¬¬o:#A61214FF¬')!=-1:
+            using_symble = '¬#A61214FF¬¬o:#A61214FF¬'
+        elif key.find('¬s¬')!=-1:
+            using_symble = '¬s¬'
+        elif key.find('<assistant><pause>')!=-1:
+            using_symble = '<assistant><pause>'
+        elif key.find('$playername')!=-1:
+            using_symble = '$playername'
+        elif key.find('<!crowdgoal>')!=-1:
+            using_symble = '<!crowdgoal>'
+        elif key.find('<col_a><+TRAIT>')!=-1:
+            using_symble = '<col_a><+TRAIT>'
+        elif key.find('<+TRAIT>$playername')!=-1:
+            using_symble = '<+TRAIT>$playername'
+        elif key.find('<!whistledelayed>')!=-1:
+            using_symble = '<!whistledelayed>'
+        elif key.find('<!crowdoh>')!=-1:
+            using_symble = '<!crowdoh>'
+        elif key.find('<+TRAIT>')!=-1:
+            using_symble = '<+TRAIT>'
+        elif key.find('<assistant><-EXP><col_d>')!=-1:
+            using_symble = '<assistant><-EXP><col_d>'
+        elif key.find('+1')!=-1:
+            using_symble = '+1'
+        if using_symble!='':
+            modified_text = key.replace(using_symble,'>>>')
+            translate_back=1
 
         """hl -> tl"""
         url = self.build(modified_text)
-        res = self.session.post(url=url, headers=self.headers, timeout=self.timeout)
+        res = self.session.post(ufrl=url, headers=self.headers, timeout=self.timeout)
         results = json.loads(res.content.decode(encoding='utf-8'))
         translated_string = results[0][0][0]
-        if translate_back == 1:
-            modified_text = translated_string[0][0][0].replace('>>>','#')
-        elif translate_back == 2:
-            modified_text = translated_string[0][0][0].replace('>>>','&')
-        elif translate_back == 3:
-            modified_text = translated_string[0][0][0].replace('>>>','+')
+        if translate_back != -1:
+            modified_text = translated_string[0][0][0].replace('>>>',using_symble)
         else:
             modified_text = translated_string
         print(f'[{key}]->[{modified_text}]')
@@ -268,7 +289,7 @@ class GoogleTranslator:
                     if tran_list[i+loop*100] ==None and ori_list[i+loop*100]!= None:
                         time.sleep(1)
                         text = self.translate(ori_list[i+loop*100])
-                        print(f'{(i,translate_index+1)}:{ori_list[i+loop*100]}->{text}')
+                        print(f'{(i+loop*100,translate_index+1)}:{ori_list[i+loop*100]}->{text}')
                         wb.sheets[sheet_number].range((i+loop*100+1,translate_index+1)).value = text
                 wb.save()
                 wb.close()
