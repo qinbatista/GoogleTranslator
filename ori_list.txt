@@ -6218,3 +6218,618 @@ Kosovo
 
 
 
+
+name
+Afghanistan
+Albania
+Algeria
+A. Samoa
+Andorra
+Angola
+Anguilla
+Antigua & Bar.
+Argentina
+Armenia
+Aruba
+Australia
+Austria
+Azerbaijan
+Bahamas
+Bahrain
+Bangladesh
+Barbados
+Belarus
+Belgium
+Belize
+Benin
+Bermuda
+Bhutan
+Bolivia
+Bosnia
+Botswana
+Brazil
+British Virgin Is.
+Brunei
+Bulgaria
+Burkina Faso
+Burundi
+Cambodia
+Cameroon
+Canada
+Cape Verde
+Cayman Is.
+C. African R.
+Chad
+Chile
+China
+Chinese T.
+Colombia
+Comoros
+Congo
+Congo DR
+Cook Is.
+Costa Rica
+Croatia
+Cuba
+Cyprus
+Czech Rep.
+Cote d'Ivoire
+Denmark
+Djibouti
+Dominica
+Dominican Rep.
+Ecuador
+Egypt
+El Salvador
+England
+Equatorial Guinea
+Eritrea
+Estonia
+Ethiopia
+Macedonia
+Faroe Islands
+Fiji
+Finland
+France
+Gabon
+Gambia
+Georgia
+Germany
+Ghana
+Greece
+Grenada
+Guadeloupe
+Guam
+Guatemala
+Guinea
+Guinea-Bissau
+Guyana
+Haiti
+Honduras
+Hong Kong
+Hungary
+Iceland
+India
+Indonesia
+Iran
+Iraq
+Israel
+Italy
+Jamaica
+Japan
+Jordan
+Kazakhstan
+Kenya
+North Korea
+South Korea
+Kuwait
+Kyrgyzstan
+Laos
+Latvia
+Lebanon
+Lesotho
+Liberia
+Libya
+Liechtenstein
+Lithuania
+Luxembourg
+Macau
+Madagascar
+Malawi
+Malaysia
+Maldives
+Mali
+Malta
+Mauritania
+Mauritius
+Mexico
+Moldova
+Mongolia
+Montenegro
+Montserrat
+Morocco
+Mozambique
+Myanmar
+Namibia
+Nepal
+Netherlands
+Curacao
+New Caledonia
+New Zealand
+Nicaragua
+Niger
+Nigeria
+N. Ireland
+Norway
+Oman
+Pakistan
+Palestine
+Panama
+Papua New G.
+Paraguay
+Peru
+Philippines
+Poland
+Portugal
+Puerto Rico
+Qatar
+Rep Ireland
+Romania
+Russia
+Rwanda
+St Kitts & Nevis
+St Lucia
+St Vincent & G.
+Samoa
+San Marino
+Saudi Arabia
+Scotland
+Senegal
+Serbia
+Seychelles
+Sierra Leone
+Singapore
+Slovakia
+Slovenia
+Solomon Is.
+Somalia
+South Africa
+Spain
+Sri Lanka
+Sudan
+Surinam
+Swaziland
+Sweden
+Switzerland
+Syria
+Sao Tome & P.
+Tahiti
+Tajikistan
+Tanzania
+Thailand
+Timor-Leste
+Togo
+Tonga
+Trinidad & T.
+Tunisia
+Turkey
+Turkmenistan
+Caicos Is.
+US Virgin Is.
+Uganda
+Ukraine
+UAE
+USA
+Uruguay
+Uzbekistan
+Vanuatu
+Venezuela
+Vietnam
+Wales
+Yemen
+Zambia
+Zimbabwe
+Gibraltar
+Kosovo
+
+
+
+
+
+
+
+
+name
+Asia
+Africa
+North America
+South America
+Oceania
+Europe
+
+
+
+ENGLISH
+Welcome to New Star Manager: The immersive all-new game from Simon Read, creator of the BAFTA Award-winning New Star Soccer series.
+Welcome to New Star Manager: The critically acclaimed game from Simon Read, creator of the BAFTA Award-winning New Star Soccer series.
+Take control of New Star FC – a beleaguered soccer club which needs your management skills and instincts to unlock the team's potential and make it to the top of the game.
+This is soccer management like you've never experienced it - Be more than just a player, be the head, the heart, and backbone of New Star FC. Be the Manager.
+TOTAL CLUB CONTROL
+Take ownership of every aspect of New Star FC, from constructing vital club facilities and managing the players' training regimes to choosing the perfect sponsor and hiring or firing the backroom staff!
+FULL SQUAD GAMEPLAY
+Use every member of your team to set up and score pivotal goals with on-pitch gameplay, using innovative controls designed specifically for phones and tablets!
+Use every member of your team to set up and score pivotal goals with on-pitch gameplay, using innovative mouse-based controls.
+Use every member of your team to set up and score pivotal goals with on-pitch gameplay using innovative controls.
+Switch at any time between mouse control or full support for your favourite gamepad!
+Change at any time between touch screen and Joy-Con™ controls in handheld mode, or use the Nintendo Switch Pro Controller!
+REAL SOCCER TACTICS
+Build your dream squad, choose your winning formation, make tactical substitutions, and even step into the locker room for some half-time motivation!
+OFF-PITCH DRAMA
+Handle volatile players and get their mind back in the game by monitoring their concerns, outbursts, and quirks. Keep the board off your back, navigate the hostile waters of the sporting press, and make sure the fans keep believing... while keeping a careful eye on the club’s finances!
+GLOBAL FOOTBALL
+Dive into realistic simulations of the world’s biggest leagues and cup competitions!
+THE NEW STAR SOCCER EVOLUTION
+Experience the newest instalment of the New Star series, whose pick-up-and-play sports titles have already been enjoyed by over 30 million players!
+
+"New Star Manager takes the frame of the original game, and builds something utterly wonderful on top of it"  10/10 - Pocket Gamer
+"If you love football…you’d be mad not to download it" The Guardian
+The No.1 iPhone and iPad game of 2018 - AppSpy.com
+The #1 game in AppSpy.com's Top 10 of 2018!
+
+Be More Than Just A Player
+
+football
+soccer
+sport
+sports
+career
+rpg
+newstar
+free
+fantasy
+club
+management
+chairman
+director
+
+Thanks to everyone who has been playing New Star Manager and sending us their reviews and feedback so far.
+Please update to version x.x.x to make sure that you are getting the latest experience with the latest fixes and enhancements.
+Remember to follow "New Star Soccer" on Facebook and "@newstargames" on Twitter to keep up with all the New Star Manager news!
+The latest version of New Star Manager adds the language option for [XXX].
+
+New Star Manager
+Earn every Trophy
+
+
+
+
+
+
+
+
+
+
+ENGLISH
+
+Basic Pack
+Training Pack
+Club Pack
+Club Card Pack
+Gold Player Pack
+Recovery Pack
+Special Player Pack
+Concerns Pack
+Keeper Skills Pack
+Versatility Pack
+Contract Pack
+Defensive Pack
+Goalie Pack
+Midfield Pack
+Squad Boost Pack
+Striker Pack
+Super Striker
+Team Spine Pack
+Backroom Boost Pack
+Discovery Pack
+
+Bux Pack #1
+Bux Pack #2
+Bux Pack #3
+Bux Pack #4
+Bux Pack #5
+Bonus Bux to invest in the club.
+
+Outstanding Fitness Coach
+Excellent Fitness Coach
+Outstanding Physio
+Excellent Physio
+Outstanding Scout
+Excellent Scout
+Outstanding Skills Coach
+Excellent Skills Coach
+Outstanding Youth Coach
+Excellent Youth Coach
+
+Guaranteed Extra Retry Pack
+Marketing Manager
+Remove Interstitial Ads
+
+Personalised Badge Change
+Personalised Kit Change
+Personalised Name Change
+Unlimited Team Editor
+Unlimited editing of Kit, Badge & Name
+
+(regular)
+(original)
+(value)
+(enhanced)
+(standard)
+(normal)
+
+Check out this great app and earn a new player!
+Check out this great app and earn some NRG cards!
+Check out this great app and earn a card pack!
+Check out this page and earn a SILVER level player!
+Check out this page and earn a new player!
+Check out this page and earn a card pack!
+
+
+
+
+
+
+ENGLISH
+
+GET CONNECTED!
+NEED AN EXTRA RETRY IN A MATCH?
+Play New Star Manager with an internet connection to receive an extra bonus RETRY by watching an ad!  
+NEED NEW PLAYERS FOR YOUR SQUAD?
+Play New Star Manager with an internet connection and visit the shop to check out the latest player packs!  
+TOO MANY ADS?
+PLAY WITHOUT INTERRUPTIONS!
+Go online and check out the “Remove Ads” option in the store!
+
+
+
+
+
+ENGLISH
+Search for "NEW STAR MANAGER" on the App Store and download our newest game today!
+Search for "NEW STAR MANAGER" on the Google Play Store and download our newest game today!
+Now available worldwide!
+A new version is available! Get the latest version of "NEW STAR MANAGER" from the App Store today!
+A new version is available! Get the latest version of "NEW STAR MANAGER" from the Google Play Store today!
+New card packs are now available in the shop: "XXX","YYY" and "ZZZ"
+Check the shop this weekend for special card packs: "XXX","YYY" and "ZZZ"
+
+
+name
+Afghanistan
+Albania
+Algeria
+A. Samoa
+Andorra
+Angola
+Anguilla
+Antigua & Bar.
+Argentina
+Armenia
+Aruba
+Australia
+Austria
+Azerbaijan
+Bahamas
+Bahrain
+Bangladesh
+Barbados
+Belarus
+Belgium
+Belize
+Benin
+Bermuda
+Bhutan
+Bolivia
+Bosnia
+Botswana
+Brazil
+British Virgin Is.
+Brunei
+Bulgaria
+Burkina Faso
+Burundi
+Cambodia
+Cameroon
+Canada
+Cape Verde
+Cayman Is.
+C. African R.
+Chad
+Chile
+China
+Chinese T.
+Colombia
+Comoros
+Congo
+Congo DR
+Cook Is.
+Costa Rica
+Croatia
+Cuba
+Cyprus
+Czech Rep.
+Cote d'Ivoire
+Denmark
+Djibouti
+Dominica
+Dominican Rep.
+Ecuador
+Egypt
+El Salvador
+England
+Equatorial Guinea
+Eritrea
+Estonia
+Ethiopia
+Macedonia
+Faroe Islands
+Fiji
+Finland
+France
+Gabon
+Gambia
+Georgia
+Germany
+Ghana
+Greece
+Grenada
+Guadeloupe
+Guam
+Guatemala
+Guinea
+Guinea-Bissau
+Guyana
+Haiti
+Honduras
+Hong Kong
+Hungary
+Iceland
+India
+Indonesia
+Iran
+Iraq
+Israel
+Italy
+Jamaica
+Japan
+Jordan
+Kazakhstan
+Kenya
+North Korea
+South Korea
+Kuwait
+Kyrgyzstan
+Laos
+Latvia
+Lebanon
+Lesotho
+Liberia
+Libya
+Liechtenstein
+Lithuania
+Luxembourg
+Macau
+Madagascar
+Malawi
+Malaysia
+Maldives
+Mali
+Malta
+Mauritania
+Mauritius
+Mexico
+Moldova
+Mongolia
+Montenegro
+Montserrat
+Morocco
+Mozambique
+Myanmar
+Namibia
+Nepal
+Netherlands
+Curacao
+New Caledonia
+New Zealand
+Nicaragua
+Niger
+Nigeria
+N. Ireland
+Norway
+Oman
+Pakistan
+Palestine
+Panama
+Papua New G.
+Paraguay
+Peru
+Philippines
+Poland
+Portugal
+Puerto Rico
+Qatar
+Rep Ireland
+Romania
+Russia
+Rwanda
+St Kitts & Nevis
+St Lucia
+St Vincent & G.
+Samoa
+San Marino
+Saudi Arabia
+Scotland
+Senegal
+Serbia
+Seychelles
+Sierra Leone
+Singapore
+Slovakia
+Slovenia
+Solomon Is.
+Somalia
+South Africa
+Spain
+Sri Lanka
+Sudan
+Surinam
+Swaziland
+Sweden
+Switzerland
+Syria
+Sao Tome & P.
+Tahiti
+Tajikistan
+Tanzania
+Thailand
+Timor-Leste
+Togo
+Tonga
+Trinidad & T.
+Tunisia
+Turkey
+Turkmenistan
+Caicos Is.
+US Virgin Is.
+Uganda
+Ukraine
+UAE
+USA
+Uruguay
+Uzbekistan
+Vanuatu
+Venezuela
+Vietnam
+Wales
+Yemen
+Zambia
+Zimbabwe
+Gibraltar
+Kosovo
+
+
+
+
+
+
+
+
+name
+Asia
+Africa
+North America
+South America
+Oceania
+Europe
+
+
