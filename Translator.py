@@ -108,14 +108,17 @@ class GoogleTranslator:
             using_symble = '&'
         elif key.find('+')!=-1:
             using_symble = '+'
+        elif key.find('$playername')!=-1:
+            using_symble = '$playername'
+
         elif key.find('¬#A61214FF¬¬o:#A61214FF¬')!=-1:
             using_symble = '¬#A61214FF¬¬o:#A61214FF¬'
         elif key.find('¬s¬')!=-1:
             using_symble = '¬s¬'
         elif key.find('<assistant><pause>')!=-1:
             using_symble = '<assistant><pause>'
-        elif key.find('$playername')!=-1:
-            using_symble = '$playername'
+        elif key.find('$playername and $playername2')!=-1:
+            using_symble = '$playername and $playername2'
         elif key.find('<!crowdgoal>')!=-1:
             using_symble = '<!crowdgoal>'
         elif key.find('<col_a><+TRAIT>')!=-1:
@@ -138,11 +141,11 @@ class GoogleTranslator:
 
         """hl -> tl"""
         url = self.build(modified_text)
-        res = self.session.post(ufrl=url, headers=self.headers, timeout=self.timeout)
+        res = self.session.post(url=url, headers=self.headers, timeout=self.timeout)
         results = json.loads(res.content.decode(encoding='utf-8'))
         translated_string = results[0][0][0]
         if translate_back != -1:
-            modified_text = translated_string[0][0][0].replace('>>>',using_symble)
+            modified_text = translated_string.replace('>>>',using_symble)
         else:
             modified_text = translated_string
         print(f'[{key}]->[{modified_text}]')
@@ -213,87 +216,90 @@ class GoogleTranslator:
             f.writelines(new_content)
 
     def excel_manager_new_star(self, _path):
-        for sheet_number in range(0,1):
-            if os.path.exists(os.path.splitext(_path)[0]+'_translated'+os.path.splitext(_path)[-1])==False:
-                shutil.copy(_path,os.path.splitext(_path)[0]+'_translated'+os.path.splitext(_path)[-1])
-            modifying_file = os.path.splitext(_path)[0]+'_translated'+os.path.splitext(_path)[-1]
-            app=xw.App(visible=False,add_book=False)
-            wb=app.books.open(modifying_file)
-            sheet=wb.sheets[sheet_number]
-            ori_list = []
-            tran_list = []
-            if sheet_number == 0:#Core Text
-                lines = 2000
-                orignal_index = 2
-                translate_index = 3
+        while True:
+            try:
+                for sheet_number in range(0,1):
+                    if os.path.exists(os.path.splitext(_path)[0]+'_translated'+os.path.splitext(_path)[-1])==False:
+                        shutil.copy(_path,os.path.splitext(_path)[0]+'_translated'+os.path.splitext(_path)[-1])
+                    modifying_file = os.path.splitext(_path)[0]+'_translated'+os.path.splitext(_path)[-1]
+                    app=xw.App(visible=False,add_book=False)
+                    wb=app.books.open(modifying_file)
+                    sheet=wb.sheets[sheet_number]
+                    ori_list = []
+                    tran_list = []
+                    if sheet_number == 0:#Core Text
+                        lines = 6000
+                        orignal_index = 2
+                        translate_index = 3
 
-            elif sheet_number == 1:#Countries
-                lines = 220
-                orignal_index = 2
-                translate_index = 3
+                    elif sheet_number == 1:#Countries
+                        lines = 220
+                        orignal_index = 2
+                        translate_index = 3
 
-            elif sheet_number == 2:#Continents
-                lines = 10
-                orignal_index = 2
-                translate_index = 3
+                    elif sheet_number == 2:#Continents
+                        lines = 10
+                        orignal_index = 2
+                        translate_index = 3
 
-            elif sheet_number == 3:#Store MetaData
-                lines = 60
-                orignal_index = 3
-                translate_index = 4
+                    elif sheet_number == 3:#Store MetaData
+                        lines = 60
+                        orignal_index = 3
+                        translate_index = 4
 
-            elif sheet_number == 4:#Purchase MetaData
-                lines = 70
-                orignal_index = 3
-                translate_index = 4
+                    elif sheet_number == 4:#Purchase MetaData
+                        lines = 70
+                        orignal_index = 3
+                        translate_index = 4
 
-            elif sheet_number == 5:#Fake Ads
-                lines = 15
-                orignal_index = 3
-                translate_index = 4
+                    elif sheet_number == 5:#Fake Ads
+                        lines = 15
+                        orignal_index = 3
+                        translate_index = 4
 
-            elif sheet_number == 6:#Push Notifications
-                lines = 10
-                orignal_index = 3
-                translate_index = 4
+                    elif sheet_number == 6:#Push Notifications
+                        lines = 10
+                        orignal_index = 3
+                        translate_index = 4
 
-            elif sheet_number == 7:#Steam Specific
-                lines = 320
-                orignal_index = 2
-                translate_index = 3
+                    elif sheet_number == 7:#Steam Specific
+                        lines = 320
+                        orignal_index = 2
+                        translate_index = 3
 
-            elif sheet_number == 8:#Nintendo Specific
-                lines = 380
-                orignal_index = 2
-                translate_index = 3
+                    elif sheet_number == 8:#Nintendo Specific
+                        lines = 380
+                        orignal_index = 2
+                        translate_index = 3
 
-            elif sheet_number == 9:#PlayStation Specific
-                lines = 380
-                orignal_index = 2
-                translate_index = 3
+                    elif sheet_number == 9:#PlayStation Specific
+                        lines = 380
+                        orignal_index = 2
+                        translate_index = 3
 
-            for i in range(0,lines):
-                ori_list.append(sheet[i,orignal_index].value)
-                tran_list.append(sheet[i,translate_index].value)
-            wb.save()
-            wb.close()
-            app.quit()
+                    for i in range(0,lines):
+                        ori_list.append(sheet[i,orignal_index].value)
+                        tran_list.append(sheet[i,translate_index].value)
+                    wb.save()
+                    wb.close()
+                    app.quit()
 
-            is_file_open = False
-            # wb就是新建的工作簿(workbook)，下面则对wb的sheet1的A1单元格赋值
-            for loop in range(0, int(lines/100)+1):
-                app=xw.App(visible=True,add_book=False)
-                wb=app.books.open(modifying_file)
-                is_file_open = True
-                for i in range(0,100):
-                    if tran_list[i+loop*100] ==None and ori_list[i+loop*100]!= None:
-                        time.sleep(1)
-                        text = self.translate(ori_list[i+loop*100])
-                        print(f'{(i+loop*100,translate_index+1)}:{ori_list[i+loop*100]}->{text}')
-                        wb.sheets[sheet_number].range((i+loop*100+1,translate_index+1)).value = text
-                wb.save()
-                wb.close()
-                app.quit()
+                    is_file_open = False
+                    # wb就是新建的工作簿(workbook)，下面则对wb的sheet1的A1单元格赋值
+                    for loop in range(0, int(lines/100)):
+                        app=xw.App(visible=True,add_book=False)
+                        wb=app.books.open(modifying_file)
+                        is_file_open = True
+                        for i in range(0,100):
+                            if tran_list[i+loop*100] ==None and ori_list[i+loop*100]!= None:
+                                text = self.translate(ori_list[i+loop*100])
+                                print(f'{(i+loop*100,translate_index+1)}:{ori_list[i+loop*100]}->{text}')
+                                wb.sheets[sheet_number].range((i+loop*100+1,translate_index+1)).value = text
+                        wb.save()
+                        wb.close()
+                        app.quit()
+            except NameError as e:
+                print('---->', e)
 
 
 
@@ -304,7 +310,7 @@ if __name__ == '__main__':
     parser.add_argument('-target','--t'  , type = str, default = 'zh-CN',    help = 'target text,  中文:zh-CN, 英语:en, 繁体中文台湾:zh_TW, 繁体中文香港:zh_HK, 繁体中文新加坡:zh_HK, 俄语:ru, 日语:ja, 德语:de, 法语:fr, 韩语:ko, 泰语:th, 意大利语言:it')
     args = parser.parse_args()
     gt = GoogleTranslator(oringal= args.o, target=args.t)
-    gt.excel_manager_new_star('/Users/batista/MyProject/GoogleTranslator/Manager Translation Package 16680 INCLUDING CONVERTER 2.xlsx')
+    gt.excel_manager_new_star('./Manager Translation Package 16680 INCLUDING CONVERTER.xlsx')
 
 
 
