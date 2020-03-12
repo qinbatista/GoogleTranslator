@@ -328,8 +328,8 @@ class GoogleTranslator:
 
             elif sheet_number == 1:#Countries
                 lines = 220
-                orignal_index = 4
-                translate_index = 5
+                orignal_index = 8
+                translate_index = 9
 
             elif sheet_number == 2:#Continents
                 lines = 10
@@ -413,10 +413,10 @@ class GoogleTranslator:
                 if int(lines/basic_line) == loop+1:
                     for i in range(0,lines%200):
                     # if tran_list[i+loop*basic_line] =='None\n' and ori_list[i+loop*basic_line]!= '\n':
-                        if tran_list[i+loop*basic_line] ==None and ori_list[i+loop*basic_line]!= None:
-                            text = self.translate(ori_list[i+loop*basic_line])
-                            print(f'{(i+loop*basic_line,translate_index+1)}:{ori_list[i+loop*basic_line]}->{text}')
-                            wb.sheets[sheet_number].range((i+loop*basic_line+1,translate_index+1)).value = text
+                        if tran_list[i+(loop+1)*basic_line] ==None and ori_list[i+(loop+1)*basic_line]!= None:
+                            text = self.translate(ori_list[i+(loop+1)*basic_line])
+                            print(f'{(i+(loop+1)*basic_line,translate_index+1)}:{ori_list[i+(loop+1)*basic_line]}->{text}')
+                            wb.sheets[sheet_number].range((i+(loop+1)*basic_line+1,translate_index+1)).value = text
                 wb.save()
                 wb.close()
                 app.quit()
