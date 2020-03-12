@@ -1835,869 +1835,869 @@ $ num周前
 困境!
 困境奖励
 困境奖励
+给您的其中一位玩家加¬#252525FF¬TRAIT¬s¬
+从其中一位玩家中删除负面的¬#252525FF¬TRAIT¬s¬
+板
+距离
+DO NOT TRANSLATE (B)
+做!
+做训练
+捐
+NRG
+收益
+东
+多数出现
+最助攻
+最干净的床单
+明星球员
+DO NOT TRANSLATE (C)
+最佳射手
+青年明星球员
+能源
+能源成本
+能量恢复
+经验值
+额外重试!
+对于$ num个比赛
+在Facebook上像我们一样获得游戏更新和新闻!
+设备
+建立
+俱乐部店
+商店&财务
+转角架
+现在的水平
+东展位
+健身中心
+信息
+DO NOT TRANSLATE (C)
+医疗单位
+医学&体育科学
+下一级
+北看台
+沥青
+重建
+侦察员办公室
+南看台
+体育场
+训练场
+升级
+西看台
+青年学院
+通过商店销售产生收入
+开设财务部门并解锁短期赞助
+增加店铺销售
+解锁第二个短期赞助位
+DO NOT TRANSLATE (C)
+DO NOT TRANSLATE (C)
+可以租用FITNESS COACH来生成FITNESS卡
+改善赛后恢复
+减少青铜FITNESS卡的冷却时间
+减少银色FITNESS卡的冷却时间
+减少FITNESS黄金卡的冷却时间
+减少黑色FITNESS卡的冷却时间
+可以租用PHYSIO来产生治疗卡.可以查看小队的担忧
+查看球队中的球员TRAITS .，最高治疗效果提高至-2
+查看其他班级的球员TRAITS .将最大治疗效果提高至-3
+将最大伤痛长度减少15％.，将最大治疗量增加至-4
+最大治疗量提高至-5
+减少最大伤害长度30％
+几乎无法玩的泥潭
+提高通过精度
+减少比赛中的能量损失
+减少伤害发生
+选择精美的剪草样式
+冬季加热不足可保持表面质量
+可以雇用一名SCOUT来产生转会目标.可以购买球员
+可以查看联盟中任何球员的技能
+减少青铜级选手的SCOUT冷却时间.查看其他阵容中的选手
+减少银级选手的SCOUT冷却时间
+减少金牌玩家的SCOUT冷却时间
+减少黑色质量球员的SCOUT冷却时间
+需要所有看台级别$ num
+全面体育场改造
+需要所有体育场升级
+可以租用技能教练来生成技能卡.可以查看小队技能
+附加卡的机会
+减少青铜技能卡的冷却时间
+减少白银技能卡的冷却时间
+减少黄金技能卡的冷却时间
+减少黑色技能卡上的冷却时间
+��正在施工🚧
+未开发土地
+可以雇用青年教练培养年轻球员
+增加YOUTH ACADEMY球员的默认合同时长
+减少冷却时间，获得青铜品质的青年玩家
+减少银质青年玩家的冷却时间
+降低青年玩家黄金品质的冷却时间
+减少黑色品质青年玩家的冷却时间
+为球迷提供更多席位.增加主场比赛的门票收入
+DO NOT TRANSLATE (C)
+DO NOT TRANSLATE (C)
+DO NOT TRANSLATE (C)
+DO NOT TRANSLATE (C)
+DO NOT TRANSLATE (C)
+升级前，所有看台必须为3级
+DO NOT TRANSLATE (C)
+DO NOT TRANSLATE (C)
+DO NOT TRANSLATE (C)
+DO NOT TRANSLATE (C)
+DO NOT TRANSLATE (C)
+设施等级
+点按即可打开
+DO NOT TRANSLATE (C)
+DO NOT TRANSLATE (C)
+失败
+失败!
 None
 None
+¬#A61214FF¬¬o:#A61214FF¬欢迎使用帮助文件¬s¬ ||需要帮助的内容?使用右侧的主题滚动列表选择您需要帮助的主题，希望我能够为您提供答案
+传递给玩家
+¬#A61214FF¬¬o:#A61214FF¬传球给球员¬s¬ ||当您的球队控球时，敲击其中一名球员的传球机会给他们.传球的准确性受球场质量和幸福感的影响。
+通过空间
+¬#A61214FF¬¬o:#A61214FF¬直传空间¬s¬ ||当您的球队控制球时，轻按音高即可到达该地点。.传球的准确性受音高和球手快乐程度的影响。
+设置运行
+¬#A61214FF¬¬o:#A61214FF¬设定跑动¬s¬ ||当您的球队控制球时，触碰一名球员并拖动您想要他们奔跑的路径.
+盘带
+¬#A61214FF¬¬o:#A61214FF¬ DRIBBLING ¬s¬ ||触摸拥有球的球员，然后向后拖动直到出现箭头.。当箭头变为绿色时，球员将开始带球运球.。
+射击
+¬#A61214FF¬¬o:#A61214FF¬射击¬s¬ ||触摸控球的球员并向后拖动，直到出现箭头.。箭头的方向指示射击的方向，箭头的颜色和长度指示射击的力量
+滚球
+¬#A61214FF¬¬o:#A61214FF¬卷曲&放球¬s¬ ||选择了射门力量和方向后，您就可以击球了.轻按球的中央可以将球踢直.轻按底部
+块尾
+¬#A61214FF¬¬o:#A61214FF¬ BLOCK TACKLING ¬s¬ ||当对方控球时，触碰一名球员并用球将他拖向球员.您可以在屏幕上按住并调整球员的方向.如果球员拦截
+幻灯片提示
+¬#A61214FF¬¬o:#A61214FF¬ SLIDE TACKLING ¬s¬ ||当对方持球时，触摸球员，并用球将他拖向球员.当箭头变为红色时释放屏幕，球员将进行滑车动作[ 
+任意球
+¬#A61214FF¬¬o:#A61214FF¬任意球，角球&罚球¬s¬ ||如果您的一名球员犯规，您将获得任意球.如果您的一名球员犯规，在罚球区内，您将被授予
+相机
+¬#A61214FF¬¬o:#A61214FF¬ CAMERA CONTROLS ¬s¬ ||触摸屏幕上的任意位置（避免玩家）并拖动以旋转和倾斜相机.可以通过在屏幕上的任意位置点击并按住两根手指并捏住来放大或缩小相机[ 
+重试
+¬#A61214FF¬¬o:#A61214FF¬重试几率¬s¬ ||如果机会失败，可以重试.每场比赛都有一次免费重试.您可以通过在有机会的情况下观看广告或通过获得重试来获得额外的重试
+工作效率
+¬#A61214FF¬¬o:#A61214FF¬改变工作效率¬s¬ ||提高球队的工作效率将增强球队的防守能力，增加比赛中得分的机会，但同时也会使您的球队更疲倦
+焦点
+¬#A61214FF¬¬o:#A61214FF¬改变专心¬s¬ ||后卫会降低让步的机会，但比赛的机会会越来越接近自己的进球. COUNTER会减少让步的机会，这意味着您的比赛机会更有可能突破，但是
+替代品
+¬#A61214FF¬¬o:#A61214FF¬进行替换¬s¬ ||要在比赛中进行替换，请点击“战术”按钮，然后将一名球员从您的替补中拖到您要替换的球员上.当您对自己的更改感到满意时，
+团队交流
+¬#A61214FF¬¬o:#A61214FF¬进行团队讨论¬s¬ ||如果您的团队在中途休息很累，最好让他们进行团队讨论.轻按“战术”按钮，选择“卡片”选项卡并将TEAMTALK卡片拖到
+协助帮助
+¬#A61214FF¬¬o:#A61214FF¬辅助评论¬s¬ ||在比赛中，您可能会注意到助理教练的评论.。他可以为您的球队在球场上的表现提供有用的见解，并提供有关如何改善球队表现的建议.
+体育场
+¬#A61214FF¬¬o:#A61214FF¬升级您的体育场¬s¬ ||点击任意一个看台以打开升级菜单.升级您的看台将增加座位容量和盈利潜力.要升级到顶级体育场，您还将
+沥青
+¬#A61214FF¬¬o:#A61214FF¬升级您的球场¬s¬ ||轻按您的球场以打开升级菜单.升级您的球场可以减少球员在比赛中使用的精力，减少受伤的机会，并提高击球的准确性
+训练地面
+¬#A61214FF¬¬o:#A61214FF¬升级您的训练场¬s¬ ||轻按您的训练场以打开升级菜单.升级您的训练场可减少技能卡的冷却时间，这意味着您可以在比赛后更频繁地生成技能卡.
+健身中心
+¬#A61214FF¬¬o:#A61214FF¬升级健身中心¬s¬ ||点击健身中心以打开升级菜单.升级健身中心可减少FITNESS卡的冷却时间，这意味着您可以在比赛后更频繁地生成FITNESS卡.
+青年学院
+¬#A61214FF¬¬o:#A61214FF¬升级您的青年学院¬s¬ ||轻按您的青年学院以打开升级菜单.升级您的青年学院会减少青年玩家的冷却时间，这意味着您可以在比赛后更频繁地产生新的青年玩家.
+医疗单位
+¬#A61214FF¬¬o:#A61214FF¬升级您的医疗单元¬s¬ ||点击您的医疗单元以打开升级菜单.升级您的医疗单元可以增加治疗卡的功能，这意味着您可以通过更多的比赛来减少受伤的时间.
+侦察员办公室
+¬#A61214FF¬¬o:#A61214FF¬升级球探的办公室¬s¬ ||点击球探的办公室以打开升级菜单.升级球探的办公室会减少对球探球员的冷却时间，这意味着您可以在比赛后更频繁地对球探进行球探.球探球员
+俱乐部商店
+¬#A61214FF¬¬o:#A61214FF¬升级您的俱乐部商店¬s¬ ||轻按俱乐部商店以打开升级菜单.升级俱乐部商店不仅会在每次比赛后增加商店的销售额，而且还可以签署第二和第三名赞助者的功能[ 
+联赛规则
+¬#A61214FF¬¬o:#A61214FF¬联赛规则¬s¬ ||您的球队将获得三分胜利，一分被平局，无损失分.如果各队并列得分，进球差，则进球得分
+促销活动
+¬#A61214FF¬¬o:#A61214FF¬晋升或升职¬s¬ ||要在赛季结束后自动晋升到更高的位置，您的团队通常必须排在第一位。.自动晋升的位置在左侧边缘有绿色条纹[ 
+CUPS
+¬#A61214FF¬¬o:#A61214FF¬杯比赛¬s¬ ||杯比赛通常是淘汰赛.虽然您可能会面对杯中更高或更低级别的球队，但值得尝试的是尽可能地进步
+编队
+¬#A61214FF¬¬o:#A61214FF¬更改队形¬s¬ ||在“ FORMATION”选项卡上轻击以查看可供您使用的队形.选择更具进攻性的队形将帮助您在比赛中获得更多机会，同时选择更具防御性的队形将减少机会
+职位
+¬#A61214FF¬¬o:#A61214FF¬玩家位置¬s¬ ||每个玩家都有位置.您可以通过在其上添加AIDE SIDE卡来使玩家变得更加灵活.位置不正确的玩家效果不佳：他们的评分会不断闪烁并降低到
+团队选择
+¬#A61214FF¬¬o:#A61214FF¬团队选择¬s¬ ||最好选择能量水平高的前11名，并且让每个球员都在他们选择的位置上比赛.如果您希望让助手来选择球队，只需按下ASSISTANT
+球员素质
+¬#A61214FF¬¬o:#A61214FF¬球员素质&潜力¬s¬ ||球员的评分从1至100 .星星的颜色也反映了他们的素质：球员从灰色，青铜色，银色和金色到黑色.
+特质
+¬#A61214FF¬¬o:#A61214FF¬玩家特征¬s¬ ||某些玩家具有特质，由玩家卡右下角的图标指示.轻按玩家卡以打开玩家对话框并查看特质是什么.
+玩家担忧
+¬#A61214FF¬¬o:#A61214FF¬玩家关注¬s¬ ||要查看玩家的关注点，请点击玩家卡以打开玩家对话框.。如果玩家有关注点，他们不仅会显得不那么开心，而且在执行过程中也会降低效率
+合约
+¬#A61214FF¬¬o:#A61214FF¬ PLAYER CONTRACTS ¬s¬ ||您会在消息屏幕上收到有关到期球员合同的警告.可以通过在播放器上打CONTRACT卡或点击播放器卡来延长球员合同
+球员退役
+¬#A61214FF¬¬o:#A61214FF¬球员退役¬s¬ ||球员从35岁开始退休.退役球员的球员证上带有灰色能量图标.您不能签署或续签本赛季退役球员的合同
+购买玩家
+¬#A61214FF¬¬o:#A61214FF¬购买&出售玩家¬s¬ ||玩家可以通过点击他们的玩家卡，选择“动作”标签并点击“提供要约”按钮来购买。.搜索玩家的最佳方法是搜索屏幕（ 
+受伤
+¬#A61214FF¬¬o:#A61214FF¬受伤¬s¬ ||受伤的球员显示为闪烁并且在其牌上有红色轮廓.您不能为受伤的球员安排比赛.在受伤的球员上打治疗牌以减少
+停权
+¬#A61214FF¬¬o:#A61214FF¬ SUSPENSIONS ¬s¬ ||被暂停的玩家显示为闪烁并且在其卡的周围带有红色轮廓.您无法为已暂停的玩家安排比赛.在已暂停的玩家上玩APPEAL卡以减少
+班级限制
+¬#A61214FF¬¬o:#A61214FF¬ SQUAD LIMIT ¬s¬ ||您可以在不超过小队限额的情况下签约球员，这时您将无法再签约球员，直到出售或释放其他球员为止。.此规则的例外是球员
+团队评价
+¬#A61214FF¬¬o:#A61214FF¬球队评分¬s¬ ||您的球队排名显示在球队选择的右下角.这是基于开始11时所有球员的平均评分得出的值。.
+团队幸福感
+¬#A61214FF¬¬o:#A61214FF¬ TEAM HAPPINESS ¬s¬ ||您的球队幸福感显示在您的球队选择的右下角.这是一个基于开始11岁时所有球员的平均幸福感所得出的值。.
+团队能源
+¬#A61214FF¬¬o:#A61214FF¬ TEAM ENERGY ¬s¬ ||您的球队能量显示在球队选择的右下角.这是一个基于开始前所有球员平均能量的值11 .
+新秀
+¬#A61214FF¬¬o:#A61214FF¬新秀球员¬s¬ ||未在球队出场很多的年轻球员更容易犯错，并给对手留下机会.在比赛后期引入新秀球员是很明智的。
+员工招聘
+¬#A61214FF¬¬o:#A61214FF¬雇用&员工编制¬s¬ ||建立设施时，您需要雇用人员才能从该设施开始生成卡.轻按“人员编制”按钮会显示可用教练的列表
+提升员工
+¬#A61214FF¬¬o:#A61214FF¬提高员工水平¬s¬ ||通过在教练上打出质量等于或高于他们的质量的教练卡，可以提高教练的评分.例如，仅获得铜牌或更高水平的教练才能提高铜牌教练的水平
+员工退休
+¬#A61214FF¬¬o:#A61214FF¬退休人员¬s¬ ||从60岁开始退休的教练.您不能签署或续签本赛季即将退休的教练的合同.教练的退休评分接近退休年龄时开始降低[ 
+技能教练
+¬#A61214FF¬¬o:#A61214FF¬技能教练¬s¬ ||技能教练在比赛结束后会生成技能卡.，其中包括可提高发球技巧，技巧，盘带，增加边路，处理能力，敏捷性和反应能力的卡.。技能教练的评分越高，
+健身教练
+¬#A61214FF¬¬o:#A61214FF¬健身教练¬s¬ ||健身教练在比赛结束后生成健身卡.，其中包括提高力量和步伐的卡.健身教练的评分越高，则生成的卡的质量就越高.
+青年教练
+¬#A61214FF¬¬o:#A61214FF¬ YOUTH COACH ¬s¬ ||青年教练在比赛后产生青年球员.您的青年教练的等级越高，产生的青年球员的质量就越高.
+侦察
+¬#A61214FF¬¬o:#A61214FF¬ SCOUT ¬s¬ ||球探生成转播目标.这些已添加到搜索屏幕上的球探球员列表中.球探球员的转会费比其他方式低.
+物理
+¬#A61214FF¬¬o:#A61214FF¬ PHYSIO ¬s¬ || Physios生成治疗卡.在受伤的玩家上玩治疗卡可减少卡上所述的游戏次数.。您的Physio评分越高，得分越高
+董事会
+¬#A61214FF¬¬o:#A61214FF¬董事会¬s¬ ||您与董事会的关系反映出董事会对您的俱乐部管理层的满意程度.您可以通过点击俱乐部屏幕上的董事会来要求资金，但是如果您这样做，
+粉丝
+¬#A61214FF¬¬o:#A61214FF¬ FANS ¬s¬ ||您与FANS的关系反映了FANS对俱乐部管理的满意程度.您可以通过点击俱乐部屏幕上的FANS来调整门票和俱乐部商店的价格，但是
+新闻
+¬#A61214FF¬¬o:#A61214FF¬ PRESS ¬s¬ ||您的PRESS关系反映了您在PRESS中受到好评的程度.高PRESS关系可以增加比赛的出席率并增加从广播中获得的收入.
+赞助者
+¬#A61214FF¬¬o:#A61214FF¬赞助者¬s¬ ||您的赞助者关系反映了您的赞助者与俱乐部联系的快乐程度.
+数据图
+¬#A61214FF¬¬o:#A61214FF¬ DATA GRAPH ¬s¬ ||数据图有助于分析您的选择对球杆的影响.轻击屏幕右侧的任何按钮以打开或关闭数据点. 
+重试
+¬#A61214FF¬¬o:#A61214FF¬购买重试¬s¬ ||您总是会在每场比赛中进行一次重试，但如果永远不够，那么购买一包重试是将每场比赛的重试翻倍至两次的好方法.
+购买按钮
+¬#A61214FF¬¬o:#A61214FF¬购买BUX ¬s¬ ||为提高球队实力或升级建筑物而进行的储蓄可能既困难又耗时.购买Bux是增强您的职业生涯并立即促进俱乐部进步的最佳方法! 
+采购卡
+¬#A61214FF¬¬o:#A61214FF¬购买卡包¬s¬ ||没有比买卡包更好的方法来立即改善您的员工或打球队.购买球员包的额外好处是，即使在球队之外，他们也可以将球员添加到您的球队中
+门收据
+¬#A61214FF¬¬o:#A61214FF¬门票收入¬s¬ ||门票收入是根据比赛人数乘以门票价格得出的.增加展位的容量并提升为更好的部门是增加出席人数的好方法.
+广播
+¬#A61214FF¬¬o:#A61214FF¬广播收入¬s¬ ||广播收入取决于您的团队实力和团队水平.晋升到更高的部门并建立良好的PRESS关系是增加广告收入的最佳方法
+店铺销售
+¬#A61214FF¬¬o:#A61214FF¬俱乐部商店的销售¬s¬ ||俱乐部商店的销售基于商店的升级程度和价格设置的依据.可以在俱乐部屏幕上调整商店的价格.
+赢取奖金
+¬#A61214FF¬¬o:#A61214FF¬获胜&进球奖励¬s¬ ||您的获胜和进球奖励由您选择与哪个签约赞助商决定.一些赞助商有较高的获胜奖励，而其他赞助商则有较高的目标奖励.
+股东持股
+¬#A61214FF¬¬o:#A61214FF¬ SHAREHOLDER CUT ¬s¬ ||俱乐部股东总是削减赛后收入.您可以在俱乐部屏幕上向董事会要求资金，但如果这样做，董事会将增加股东削减
+市场经理
+¬#A61214FF¬¬o:#A61214FF¬营销经理¬s¬ ||您可以从商店购买营销经理.营销经理会从您参加的每场比赛中增加您的收入!
+发电卡
+¬#A61214FF¬¬o:#A61214FF¬生成卡片¬s¬ ||您建立并配备人员的任何设施都可以在比赛结束后生成卡片.设施中职员的评分越高，他们产生的卡片就越好. 
+降温
+¬#A61214FF¬¬o:#A61214FF¬冷却机制¬s¬ ||一旦您生成了卡片，该设施就会“冷却”，并且无法用于许多游戏.升级设施和提高设施人员的素质都会降低
+转移视窗
+¬#A61214FF¬¬o:#A61214FF¬转移窗口¬s¬ ||转移窗口是您可以购买球员的时期.当转移窗口打开或即将关闭时，助手会通知您.
+玩家搜寻
+¬#A61214FF¬¬o:#A61214FF¬寻找球员¬s¬ ||最简单的球员搜索方法是通过搜索屏幕，可通过顶部栏上的放大镜图标访问.。该屏幕可让您按位置，年龄，等级过滤球员
+入围
+¬#A61214FF¬¬o:#A61214FF¬列出玩家¬s¬ ||找到感兴趣的玩家并想记住以后再玩时，入围是一项有用的功能.您可以通过点击入围图标来入围玩家
+球探球员
+¬#A61214FF¬¬o:#A61214FF¬侦查球员¬s¬ ||当侦察员侦查球员时，他会被添加到“搜索”屏幕上的“侦查球员”列表中.可以通过选择“侦查”选项卡在搜索屏幕上查看侦查球员.
+经理XP
+¬#A61214FF¬¬o:#A61214FF¬ MANAGER XP &等级¬s¬ ||通过在屏幕的左上角点击您的经理的剪影可以访问经理屏幕.通过收集Manager XP可以提高经理级别. 
+成就成就
+¬#A61214FF¬¬o:#A61214FF¬成就¬s¬ ||成就可以在“经理”屏幕的“成就”选项卡上查看.完成成就可赚到您的经理经验值，可以提升您的经理水平.在获得成就的每个成就上点击CLAIM按钮即可获得经验值
+奖杯
+¬#A61214FF¬¬o:#A61214FF¬奖杯¬s¬ ||您可以在管理器屏幕的“奖杯”选项卡上查看可中奖的奖杯.已赢得的奖杯以彩色显示.
+重播
+¬#A61214FF¬¬o:#A61214FF¬重放¬s¬ ||如果您保存了任何重放，则可以通过管理器屏幕上的“重放”选项卡进行访问.。您最多可以将10个重放保存到收藏夹中，其中任何一个都可以记录和
+董事会目标
+¬#A61214FF¬¬o:#A61214FF¬完成董事会目标¬s¬ ||完成董事会目标有两个很大的好处.第一个是，它可以保持您与董事会之间的良好关系：如果您想申请资金，总是有用的!第二个是，这非常好
+面试
+¬#A61214FF¬¬o:#A61214FF¬在面试中取得成功¬s¬ ||作为足球俱乐部的经理，总有人对您要说的东西感兴趣.。您会定期接受采访，新闻界会要求您进行测试
+困境
+¬#A61214FF¬¬o:#A61214FF¬做出艰难的选择¬s¬ ||您偶尔会遇到困境.只需选择那个时候对您最有价值的奖励.
+突发事件
+¬#A61214FF¬¬o:#A61214FF¬处理突发事件¬s¬ ||有时玩家的行为可能会引起问题.当这些事件发生时，系统会询问您要采取什么措施.您可以对玩家进行现金罚款
+脚踝
+¬#A61214FF¬¬o:#A61214FF¬处理标枪¬s¬ ||发生丑闻时，您可以对球员进行批评，以减少他们的幸福感和您的董事会&赞助商关系.您可以现金罚款他们，减少他们的幸福感和您的粉丝&
+留言内容
+¬#A61214FF¬¬o:#A61214FF¬了解消息¬s¬ ||“消息”屏幕会记录您收到的消息.“消息”选项卡中显示需要采取操作的重要消息，而“社交”选项卡中则显示球员和俱乐部的推文.
+奖项
+¬#A61214FF¬¬o:#A61214FF¬联赛&俱乐部奖¬s¬ ||在本赛季结束时，您会看到联盟和您的俱乐部的奖项摘要，包括最佳射手，最佳助攻，年度最佳球员，年轻球员
+合约
+¬#A61214FF¬¬o:#A61214FF¬合同¬s¬ ||在本赛季结束时，您将获得员工和球员合同的概述.您将看到正在退休的人员以及员工和球员剩下的时间最少
+财政
+¬#A61214FF¬¬o:#A61214FF¬财务¬s¬ ||您将在本赛季结束时获得联赛的财务奖励.奖励的大小取决于您的完成状况：您的团队完成得越高，奖励就越大[ 
+运动联盟!
+¬#A61214FF¬¬o:#A61214FF¬前进到另一个联盟! ¬s¬ ||也许您已经达到了联赛的顶峰. . .也许没有什么可以赢得的?嗯，那时候您可能会
 None
 None
+哥哥
+兄弟
+友人
+父亲
+失去了一个兄弟（年龄适中）
+$playername岁时父亲去世了
+$playername岁时母亲去世了
+$playername岁时，父母去世了
+失去了一个姐姐（年龄适中）
+母亲
+$playername在$ age岁时成为孤儿
+妹妹
+姐妹
+粉丝们
+财政
+俱乐部商店价格
+会所销售
+门收据
+票价
+名字
+输入名字. . .
+DO NOT TRANSLATE (C)
+一种
+远
+再见
+H
+家
+中性
+治具
+今天的灯具
+编队
+犯规
+任意球
+友人
+赌博
+赌博成瘾
+游戏
+性别
+女
+男
+一般
+获得Bux
+前进!
+目标!
+目标
+每局进球
+老板下午好.
+晚上好，老板.
+老板早上好.
+组
+团体
+1-4组
+5-8组
+H T
+幸福
+愤怒
+快乐
+DO NOT TRANSLATE (C)
+郁闷
+很高兴
+帽子戏法
+标头
+标头
+救命
+小费
+DO NOT TRANSLATE (B)
+完成谈判
+猜测更高或更低以提高报价.范围从1到11 .
+演戏
+羽毛球
+蘑菇狩猎
+乐器
+折纸
+彩弹射击
+绘画
+跑酷
+摄影
+扑克
+马球
+明信片收集
+棒球
+陶器
+漂流
+阅读
+记录收集
+复古视频游戏
+攀岩
+轮滑
+划船
+橄榄球
+航行
+篮球
+瑜珈
+水肺潜水
+雕刻
+收集贝壳
+缝制
+射击
+唱歌
+滑板运动
+素描
+跳伞
+沙滩排球
+斯诺克台球
+制皂
+壁球
+集邮
+单口喜剧
+冲浪
+游泳的
+桌上足球
+乒乓球
+桌上游戏
+养蜂业
+跆拳道
+太极拳
+动物标本
+电视盒
+十针保龄球
+网球
+修剪
+玩具收集
+火车发现
+视频游戏
+台球
+老爷车
+排球
+水上运动
+itt
+木雕
+观鸟
+铁匠
+藏书
+拳击
+动作人物收集
+Brazilian就-级调速
+霹雳舞
+桥
+巴士发现
+歌舞表演
+书法
+露营
+蜡烛制作
+木工
+棋
+飞机发现
+攀登
+咖啡烘焙
+硬币收集
+漫画书
+电脑编程
+烹饪
+角色扮演
+创意写作
+蟋蟀
+填字游戏
+业余戏剧
+密码学
+冰壶
+循环
+跳舞
+飞镖
+占卜
+驾驶
+无人机飞
+电子产品
+刺绣
+古玩
+电子竞技
+时尚
+击剑
+花样滑冰
+钓鱼
+养鱼
+插花
+飞行
+觅食
+化石狩猎
+射箭
+自由式足球
+园艺
+家谱
+基本知识
+幽灵狩猎
+吹玻璃
+打高尔夫球
+涂鸦
+体操
+手球
+艺术收藏
+远足
+曲棍球
+自酿
+骑马
+狩猎
+水培法
+冰球
+溜冰
+昆虫采集
+珠宝制作
+占星术
+拼图
+柔道
+戏法
+卡巴迪
+卡丁车赛车
+皮划艇
+放风筝
+风筝冲浪
+刀投掷
+针织
+天文学
+长曲棍球
+激光标签
+草坪碗
+积木玩具
+魔法
+金属探测
+赛车运动
+山地骑行
+登山运动
+电影
+家
+家用套件
+客套
+主队
+小时
+移除广告
+玩游戏没有任何广告
+$ num星巴克
+25星Bux
+50星Bux
+100星Bux
+250星Bux
+500星Bux
+1,000星巴克
+2,500星巴克
+5,000星巴克
+忽视
+您已签署新的$ type赞助商.
+这是您获得$ num奖金的奖金
+受伤
+受伤
+膝盖
+肩
+臂
+踝
+腹股沟
+背部
+头
+颈部
+脚丫子
+手
+胸部
+DO NOT TRANSLATE (B)
+国际化
+国际统计
+记住绿色序列!
+面试!
+酒类
+DO NOT TRANSLATE (C)
+兴奋剂
+吸毒者
+赌徒
+没有
+性瘾者
+暴力
 DO NOT TRANSLATE (B)
 None
+自定义您的工具包
+超凡
+颜色
+守门员
 None
 None
 None
+短裤
+袖子
+条带
+篮筐
+普通
+主
+中学
+保存工具包更改
+设为主要
+设置为中学
 None
-None
-None
-None
-None
-None
-DO NOT TRANSLATE (C)
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-DO NOT TRANSLATE (C)
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
+姓
+输入姓氏. . .
+变更检视
 DO NOT TRANSLATE (C)
 DO NOT TRANSLATE (C)
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-DO NOT TRANSLATE (C)
-DO NOT TRANSLATE (C)
-DO NOT TRANSLATE (C)
-DO NOT TRANSLATE (C)
-DO NOT TRANSLATE (C)
-None
-DO NOT TRANSLATE (C)
-DO NOT TRANSLATE (C)
-DO NOT TRANSLATE (C)
-DO NOT TRANSLATE (C)
-DO NOT TRANSLATE (C)
-None
-None
-DO NOT TRANSLATE (C)
-DO NOT TRANSLATE (C)
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-DO NOT TRANSLATE (C)
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-DO NOT TRANSLATE (C)
-None
-None
-None
-None
-None
-None
-None
+经理级增加
+腿
+腿麻木
 DO NOT TRANSLATE (B)
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
+职业生涯
+载入重播
+玩家组合中包含优秀的玩家，可立即帮助您的球队.
+守门员包中包含出色的球员，可立即为您的防守力量提供帮助.
+防御包包含出色的球员，可以立即为您的防御力量提供帮助.
+中场组合包含出色的球员，可立即增强您的中场实力.
+攻击包中包含优秀的球员，可立即为您的攻击强度提供助益.
+经理包中包含用于解决球员和员工问题的好卡片.
+教练包中包含出色的技能和健身卡，可提高球员的能力.
+从商店获得更多重试，以重试比赛中错过的机会.
+从商店获得收入增长，以增加每场比赛的收入.
+从商店获得投资包，以增加俱乐部的财务状况.
+在比赛中使用TEAM TALK卡来提高球队的能量水平.
+在小队屏幕或球员资料上使用NRG卡，以使您的球队保持最佳状态.
+$ initial $ userlastname的消息：嗨，老板，下次与董事会会面之前只剩下1场比赛.让我们确保达到目标!
+$ initial $ userlastname的消息：老板，下一次与董事会会面之前，只有$ num的比赛.让我们确保达到目标!
+$ initial $ user姓氏的消息：$ player lastname出了点问题.我想您需要在$ nextopponent游戏之前安排与他的会面.
+$ initial $ userlastname的消息：让我们进行下一场比赛!到我们完成时，新的$ facility将准备进行检查.
+给$ initial $ userlastname的消息：嘿老板，下一场比赛是$ competition .让我们确保我们打赢了!
+$ initial $ userlastname的消息：老板，每天都有奖励在等着您.回来找回它!
+$ initial $ userlastname的消息：嗨，老板，我们无法使用$ facility，因为没有人可以运行它.让我们看看谁有空!
+$ initial $ userlastname的消息：老板，我们已经排队了一些新的赞助商，我们只需要您做出决定!
+给$ initial $ user姓氏的消息：$ player lastname认为他可以成为对抗$ nextopponent的人.我们应该扮演他吗?
+$ initial $ userlastname的消息：$ playerlastname仍在与$ nextopponent进行比赛.，您想替换谁？?
+$ initial $ userlastname的消息：嗨，老板，您想在与$ nextopponent的比赛中使用哪些战术?
+给$ initial $ userlastname的消息：嘿老板，小队看起来很累.让我们在玩$ nextopponent之前先改变一下东西!
+$ initial $ userlastname的消息：嗨，老板，在转会窗口打开之前仅剩1场比赛.您是否关注任何球员?
+$ initial $ userlastname的消息：嗨，老板，在转移窗口打开之前，只有$ num比赛了.您是否关注任何球员?
+提供医疗级别
+可用于SCOUT OFFICE级别
+可提供训练地面水平
+需要健身中心
+锁定到$ level级
+需要医疗设施
+需要侦察兵办公室
+需要青年学院
 DO NOT TRANSLATE (B)
-None
-None
-None
-None
-None
-DO NOT TRANSLATE (C)
-None
-None
-None
-None
-None
-None
-DO NOT TRANSLATE (B)
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-DO NOT TRANSLATE (C)
-DO NOT TRANSLATE (C)
-None
-None
-None
-DO NOT TRANSLATE (B)
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-DO NOT TRANSLATE (B)
-None
+低能耗!
 DO NOT TRANSLATE (B)
 DO NOT TRANSLATE (C)
-None
-None
-None
-None
-None
-None
-None
-None
+经理统计
+月经理
+明星经理
+比赛的人
+交通运输部
+比赛
+比赛
+比赛套件
 DO NOT TRANSLATE (B)
-None
-None
-None
-None
+比赛统计
+比赛类型
+角
+额外的时间
 DO NOT TRANSLATE (C)
 DO NOT TRANSLATE (C)
-None
-None
+任意球
+全职
 DO NOT TRANSLATE (C)
-None
+半场
 DO NOT TRANSLATE (C)
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
+进行中
+开始
+越位
+罚则
+罚款
+红牌
+已保存
+代换
+黄牌
+火柴
+火柴
 DO NOT TRANSLATE (B)
 DO NOT TRANSLATE (B)
-None
-None
+米
+选择您要讨论的问题
 DO NOT TRANSLATE (B)
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
-None
+玩家资料已更新
+有个会议
+董事会满意度
+粉丝幸福
+新闻关系
+赞助商关系
+仪表
+时间到
+分钟
+士气
+更多信息
+MESSAGE¦此球员目前未被禁止.
+MESSAGE¦您不能在此播放器上使用另一张APPEAL卡，老板.
+消息¦您的团队中有一名停赛球员!请替换他.
+消息¦没关系的老板.
+MESSAGE¦所有插槽目前都在冷却中.
+教练错误…嘿老板，您已经生成了一张卡片，您需要等到下一场比赛结束之后才能使用.
+教练错误…正在连线，请再试一次.
+教练错误…嘿老板，您尚未建造此设施.您需要建造它并雇用人员才能使用它.
+教练错误…请检查您的互联网连接，然后重试.
+教练错误…嘿老板，您尚未为此设施聘请职员.您需要先聘请职员才能使用该设施.
+教练错误…嘿老板，这个插槽正在冷却中.
+教练错误…嘿老板，这个插槽正在冷却中.您需要升级$ facility以减少冷却时间.
+教练错误…嘿老板，这个时间是在冷却中.您需要增加此工作人员的幸福感以减少冷却时间.
+MESSAGE¦该球员已经可以在该位置进行比赛!
+消息¦您不能再给门将带来更多好处!
+MESSAGE¦ $playername已经发挥了他的潜力.
+MESSAGE¦您尚未保存更改.确定要离开编辑器?
+MESSAGE¦您想保留这些更改并返回比赛吗?
+警告! ¦确定要删除此保存文件? |您将丢失重播文件以及为此职业购买的任何BUX或卡.
+警告! ¦确定要退出游戏的主菜单?
+MESSAGE¦您尚未保存更改.确定要离开套件编辑器?
+MESSAGE¦ Boss，我们还没有$ anfacility .
+信息¦我已经汇总了一份最紧急的合同清单，以与今年离开我们的人一起续签.
+重新分配特许权¦您负责团队的时间在这个国家或地区已经取得了显著成就，老板.您想不想有机会在另一个国家尝试您的管理技能?
+警告! ¦您真的要解雇$ name ?
+消息¦您的团队中有一名受伤的球员!请替换他.
+MESSAGE¦您无法在此播放器上使用此功能.
+消息¦您没有守门员!一名年轻的守门员已从学院提拔，但董事会并不高兴!
+消息¦您没有守门员!如果不解决此问题，则会从学院提拔一名年轻的守门员，而董事会将不会高兴!
+MESSAGE…您没有足够的合格球员来组建一支由替补组成的完整球队!阵容大小将由冲入学院的球员组成.董事会不高兴!
+MESSAGE¦您没有足够的合格球员来组建一支由替补人员组成的完整团队!如果您不解决此问题，小队的人数将由冲入学院的球员组成.董事会将不会
+MESSAGE¦距离您上一次与这位玩家老板见面还为时过早.在下一场比赛之后再试一次.
+MESSAGE¦ $playername厌倦了这些不断的合同谈判尝试.他不再对我们签约感兴趣.
+MESSAGE¦您是否希望将$ personname的合同增加$ matches个，以增加$ num个?
+MESSAGE¦您是否希望在$ matches比赛合同上以$ num ?签署$ personname ?
+新赛季…新赛季开始了!您希望我为本赛季开始设置多少个友谊赛?
+MESSAGE¦我们没有$ anstafftype职位可用!您需要解雇$ staffname .
+讯息¦没有守门员我们无法继续!
+MESSAGE¦ $ personname不想这么快就重新协商合同.在下一场比赛之后再试一次.
+MESSAGE¦您现金不足|去商店再买一些!
+MESSAGE¦此播放器能量不足!
+MESSAGE¦该球员目前受伤.
+MESSAGE¦您要释放播放器吗？?
+MESSAGE¦这位球员没有价值.你想免费释放他?
+MESSAGE¦这位球员没有任何价值，因为他从未参加过比赛.您想免费释放他吗?
+警告! ¦确定要删除此保存的重放吗?
+警告!…此插槽中存在重播.您确定要覆盖此保存的重播?
+MESSAGE¦您不能在关闭转会窗口的情况下出售播放器.您想免费释放此播放器?
+MESSAGE¦Boss，董事会要求球队中至少有2位守门员.。在出售此球员之前，请先找到替代者.
+MESSAGE¦此球员将在合同到期时退休.
+MESSAGE¦老板，您目前无法出售此球员。.球队中的最低球员数量为$ num .。
+MESSAGE¦老板，直到下一场比赛之后，您才可以尝试再次出售此球员.
+MESSAGE¦ Boss，具有$ type的合同已过期，因此我们需要进行新的交易.
+MESSAGE¦Boss，一些公司有兴趣赞助俱乐部的$ type .每个赞助商都会为一定数量的比赛支付获胜奖金和进球奖励.由您来选择俱乐部的最佳交易. 
+MESSAGE¦您不能在此职员上使用此信息.
+MESSAGE¦此工作人员已获得最高评价!
+MESSAGE¦您的团队已经有足够的精力.
+MESSAGE¦Boss，如果我们想在首发阵容中使用他，我们需要提供$ name合同.
+MESSAGE¦确定要发布$playername ?
+MESSAGE¦在$ num比赛合同上签名$playername ?
+董事会的信息¦董事会对您在实现目标方面的进展感到非常满意.
+董事会的信息¦董事会目前不准备给您任何额外的资金.
+董事会的信息¦董事会现在不准备给您任何额外的资金.股东比例太高.
+董事会的信息¦董事会向俱乐部投入了额外的现金，但增加了股东的利益.
+讯息¦您不能在我身上玩这个，我不为您工作.
+董事会寄语¦此球员未售出.您想免费释放他吗？?
+董事会寄语¦您这次没有达到董事会的期望.尝试在我们的下一个目标中取得更大的成功.
+来自董事会的消息¦现在您已经定居，董事会为您提供了一些目标.完成这些任务将使我们感到高兴!
+董事会的信息¦董事会为您提供一些目标.完成这些任务将使我们感到高兴!
+董事会的信息¦现在是时候让我们回顾一下为您设定的目标了.
+董事会的信息¦董事会对您在目标方面的进展感到非常满意.我们为未来几周设定了一些新的目标.
+发展¦好的guv !我们刚刚完成了新的CLUB STORE !，应该会为您带来一些额外的收入.。小伙子们告诉我您可以通过CLUB屏幕来调整商品价格，但是我不会
+发展¦好的guv !我们已经完成您的健身中心的整合.您现在可以雇用FITNESS教练并开始提高球员的STRENGTH和PACE属性.这不是我的专业领域，但是伙计们告诉我，
+发展¦好的guv !我们刚刚对您的新医疗器械进行了最后润色.我不是专家，但是伙计们告诉我，您现在可以聘请PHYSIO来帮助受伤的球员更快地康复. 
+发展¦好的guv !您的新SCOUT办事处已经准备就绪!，您现在可以招募SCOUT，他们将寻找潜在的转移目标供您签名.
+发展¦好的guv !使用2级训练场，您可以使用ADD SIDE卡来增加玩家的偏爱位置，无论意味着什么.
+发展¦好的guv !您的$ facility名称已经升级.小伙子们做得很不错.无论如何，现在都可以使用了.
+发展¦好的guv !您最大的体育场升级已经完成.小伙子们做得很不错.无论如何，现在都可以使用了.
+发展¦好吧guv !您的青年学院已经全部完成.显然，您现在可以聘请YOUTH COACH并开始为团队引入新的人才.
+消息：作为$ offerclubname的董事长，我想出价[ca]出价$playername .，我认为这是一个合理的出价，希望您能认真考虑一下.
+我了解$ clubname FC委员会认为您应该出售.
+我听说该球员在$ clubname FC球迷中很受欢迎.
+有人告诉我玩家热衷于移动.
+我听说该球员在$ clubname FC小队中很受欢迎.
+我听说球员不喜欢$ clubname FC小队.
+消息：作为$ offerclubname的主席，我谨通知您我们撤回对$playername .的报价
+讯息¦您无法在我身上玩，我没有那种技巧.
+MESSAGE¦您不能在我身上玩.要提高玩家的技能，您需要打出一张等同于或高于其质量的卡.例如，要提高一名铜牌玩家，您需要玩
+讯息¦我已经退休了，你不能在我身上玩这个.
+INCIDENT¦ $playername $ fill_missedtraining其他一些球员说，他的呼吸中可以闻到酒精的味道.
+INCIDENT¦ $playername $ fill_missedtraining他的借口是他在健身房里劳累过度，无法下沙发.
+INCIDENT¦ $playername $ fill_missedtraining当他终于出现时，他的眼睛显得疲倦而浮躁.
+INCIDENT¦ $playername $ fill_missedtraining显然他是今天早些时候在投注站被发现的.
+INCIDENT¦ $playername $ fill_missedtraining显然他整夜都在开派对.
+今天，事件INC $playername参与了一场训练场失败.，他完全错了，必须冷静下来.
+INCIDENT¦ $playername在今天的训练中引起了激烈的争论.，他必须早些被送回家冷却一下.
+INCIDENT¦ $playername在今天的训练中遇到了几次轻率的挑战.他可能会伤害队友.
+INCIDENT¦ $playername需要将他的$ pettype交给兽医.他可以休假吗?
+INCIDENT¦ $playername的$ pettype'$ petname'生病了.他可以休假吗?
+突发事件显然，今天有一个非常酷的“ $ hobby”会议正在举行. $playername可以请假吗?
+事件¦ $playername想要参加一个<$>'$ hobby'事件.他可以请假吗?
+事故$playername今天下午可以跳过训练吗?他今晚需要参加<an>'musictaste'演出.
+事故今晚有<an>“ $ musictaste”音乐会.可以$playername跳过今天下午的训练以提早出发?
+INCIDENT¦ $playername $ fill_latefortraining他不得不带其随机家庭成员去医院.
+INCIDENT¦ $playername $ fill_latefortrain他的$ randomfamily成员显然生病了.
+INCIDENT¦ $playername $ fill_latefortraining他的$ random家人的汽车坏了.
+INCIDENT¦ $playername $ fill_latefortraining显然他的$ randomfamily成员需要紧急的帮助.
+INCIDENT¦ $playername $ fill_latefortraining他的$ randomfamily成员需要上班才能上班，却陷入交通拥堵.
+INCIDENT¦ $playername $ fill_latefortraining他没有时间跟粉丝谈论他的“ $ hobby”爱好.
+INCIDENT¦ $playername $ fill_latefortraining他在网上与同伴一起聊天谈论自己的“ $ hobby”嗜好.
+INCIDENT¦ $playername $ fill_latefortraining显然他昨晚在<an>'$ musictaste'演唱会上出来了.
+INCIDENT¦ $playername $ fill_latefortraining他昨晚在<an>'musictaste'音乐演唱会上回来很晚.
+INCIDENT¦ $playername $ fill_latefortraining他说他必须把自己的$ pettype'$ petname'交给兽医.
+INCIDENT¦ $playername $ fill_latefortraining显然他的宠物$ pettype'$ petname'生病了.
+INCIDENT¦ $playername $ fill_latefortraining他对交通做了些微的借口.
+INCIDENT¦ $playername $ fill_latefortraining他拒绝解释.
+INCIDENT¦ $playername $ fill_latefortraining他说他有一个家庭问题需要处理.
+INCIDENT¦ $playername $ fill_latefortraining他不会告诉任何人这样做的原因.
+INCIDENT¦ $playername $ fill_latefortraining当被问到为什么迟到时，他才走了.
+今天错过训练.
+今天早上没有参加训练.
+今天从未参加培训.
+完全错过了培训课程.
+老板没来参加培训.
+今天早上训练迟到了.
+今天参加训练迟到了.
+今天晚了30分钟到达训练.
+在培训课程中途到达.
+未能按时到达培训地点.
+会议¦您想谈什么?
+会议¦您想要什么?
+会议¦哦，是你.现在怎么样?
+会议¦你好老板，你想谈什么?
+会议¦嘿老板，怎么了?
+会议¦嗨，老板.你在想什么?
+会议¦你好.你想谈什么?
+会议¦你好老板.这是怎么回事?
+会议¦您想见我?
+会议¦谢谢老板.在那次会议之后，我感到很开心.
+会议¦与老板交谈是件好事.我现在对事情有点高兴.
+会议¦很棒的会议老板.我现在感觉更加积极.
+会议¦感谢会议老板.我现在感觉好些了.
+会议¦好的聊天老板.
+会议¦嗨，老板.目前我很高兴.感谢您的询问!
+谈判¦您无法解决此问题之前，无法提高此人的合同.
+谈判¦ $ personname暂时不愿谈判合同，原因是您迄今为止对一些发展方面的关注忽略了.
+由于对最近的FORM团队的担忧，NEGOTIATION¦ $ personname目前不希望谈判合同。
+由于对您的管理层的担忧，NEGOTIATION¦ $ personname目前不希望谈判合同.
+谈判¦我决定合同到期时要退休.
+MESSAGE¦不用了，老板.适合我的时候保存一下.
+MESSAGE…我目前对NRG充满兴趣，老板.节省给其他人!
+MESSAGE¦您必须等到下一场比赛之后，才能在此播放器上使用另一张TREATMENT卡.
+MESSAGE¦此球员当前未受伤.
+MESSAGE¦下列球员在比赛中受伤：$ players .
+MESSAGE¦ $playername敲门，但他将在下一场比赛中及时恢复.
+MESSAGE¦ $playername在比赛中受伤（$受伤），很可能会错过1场比赛.
+MESSAGE¦ $playername在比赛中受伤（$受伤），很可能会错过$ num比赛.
+讯息¦您无法在我身上弹奏，我不在您的阵容中.
+SPORTS NEWS¦ $ managername赢得本月的月度经理奖.
+SPORTS NEWS¦ $ managername在今天的新闻发布会上无法回答最基本的问题.
+$ otherclubname已被亿万富翁商人接管.
+$ otherclubname经理将小队带到海滩胜地.
+$ otherclubname的董事长公开表示，他们将不会出售其任何主要参与者.
+$ otherclubname已宣布过去12个月创纪录的创纪录利润.
+$ otherclubname的经理宣布，他的妻子比主管的小丑更了解足球.
+$ otherclubname经理透露，这些球员最近在团体晚宴上很喜欢布吉舞.
+$ otherclubname的董事长透露，他们已在俱乐部食堂聘请了一位顶级厨师.
+$ otherclubname试图重组他们的球探系统时招募了一位著名的首席球探.
+$ otherclubname已大力投资于青年计划并升级了培训设施.
+$ otherclubname已与新赞助商签署了有利可图的协议.
+$ otherclubname因管理俱乐部财务的方式而受到联盟官员的称赞.
+$ otherclubname因对各种慈善机构的杰出贡献而受到赞扬.
+$ otherclubname小队今天在训练场上被集体拥抱拍照!
+$ otherclubname经理决定，小队今天不用训练，而是在游乐场上度过一天!
+$ otherclubname主席如果以良好的位置结束比赛，将给球队带来巨额奖金.
+$ otherclubname处于危机中，并且面临严重的财务困难.
+$ otherclubname训练场发生了一起事件，至少有5名玩家参与了争吵.
+$ otherclubname的经理已被指控酒后驾驶罪.
+$ otherclubname的经理在比赛后发表愤怒的评论后被禁止触摸线.
+$ otherclubname的经理将在本周出庭，以面对有关税收欺诈的指控.
+最近，一些$ otherclubname的球员被流感击倒.
+水管爆裂后，昨天更衣室不得不放弃培训，以$ otherclubname命名.
+$ otherclubname的粉丝一直在外面抗议，要求更改董事会.
+$ otherclubname可能因违反转会市场法规而被停赛.
+$ otherclubname粉丝在最近的一场游戏中被指控进行辱骂圣歌.
+一群$ otherclubname牌手在夜总会殴打之后正在受到警察的讯问.。
+据说$ otherclubname处于危机中，原因是球员工资过高，严重破坏了俱乐部的财务状况.
+$ otherclubname的幕后工作人员在薪资问题上分歧后退出俱乐部.
+有传言说，$ otherclubname的球员对苛刻的训练时间表不满意.
+几个$ otherclubname的玩家在吃了食堂烤宽面条后被神秘的胃虫击中.。
+SPORTS NEWS¦ $playername是$ myteamname的当之无愧的人，此前他为$ oppteamname提供了$ numassists协助.
+体育新闻¦创意人$playername在对抗$ oppteamname的激动人心的比赛中为$ myteamname提供了令人难以置信的$ numassists助攻.
 None
 None
 None
@@ -5536,4 +5536,685 @@ None
 None
 None
 None
-N
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+DO NOT TRANSLATE (C)
+None
+None
+None
+None
+None
+None
+None
+None
+None
+DO NOT TRANSLATE (C)
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+DO NOT TRANSLATE (C)
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+DO NOT TRANSLATE (C)
+None
+None
+None
+None
+None
+None
+None
+None
+None
+DO NOT TRANSLATE (C)
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+DO NOT TRANSLATE (G)
+DO NOT TRANSLATE (G)
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+DO NOT TRANSLATE (G)
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+DO NOT TRANSLATE (G)
+DO NOT TRANSLATE (G)
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+DO NOT TRANSLATE (G)
+DO NOT TRANSLATE (C)
+None
+DO NOT TRANSLATE (G)
+DO NOT TRANSLATE (C)
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+TRANSLATION for name
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None

@@ -314,85 +314,85 @@ class GoogleTranslator:
     def excel_manager_new_star(self, _path):
         while True:
             try:
-                for sheet_number in range(0,1):
+                for sheet_number in range(1,7):
                     if os.path.exists(os.path.splitext(_path)[0]+'_translated'+os.path.splitext(_path)[-1])==False:
                         shutil.copy(_path,os.path.splitext(_path)[0]+'_translated'+os.path.splitext(_path)[-1])
                     modifying_file = os.path.splitext(_path)[0]+'_translated'+os.path.splitext(_path)[-1]
-                    # app=xw.App(visible=False,add_book=False)
-                    # wb=app.books.open(modifying_file)
-                    # sheet=wb.sheets[sheet_number]
-                    # ori_list = []
-                    # tran_list = []
+                    app=xw.App(visible=False,add_book=False)
+                    wb=app.books.open(modifying_file)
+                    sheet=wb.sheets[sheet_number]
+                    ori_list = []
+                    tran_list = []
                     if sheet_number == 0:#Core Text
                         lines = 6000
                         orignal_index = 2
                         translate_index = 3
 
-                    # elif sheet_number == 1:#Countries
-                    #     lines = 220
-                    #     orignal_index = 2
-                    #     translate_index = 3
+                    elif sheet_number == 1:#Countries
+                        lines = 220
+                        orignal_index = 2
+                        translate_index = 3
 
-                    # elif sheet_number == 2:#Continents
-                    #     lines = 10
-                    #     orignal_index = 2
-                    #     translate_index = 3
+                    elif sheet_number == 2:#Continents
+                        lines = 10
+                        orignal_index = 2
+                        translate_index = 3
 
-                    # elif sheet_number == 3:#Store MetaData
-                    #     lines = 60
-                    #     orignal_index = 3
-                    #     translate_index = 4
+                    elif sheet_number == 3:#Store MetaData
+                        lines = 60
+                        orignal_index = 3
+                        translate_index = 4
 
-                    # elif sheet_number == 4:#Purchase MetaData
-                    #     lines = 70
-                    #     orignal_index = 3
-                    #     translate_index = 4
+                    elif sheet_number == 4:#Purchase MetaData
+                        lines = 70
+                        orignal_index = 3
+                        translate_index = 4
 
-                    # elif sheet_number == 5:#Fake Ads
-                    #     lines = 15
-                    #     orignal_index = 3
-                    #     translate_index = 4
+                    elif sheet_number == 5:#Fake Ads
+                        lines = 15
+                        orignal_index = 3
+                        translate_index = 4
 
-                    # elif sheet_number == 6:#Push Notifications
-                    #     lines = 10
-                    #     orignal_index = 3
-                    #     translate_index = 4
+                    elif sheet_number == 6:#Push Notifications
+                        lines = 10
+                        orignal_index = 3
+                        translate_index = 4
 
-                    # elif sheet_number == 7:#Steam Specific
-                    #     lines = 320
-                    #     orignal_index = 2
-                    #     translate_index = 3
+                    elif sheet_number == 7:#Steam Specific
+                        lines = 320
+                        orignal_index = 2
+                        translate_index = 3
 
-                    # elif sheet_number == 8:#Nintendo Specific
-                    #     lines = 380
-                    #     orignal_index = 2
-                    #     translate_index = 3
+                    elif sheet_number == 8:#Nintendo Specific
+                        lines = 380
+                        orignal_index = 2
+                        translate_index = 3
 
-                    # elif sheet_number == 9:#PlayStation Specific
-                    #     lines = 380
-                    #     orignal_index = 2
-                    #     translate_index = 3
+                    elif sheet_number == 9:#PlayStation Specific
+                        lines = 380
+                        orignal_index = 2
+                        translate_index = 3
 
-                    # for i in range(0,lines):
-                    #     ori_list.append(sheet[i,orignal_index].value)
-                    #     tran_list.append(sheet[i,translate_index].value)
-                    # wb.save()
-                    # wb.close()
-                    # app.quit()
-                    # with open(os.path.dirname(os.path.realpath(__file__)) + "/ori_list.txt", "a") as f:
-                    #     for ori in ori_list:
-                    #         if ori == None:
-                    #             ori = ''
-                    #         f.writelines(str(ori)+'\n')
-                    # with open(os.path.dirname(os.path.realpath(__file__)) + "/tran_list.txt", "a") as f:
-                    #     for tran in tran_list:
-                    #         if ori == None:
-                    #             ori = ''
-                    #         f.writelines(str(tran)+'\n')
-                    with open(os.path.dirname(os.path.realpath(__file__)) + "/ori_list.txt", "r") as f:
-                        context_ori = f.readlines()
-                    with open(os.path.dirname(os.path.realpath(__file__)) + "/tran_list.txt", "r") as f:
-                        context_tran = f.readlines()
+                    for i in range(0,lines):
+                        ori_list.append(sheet[i,orignal_index].value)
+                        tran_list.append(sheet[i,translate_index].value)
+                    wb.save()
+                    wb.close()
+                    app.quit()
+                    with open(os.path.dirname(os.path.realpath(__file__)) + "/ori_list.txt", "a") as f:
+                        for ori in ori_list:
+                            if ori == None:
+                                ori = ''
+                            f.writelines(str(ori)+'\n')
+                    with open(os.path.dirname(os.path.realpath(__file__)) + "/tran_list.txt", "a") as f:
+                        for tran in tran_list:
+                            if ori == None:
+                                ori = ''
+                            f.writelines(str(tran)+'\n')
+                    # with open(os.path.dirname(os.path.realpath(__file__)) + "/ori_list.txt", "r") as f:
+                    #     context_ori = f.readlines()
+                    # with open(os.path.dirname(os.path.realpath(__file__)) + "/tran_list.txt", "r") as f:
+                    #     context_tran = f.readlines()
                     ori_list = []
                     tran_list = []
                     for i in context_ori:
@@ -401,15 +401,17 @@ class GoogleTranslator:
                         tran_list.append(i)
                     is_file_open = False
                     # wb就是新建的工作簿(workbook)，下面则对wb的sheet1的A1单元格赋值
-                    for loop in range(0, int(lines/100)):
+                    basic_line = 200
+                    for loop in range(0, int(lines/basic_line)):
                         app=xw.App(visible=True,add_book=False)
                         wb=app.books.open(modifying_file)
                         is_file_open = True
-                        for i in range(0,100):
-                            if tran_list[i+loop*100] =='None\n' and ori_list[i+loop*100]!= '\n':
-                                text = self.translate(ori_list[i+loop*100])
-                                print(f'{(i+loop*100,translate_index+1)}:{ori_list[i+loop*100]}->{text}')
-                                wb.sheets[sheet_number].range((i+loop*100+1,translate_index+1)).value = text
+                        for i in range(0,basic_line):
+                            # if tran_list[i+loop*basic_line] =='None\n' and ori_list[i+loop*basic_line]!= '\n':
+                            if tran_list[i+loop*basic_line] ==None and ori_list[i+loop*basic_line]!= None:
+                                text = self.translate(ori_list[i+loop*basic_line])
+                                print(f'{(i+loop*basic_line,translate_index+1)}:{ori_list[i+loop*basic_line]}->{text}')
+                                wb.sheets[sheet_number].range((i+loop*basic_line+1,translate_index+1)).value = text
                         wb.save()
                         wb.close()
                         app.quit()
