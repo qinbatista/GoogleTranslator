@@ -102,54 +102,147 @@ class GoogleTranslator:
         translate_back = -1
         modified_text = key
         using_symble = ''
+        replaced_list = []
+        symble_list = []
+        if key.find('$playername')!=-1:
+            using_symble = '$playername'
+            replaced_list.append('[1]')
+            symble_list.append('$playername')
+        if key.find('¬#A61214FF¬¬o:#A61214FF¬')!=-1:
+            using_symble = '¬#A61214FF¬¬o:#A61214FF¬'
+            replaced_list.append('[2]')
+            symble_list.append('¬#A61214FF¬¬o:#A61214FF¬')
+        if key.find('¬s¬')!=-1:
+            using_symble = '¬s¬'
+            replaced_list.append('[3]')
+            symble_list.append('¬s¬')
+        if key.find('<assistant><pause>')!=-1:
+            using_symble = '<assistant><pause>'
+            replaced_list.append('[4]')
+            symble_list.append('<assistant><pause>')
+        if key.find('$playername and $playername2')!=-1:
+            using_symble = '$playername and $playername2'
+            replaced_list.append('[5]')
+            symble_list.append('$playername and $playername2')
+        if key.find('<!crowdgoal>')!=-1:
+            using_symble = '<!crowdgoal>'
+            replaced_list.append('[6]')
+            symble_list.append('<!crowdgoal>')
+        if key.find('<col_a><+TRAIT>')!=-1:
+            using_symble = '<col_a><+TRAIT>'
+            replaced_list.append('[7]')
+            symble_list.append('<col_a><+TRAIT>')
+        if key.find('<+TRAIT>$playername')!=-1:
+            using_symble = '<+TRAIT>$playername'
+            replaced_list.append('[8]')
+            symble_list.append('<+TRAIT>$playername')
+        if key.find('<!whistledelayed>')!=-1:
+            using_symble = '<!whistledelayed>'
+            replaced_list.append('[9]')
+            symble_list.append('<!whistledelayed>')
+        if key.find('<!crowdoh>')!=-1:
+            using_symble = '<!crowdoh>'
+            replaced_list.append('[10]')
+            symble_list.append('<!crowdoh>')
+        if key.find('<+TRAIT>')!=-1:
+            using_symble = '<+TRAIT>'
+            replaced_list.append('[11]')
+            symble_list.append('<+TRAIT>')
+        if key.find('<assistant><-EXP><col_d>')!=-1:
+            using_symble = '<assistant><-EXP><col_d>'
+            replaced_list.append('[12]')
+            symble_list.append('<assistant><-EXP><col_d>')
+        if key.find('+1')!=-1:
+            using_symble = '+1'
+            replaced_list.append('[13]')
+            symble_list.append('+1')
         if key.find('#')!=-1:
             using_symble = '#'
-        elif key.find('&')!=-1:
+            replaced_list.append('[14]')
+            symble_list.append('+1')
+        if key.find('&')!=-1:
             using_symble = '&'
-        elif key.find('+')!=-1:
+            replaced_list.append('[15]')
+            symble_list.append('&')
+        if key.find('+')!=-1:
             using_symble = '+'
-        elif key.find('$playername')!=-1:
-            using_symble = '$playername'
-
-        elif key.find('¬#A61214FF¬¬o:#A61214FF¬')!=-1:
-            using_symble = '¬#A61214FF¬¬o:#A61214FF¬'
-        elif key.find('¬s¬')!=-1:
-            using_symble = '¬s¬'
-        elif key.find('<assistant><pause>')!=-1:
-            using_symble = '<assistant><pause>'
-        elif key.find('$playername and $playername2')!=-1:
-            using_symble = '$playername and $playername2'
-        elif key.find('<!crowdgoal>')!=-1:
-            using_symble = '<!crowdgoal>'
-        elif key.find('<col_a><+TRAIT>')!=-1:
-            using_symble = '<col_a><+TRAIT>'
-        elif key.find('<+TRAIT>$playername')!=-1:
-            using_symble = '<+TRAIT>$playername'
-        elif key.find('<!whistledelayed>')!=-1:
-            using_symble = '<!whistledelayed>'
-        elif key.find('<!crowdoh>')!=-1:
-            using_symble = '<!crowdoh>'
-        elif key.find('<+TRAIT>')!=-1:
+            replaced_list.append('[16]')
+            symble_list.append('+')
+        if key.find('.')!=-1:
+            using_symble = '.'
+            replaced_list.append('[17]')
+            symble_list.append('.')
+        if key.find('!')!=-1:
+            using_symble = '!'
+            replaced_list.append('[18]')
+            symble_list.append('!')
+        if key.find('?')!=-1:
+            using_symble = '?'
+            replaced_list.append('[19]')
+            symble_list.append('?')
+        if key.find('<assistant><EXP><col_a>')!=-1:
+            using_symble = '<assistant><EXP><col_a>'
+            replaced_list.append('[20]')
+            symble_list.append('<assistant><EXP><col_a>')
+        if key.find('<assistant><col_d><UNHAPPY>')!=-1:
+            using_symble = '<assistant><col_d><UNHAPPY>'
+            replaced_list.append('[20]')
+            symble_list.append('<assistant><col_d><UNHAPPY>')
+        if key.find('<+TRAIT>')!=-1:
             using_symble = '<+TRAIT>'
-        elif key.find('<assistant><-EXP><col_d>')!=-1:
-            using_symble = '<assistant><-EXP><col_d>'
-        elif key.find('+1')!=-1:
-            using_symble = '+1'
-        if using_symble!='':
-            modified_text = key.replace(using_symble,'>>>')
-            translate_back=1
+            replaced_list.append('[21]')
+            symble_list.append('<+TRAIT>')
+        if key.find('<!crowdgoal>')!=-1:
+            using_symble = '<!crowdgoal>'
+            replaced_list.append('[22]')
+            symble_list.append('<!crowdgoal>')
+        if key.find('<assistant>')!=-1:
+            using_symble = '<assistant>'
+            replaced_list.append('[23]')
+            symble_list.append('<assistant>')
+        if key.find('<col_d><-PAC>')!=-1:
+            using_symble = '<col_d><-PAC>'
+            replaced_list.append('[23]')
+            symble_list.append('<col_d><-PAC>')
+        if key.find('<col_a><-STR>')!=-1:
+            using_symble = '<col_a><-STR>'
+            replaced_list.append('[24]')
+            symble_list.append('<col_a><-STR>')
+        if key.find('<col_d><-TCK>')!=-1:
+            using_symble = '<col_d><-TCK>'
+            replaced_list.append('[25]')
+            symble_list.append('<col_d><-TCK>')
+        if key.find('<playername> <position>')!=-1:
+            using_symble = '<playername> <position>'
+            replaced_list.append('[26]')
+            symble_list.append('<playername> <position>')
+        if key.find('<nation>')!=-1:
+            using_symble = '<nation>'
+            replaced_list.append('[27]')
+            symble_list.append('<nation>')
+        if key.find('¬#252525FF¬TRAIT¬s¬')!=-1:
+            using_symble = '¬#252525FF¬TRAIT¬s¬'
+            replaced_list.append('[28]')
+            symble_list.append('¬#252525FF¬TRAIT¬s¬')
 
+
+
+        if using_symble!='':
+            # modified_text = key.replace(using_symble,'>>>')
+            for index, replace_string in enumerate(replaced_list):
+                modified_text = modified_text.replace(symble_list[index], replaced_list[index])
+        #$relationship
         """hl -> tl"""
         url = self.build(modified_text)
         res = self.session.post(url=url, headers=self.headers, timeout=self.timeout)
         results = json.loads(res.content.decode(encoding='utf-8'))
         translated_string = results[0][0][0]
-        if translate_back != -1:
-            modified_text = translated_string.replace('>>>',using_symble)
-        else:
-            modified_text = translated_string
-        print(f'[{key}]->[{modified_text}]')
-        return modified_text
+        if using_symble!='':
+            # modified_text = translated_string.replace('>>>',using_symble)
+            for index, replace_string in enumerate(replaced_list):
+                translated_string = translated_string.replace(replaced_list[index], symble_list[index])
+        print(f'[{key}]->[{translated_string}]')
+        return translated_string
 
     def xml_doc(self,_path):
         print("Translate xml Started:"+_path)
@@ -202,6 +295,8 @@ class GoogleTranslator:
                         translate_string = translate_string.replace("+",'..')
                         translate_back=True
                         modified_text = content.replace(translate_string.replace("..",'+'),self.translate(translate_string))+'\n'
+                    #<assistant><col_d><UNHAPPY>
+                    #<assistant><EXP><col_a>
                     else:
                         modified_text = content.replace(translate_string,self.translate(translate_string))+'\n'
                     if translate_back == True:
@@ -222,11 +317,11 @@ class GoogleTranslator:
                     if os.path.exists(os.path.splitext(_path)[0]+'_translated'+os.path.splitext(_path)[-1])==False:
                         shutil.copy(_path,os.path.splitext(_path)[0]+'_translated'+os.path.splitext(_path)[-1])
                     modifying_file = os.path.splitext(_path)[0]+'_translated'+os.path.splitext(_path)[-1]
-                    app=xw.App(visible=False,add_book=False)
-                    wb=app.books.open(modifying_file)
-                    sheet=wb.sheets[sheet_number]
-                    ori_list = []
-                    tran_list = []
+                    # app=xw.App(visible=False,add_book=False)
+                    # wb=app.books.open(modifying_file)
+                    # sheet=wb.sheets[sheet_number]
+                    # ori_list = []
+                    # tran_list = []
                     if sheet_number == 0:#Core Text
                         lines = 6000
                         orignal_index = 2
@@ -277,13 +372,32 @@ class GoogleTranslator:
                         orignal_index = 2
                         translate_index = 3
 
-                    for i in range(0,lines):
-                        ori_list.append(sheet[i,orignal_index].value)
-                        tran_list.append(sheet[i,translate_index].value)
-                    wb.save()
-                    wb.close()
-                    app.quit()
-
+                    # for i in range(0,lines):
+                    #     ori_list.append(sheet[i,orignal_index].value)
+                    #     tran_list.append(sheet[i,translate_index].value)
+                    # wb.save()
+                    # wb.close()
+                    # app.quit()
+                # with open(os.path.dirname(os.path.realpath(__file__)) + "/ori_list.txt", "a") as f:
+                #     for ori in ori_list:
+                #         if ori == None:
+                #             ori = ''
+                #         f.writelines(str(ori)+'\n')
+                # with open(os.path.dirname(os.path.realpath(__file__)) + "/tran_list.txt", "a") as f:
+                #     for tran in tran_list:
+                #         if ori == None:
+                #             ori = ''
+                #         f.writelines(str(tran)+'\n')
+                    with open(os.path.dirname(os.path.realpath(__file__)) + "/ori_list.txt", "r") as f:
+                        context_ori = f.readlines()
+                    with open(os.path.dirname(os.path.realpath(__file__)) + "/tran_list.txt", "r") as f:
+                        context_tran = f.readlines()
+                    ori_list = []
+                    tran_list = []
+                    for i in context_ori:
+                        ori_list.append(i)
+                    for i in context_tran:
+                        tran_list.append(i)
                     is_file_open = False
                     # wb就是新建的工作簿(workbook)，下面则对wb的sheet1的A1单元格赋值
                     for loop in range(0, int(lines/100)):
@@ -291,7 +405,7 @@ class GoogleTranslator:
                         wb=app.books.open(modifying_file)
                         is_file_open = True
                         for i in range(0,100):
-                            if tran_list[i+loop*100] ==None and ori_list[i+loop*100]!= None:
+                            if tran_list[i+loop*100] =='None\n' and ori_list[i+loop*100]!= '\n':
                                 text = self.translate(ori_list[i+loop*100])
                                 print(f'{(i+loop*100,translate_index+1)}:{ori_list[i+loop*100]}->{text}')
                                 wb.sheets[sheet_number].range((i+loop*100+1,translate_index+1)).value = text
@@ -310,6 +424,7 @@ if __name__ == '__main__':
     parser.add_argument('-target','--t'  , type = str, default = 'zh-CN',    help = 'target text,  中文:zh-CN, 英语:en, 繁体中文台湾:zh_TW, 繁体中文香港:zh_HK, 繁体中文新加坡:zh_HK, 俄语:ru, 日语:ja, 德语:de, 法语:fr, 韩语:ko, 泰语:th, 意大利语言:it')
     args = parser.parse_args()
     gt = GoogleTranslator(oringal= args.o, target=args.t)
+    # print(gt.translate(f"¬#A61214FF¬¬o:#A61214FF¬CURLING & LOFTING THE BALL¬s¬ ||When you've chosen shot power and direction, you get to strike the ball. Tapping in the centre of the ball kicks it straight. Tapping the bottom of the ball lofts it, while tapping on the left or right of the ball curls it. The higher a player's TECHNIQUE, the more curl they can apply to the ball."))
     gt.excel_manager_new_star('./Manager Translation Package 16680 INCLUDING CONVERTER.xlsx')
 
 
