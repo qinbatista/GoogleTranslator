@@ -328,8 +328,8 @@ class GoogleTranslator:
 
             elif sheet_number == 1:#Countries
                 lines = 220
-                orignal_index = 8
-                translate_index = 9
+                orignal_index = 3
+                translate_index = 4
 
             elif sheet_number == 2:#Continents
                 lines = 10
