@@ -312,7 +312,7 @@ class GoogleTranslator:
             f.writelines(new_content)
 
     def excel_manager_new_star(self, _path):
-        for sheet_number in range(1,2):
+        for sheet_number in range(0,1):
             if os.path.exists(os.path.splitext(_path)[0]+'_translated'+os.path.splitext(_path)[-1])==False:
                 shutil.copy(_path,os.path.splitext(_path)[0]+'_translated'+os.path.splitext(_path)[-1])
             modifying_file = os.path.splitext(_path)[0]+'_translated'+os.path.splitext(_path)[-1]
@@ -323,8 +323,8 @@ class GoogleTranslator:
             tran_list = []
             if sheet_number == 0:#Core Text
                 lines = 6000
-                orignal_index = 2
-                translate_index = 3
+                orignal_index = 6
+                translate_index = 7
 
             elif sheet_number == 1:#Countries
                 lines = 220
@@ -430,7 +430,7 @@ if __name__ == '__main__':
     args = parser.parse_args()
     gt = GoogleTranslator(oringal= args.o, target=args.t)
     # print(gt.translate(f"MISTER DOPEY!¦$clubname player $playername has received a $banlength match ban after testing positive for performance enhancing drugs! #BAN"))
-    gt.excel_manager_new_star('./Manager Translation Package 16680 INCLUDING CONVERTER.xlsx')
+    gt.excel_manager_new_star('./Manager Translation Package 16680 INCLUDING CONVERTER_translated_V5.xlsx')
 
 
 
