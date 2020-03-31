@@ -1,0 +1,28 @@
+FT_CHEST_NO_FREE_SLOTS,There is no free slots. Open one chest!,x
+FT_CHESTOPENPOPUP_BUTTONSTARTOPENING,You can opening one chest at time!,x
+FT_EMPTYCHESTSLOT_TAPONTHIS,Try to get a new chest!,x
+FT_FREE_CHEST_IS_NOT_AVAIBLE,You already picked up free chest! Wait for another!,x
+FT_GRAYED_OUT_BRICKCHEST,Currently unavailable,
+FT_PvE_MISSION_LOCKED,LOCKED - complete the previous level!,x
+FT_ARENA_LOCKED,Arena locked. Get more trophies!,x
+FT_INVENTORY_AVATAR_FROM_HIGHER_ARENA_LOCKED,This avatar is available in the Arena {0}. ,x
+FT_INVENTORY_BALL_FROM_HIGHER_ARENA_LOCKED,This ball is available in the Arena {0}. ,x
+FT_INVENTORY_AVATAR_LOCKED,Find it in chests!,x
+FT_INVENTORY_BALL_LOCKED,Find it in chests!,x
+FT_DAILY_REWARD_BACK_TOMMOROW,You already picked up your daily free reward! ,x
+FT_AVATAR_UPGRADE_WITHOUT_CARDS,You need more cards to upgrade this avatar!,x
+FT_AVATAR_UPGRADE_WITHOUT_MONEY,You need more coins to upgrade this avatar!,x
+FT_SOMETHINGWENTWRONG,No network connection!,x
+FT_PLAY_WITHOUT_BALL,You don't have more uses of this ball.,x
+FT_LIVES_NOT_ENOUGH_LIVES,No more lives available. ,x
+FT_NOT_ENOUGHT_HC,As in life: not enough dollars to do it.,
+FT_CANT_CLAIM_PVE_CHEST,This chest requires more stars to open. Collect them.,x
+FT_MAX_LEVEL_AVATAR_UPGRADE,Avatar is fully upgraded!,x
+FT_PURCHASE_SUCCEEDED,"Click, click and purchase succeeded! This is our store!",
+FT_SKILL_NOT_READY,Wait! You can't use your skill right now! ,x
+FT_REWARD_CLAIMED,"Well, you're richer. The next reward will be available soon!",
+FT_FAILED_TO_WATCH_AD,There was a problem loading an ad.,
+FT_CANT_USE_THIS_BOOSTER,Only one booster is available on this mission!,x
+FT_AVATAR_NOT_DROPABLE,Coming soon,
+FT_FTUE_BOOSTER_NOTAVAILABLE,This booster is not available in this mission,
+FT_CHALLENGE_IS_PENDING,You have challenged {0}. Let's wait for a response first.,

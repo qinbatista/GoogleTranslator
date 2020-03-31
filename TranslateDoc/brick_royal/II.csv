@@ -1,0 +1,54 @@
+TUTORIAL_WELCOME,Hello Citizen!
+TUTORIAL_WELCOME_1,Let's make your day great again.
+TUTORIAL_DRAG_THE_SLIDER,"Drag the Slider to aim, release to shoot"
+TUTORIAL_SLINGSHOT,"Or drag from center of the screen to bottom, to use slingshot"
+TUTORIAL_LETS_TRY_AGAIN,Let's try again...
+TUTORIAL_BALL_STOPS,The ball stops if it hits our Gate.
+TUTORIAL_EXCELLENT_SHOT,Excellent shoot! Good job!
+TUTORIAL_FAIL,Let’s go to the next step. You can always practice this later.
+TUTORIAL_ROYAL_AVATAR,I'm your currently selected Avatar
+TUTORIAL_ROYAL_AVATAR_1,"But don't worry, you can change it later"
+TUTORIAL_ROYAL_FREE_CHEST,Free stuff comes from here
+TUTORIAL_ROYAL_MULTI,Play with some guys
+TUTORIAL_ROYAL_SINGLE,Or play without the guys
+TUTORIAL_ROYAL_BOTTOM_BAR,There's more stuff you can check out later
+TUTORIAL_LEADERBOARDS,Leaderboards
+TUTORIAL_FRIENDS,Friends
+TUTORIAL_MAIN VIEW,Main view
+TUTORIAL_SHOP,Shop
+TUTORIAL_INVENTORY,Inventory
+TUTORIAL_ROYAL_FORCE_MULTI,But now let's play again!
+TUTORIAL_RED_BRICKS,My red bricks are about to destroy you
+TUTORIAL_BLUE_BRICKS,No if my blue bricks will beat them
+TUTORIAL_LETS_HIT_RED,Let's make an exception and break some wall this time
+TUTORIAL_HP_BAR,This is our health
+TUTORIAL_HP_BAR_1,You can take it out by shooting and destroying bricks
+TUTORIAL_HP_BAR_2,Your bricks can also hurt me by reaching here
+TUTORIAL_HP_BAR_3,"The one, who loses his health first..."
+TUTORIAL_HP_BAR_4,"...well, in this match gets second place.
+
+There are only two places btw."
+TUTORIAL_PLUS_BALL,You can get additional ball by hitting this element
+TUTORIAL_PLUS_BALL_1,"Now you have more balls.
+
+Don't worry, it's actually something good."
+TUTORIAL_COLLIDE,"If our bricks collide, the toughest bricks wins."
+TUTORIAL_COLLIDE_1,But it does not affect our health
+TUTORIAL_SPECIAL_SKILL,Great! Our special skill has been charged. Check this out!
+TUTORIAL_SPECIAL_SKILL_1,Keep shooting the bricks to charge your special skill
+TUTORIAL_PLAYER_WIN,Looks like I'm done for today
+TUTORIAL_PLAYER_WIN_1,Yeah! That's what happen when you mess with a wrong cowboy
+TUTORIAL_PLAYER_LOSES,"Well, we'll make great again next time"
+TUTORIAL_PLAYER_LOSES_1,We'll see about that
+TUTORIAL_LETS_PLAY_AGAIN,Let's play again with a better ball
+TUTORIAL_LETS_PLAY_AGAIN_1,Now you have better balls for the next 3 games
+TUTORIAL_BALL_HP,Higher HP means the ball can bounce longer
+TUTORIAL_BALL_STARTING_BALLS,Here is the number of balls on start
+TUTORIAL_BALL_GUIDELINE,This is the lenght of aiming line
+TUTORIAL_BALL_PURCHASE,When you run out of balls you can always buy more
+TUTORIAL_BALL_PURCHASE_1,Purchase additional balls
+TUTORIAL_NEW_AVATAR_HP,These are health points of this Avatar
+TUTORIAL_NEW_AVATAR_ADDITIONAL_BALLS,This is the number of additional balls
+TUTORIAL_NEW_AVATAR_SKILL,This is special skill description
+TUTORIAL_NEW_AVATAR_HI,Hi there
+TUTORIAL_NEW_ARENA,Here you can get more coins and more trophies

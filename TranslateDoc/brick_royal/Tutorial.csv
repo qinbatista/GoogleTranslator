@@ -1,0 +1,41 @@
+TUTORIAL_PVP_ENEMY_BLOCKS,Attack red bricks
+TUTORIAL_PVP_FRIENDLY_BLOCKS,Blue bricks are yours
+TUTORIAL_PVP_ADDITIONAL_BALLS,Collect additional balls
+TUTORIAL_PVP_DAMAGE_AVATAR,Bricks can damage the avatar! Damage dealt is equal to brick HP.
+TUTORIAL_PVP_SKILL,Use the skill of your avatar to help you in battle!
+TUTORIAL_PVP_TAP_TO_CONTINUE,Tap to continue
+TUTORIAL_PVP_SHOOTING_BRICK,This brick shoots at enemy opponent every turn!
+TUTORIAL_PVP_READY,You are now ready!
+TUTORIAL_UI_UNLOCKCHEST,Tap on the chest
+TUTORIAL_UI_STARTOPENINGCHEST_TIMER,Opening time
+TUTORIAL_UI_STARTOPENINGCHEST_CONTENT,Possible content inside
+TUTORIAL_UI_STARTOPENINGCHEST_BUTTON,Press here to start opening the chest!
+TUTORIAL_UI_OPENCHEST,Tap to open!
+TUTORIAL_UI_MAINMENU_FREECHEST,Get a free chest every 12h!
+TUTORIAL_UI_MAINMENU_AVATAR,Your currently selected avatar
+TUTORIAL_UI_MAINMENU_BRICKCHEST,Destroy bricks every day to receive a reward
+TUTORIAL_UI_MAINMENU_MULTIPLAYER,Play with others
+TUTORIAL_UI_MAINMENU_SINGLEPLAYER,Try a challenge
+TUTORIAL_UI_MAINMENU_LEADERBOARDS,Leaderboards
+TUTORIAL_UI_MAINMENU_FRIENDS,Friends
+TUTORIAL_UI_MAINMENU_MAINVIEW,Main View
+TUTORIAL_UI_MAINMENU_SHOP,Shop
+TUTORIAL_UI_MAINMENU_INVENTORY,Inventory
+TUTORIAL_UI_AVATARUPGRADE_VISIT,You can now upgrade me! Visit the Inventory tab
+TUTORIAL_UI_AVATARUPGRADE_LETSPLAY,Let's play again!
+TUTORIAL_BUBBLE_WELCOME,Welcome to Brick Royale!
+TUTORIAL_BUBBLE_BLUEBRICKS,Blue bricks belong to us!
+TUTORIAL_BUBBLE_REDBRICKS,Red bricks are mine!
+TUTORIAL_BUBBLE_SLIDER,Use the slider to aim.
+TUTORIAL_BUBBLE_SHOOTBRICKS,You can shoot through blue bricks.
+TUTORIAL_BUBBLE_NICESHOT,Nice shot! But it's my turn now...
+TUTORIAL_BUBBLE_PLAYERSKILLREADY,My skill is ready! Use it for our advantage!
+TUTORIAL_BUBBLE_ENEMYSKILLREADY,"Too bad, my skill is ready too!"
+TUTORIAL_BUBBLE_WEWILLWIN,We will win if our bricks reach his base!
+TUTORIAL_BUBBLE_BRICKSCRASH,Our bricks are going to clash!
+TUTORIAL_BUBBLE_SUDDENDEATHPLAYER,Sudden Death! We need to finish him quick!
+TUTORIAL_BUBBLE_SUDDENDEATHENEMY,Or maybe I'll finish you!
+TUTORIAL_BUBBLE_VICTORY,VICTORY! His HP reached 0!
+TUTORIAL_BUBBLE_AIMANDRELEASE,Aim at the RED BRICKS and release.
+TUTORIAL_BUBBLE_WEWONCHEST,We won a chest!
+TUTORIAL_BUBBLE_CANTPLAY,Can't play right now!
