@@ -242,7 +242,7 @@ class GoogleTranslator:
             # modified_text = translated_string.replace('>>>',using_symble)
             for index, replace_string in enumerate(replaced_list):
                 translated_string = translated_string.replace(replaced_list[index], symble_list[index])
-        print(f'[{key}]->[{translated_string}]')
+        print(f'{key}->{translated_string}')
         return translated_string
 
     def xml_doc(self,_path):
@@ -420,7 +420,18 @@ class GoogleTranslator:
                 wb.save()
                 wb.close()
                 app.quit()
-
+    def brick_royal(self,_path):
+        print("Translate txt Started:"+_path)
+        new_content = []
+        with open(_path, 'r', encoding='utf-8') as f:
+            contents = f.readlines()
+            for content in contents:
+                translating_text = content[content.find(",")+1:]
+                if translating_text!="":
+                    new_content.append(content.replace(translating_text,self.translate(translating_text))+"\n")
+                time.sleep(1)
+        with open(_path+"."+self.target, 'w', encoding='utf-8') as f:
+            f.writelines(new_content)
 
 
 if __name__ == '__main__':
@@ -429,8 +440,22 @@ if __name__ == '__main__':
     parser.add_argument('-target','--t'  , type = str, default = 'zh-CN',    help = 'target text,  中文:zh-CN, 英语:en, 繁体中文台湾:zh_TW, 繁体中文香港:zh_HK, 繁体中文新加坡:zh_HK, 俄语:ru, 日语:ja, 德语:de, 法语:fr, 韩语:ko, 泰语:th, 意大利语言:it')
     args = parser.parse_args()
     gt = GoogleTranslator(oringal= args.o, target=args.t)
-    # print(gt.translate(f"MISTER DOPEY!¦$clubname player $playername has received a $banlength match ban after testing positive for performance enhancing drugs! #BAN"))
-    gt.excel_manager_new_star('./Manager Translation Package 16680 INCLUDING CONVERTER_translated_V5.xlsx')
+    mylist = os.listdir('./TranslateDoc/brick_royal')
+    for file_name in mylist:
+        print(file_name)
+        if file_name!=".DS_Store":
+            gt.brick_royal('./TranslateDoc/brick_royal/'+file_name)
+
+
+
+    #newstarmanager
+    # parser = argparse.ArgumentParser()
+    # parser.add_argument('-orgin', '--o'  , type = str, default = 'en', help = 'orginal text, 中文:zh-CN, 英语:en, 繁体中文台湾:zh_TW, 繁体中文香港:zh_HK, 繁体中文新加坡:zh_HK, 俄语:ru, 日语:ja, 德语:de, 法语:fr, 韩语:ko, 泰语:th, 意大利语言:it')
+    # parser.add_argument('-target','--t'  , type = str, default = 'zh-CN',    help = 'target text,  中文:zh-CN, 英语:en, 繁体中文台湾:zh_TW, 繁体中文香港:zh_HK, 繁体中文新加坡:zh_HK, 俄语:ru, 日语:ja, 德语:de, 法语:fr, 韩语:ko, 泰语:th, 意大利语言:it')
+    # args = parser.parse_args()
+    # gt = GoogleTranslator(oringal= args.o, target=args.t)
+    # # print(gt.translate(f"MISTER DOPEY!¦$clubname player $playername has received a $banlength match ban after testing positive for performance enhancing drugs! #BAN"))
+    # gt.excel_manager_new_star('./Manager Translation Package 16680 INCLUDING CONVERTER_translated_V5.xlsx')
 
 
 

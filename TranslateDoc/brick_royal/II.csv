@@ -25,13 +25,9 @@ TUTORIAL_HP_BAR,This is our health
 TUTORIAL_HP_BAR_1,You can take it out by shooting and destroying bricks
 TUTORIAL_HP_BAR_2,Your bricks can also hurt me by reaching here
 TUTORIAL_HP_BAR_3,"The one, who loses his health first..."
-TUTORIAL_HP_BAR_4,"...well, in this match gets second place.
-
-There are only two places btw."
+TUTORIAL_HP_BAR_4,"...well, in this match gets second place.There are only two places btw."
 TUTORIAL_PLUS_BALL,You can get additional ball by hitting this element
-TUTORIAL_PLUS_BALL_1,"Now you have more balls.
-
-Don't worry, it's actually something good."
+TUTORIAL_PLUS_BALL_1,"Now you have more balls.Don't worry, it's actually something good."
 TUTORIAL_COLLIDE,"If our bricks collide, the toughest bricks wins."
 TUTORIAL_COLLIDE_1,But it does not affect our health
 TUTORIAL_SPECIAL_SKILL,Great! Our special skill has been charged. Check this out!
