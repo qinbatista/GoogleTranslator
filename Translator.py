@@ -432,19 +432,44 @@ class GoogleTranslator:
                 time.sleep(1)
         with open(_path+"."+self.target, 'w', encoding='utf-8') as f:
             f.writelines(new_content)
+def comparefiles(_path1, _path2):
+    _path1_content = []
+    _path2_content = []
+    with open(_path1, 'r', encoding='utf-8') as f:
+        _path1_content = f.readlines()
+    with open(_path2, 'r', encoding='utf-8') as f:
+        _path2_content = f.readlines()
 
-
+    for thisindex , content1 in enumerate(_path1_content):
+        content1_first_symbol_position = content1.find("\"")
+        content1_next_symbol_position = content1.find("\"",content1_first_symbol_position+1)
+        content1_keyword = content1[content1_first_symbol_position+1:content1_next_symbol_position]
+        if content1_keyword=="":continue
+        for index, content2 in enumerate(_path2_content):
+            content2_first_symbol_position = content2.find("\"")
+            content2_next_symbol_position = content2.find("\"",content2_first_symbol_position+1)
+            content2_keyword = content2[content2_first_symbol_position+1:content2_next_symbol_position]
+            if content1_keyword == content2_keyword:
+                # print("found:"+content1_keyword)
+                break
+            # if index==len(_path2_content):
+            # print("index="+str(index))
+            # print("index="+str(index))
+            # print("_path2_content="+str(len(_path2_content)))
+            if index+1==len(_path2_content) and content1_keyword != content2_keyword:
+                print("Missing["+str(thisindex)+"]:"+content1_keyword)
 if __name__ == '__main__':
-    parser = argparse.ArgumentParser()
-    parser.add_argument('-orgin', '--o'  , type = str, default = 'en', help = 'orginal text, 中文:zh-CN, 英语:en, 繁体中文台湾:zh_TW, 繁体中文香港:zh_HK, 繁体中文新加坡:zh_HK, 俄语:ru, 日语:ja, 德语:de, 法语:fr, 韩语:ko, 泰语:th, 意大利语言:it')
-    parser.add_argument('-target','--t'  , type = str, default = 'zh-CN',    help = 'target text,  中文:zh-CN, 英语:en, 繁体中文台湾:zh_TW, 繁体中文香港:zh_HK, 繁体中文新加坡:zh_HK, 俄语:ru, 日语:ja, 德语:de, 法语:fr, 韩语:ko, 泰语:th, 意大利语言:it')
-    args = parser.parse_args()
-    gt = GoogleTranslator(oringal= args.o, target=args.t)
-    mylist = os.listdir('./TranslateDoc/brick_royal')
-    for file_name in mylist:
-        print(file_name)
-        if file_name!=".DS_Store":
-            gt.brick_royal('./TranslateDoc/brick_royal/'+file_name)
+    comparefiles("/Users/batista/Desktop/English.txt", "/Users/batista/Desktop/chinese.txt")
+    # parser = argparse.ArgumentParser()
+    # parser.add_argument('-orgin', '--o'  , type = str, default = 'en', help = 'orginal text, 中文:zh-CN, 英语:en, 繁体中文台湾:zh_TW, 繁体中文香港:zh_HK, 繁体中文新加坡:zh_HK, 俄语:ru, 日语:ja, 德语:de, 法语:fr, 韩语:ko, 泰语:th, 意大利语言:it')
+    # parser.add_argument('-target','--t'  , type = str, default = 'zh-CN',    help = 'target text,  中文:zh-CN, 英语:en, 繁体中文台湾:zh_TW, 繁体中文香港:zh_HK, 繁体中文新加坡:zh_HK, 俄语:ru, 日语:ja, 德语:de, 法语:fr, 韩语:ko, 泰语:th, 意大利语言:it')
+    # args = parser.parse_args()
+    # gt = GoogleTranslator(oringal= args.o, target=args.t)
+    # mylist = os.listdir('./TranslateDoc/brick_royal')
+    # for file_name in mylist:
+    #     print(file_name)
+    #     if file_name!=".DS_Store":
+    #         gt.brick_royal('./TranslateDoc/brick_royal/'+file_name)
 
 
 
